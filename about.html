@@ -1,0 +1,74 @@
+<html>
+<head>
+    <title>Personal Website</title>
+    <link rel="stylesheet" type="text/css" href="assets/styles/about.css">
+    <link href="http://fonts.cdnfonts.com/css/skia" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/eec6f5bebf.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="content">
+        <div class="navbar">
+            <img id="logo" src="assets/img/logo.jpg">
+            <img id="dot" src="assets/img/dot.jpg">
+            <div class="navbar-text">
+                <!-- <p id="journey">Journey</p> -->
+                <a class="navbutton" id="journey" href="index.html">Journey</a>
+                <a class="navbutton" id="portfolio" href="assets/pdf/Xuanyi Zhang Portfolio 2021.4.pdf">Portfolio</a>
+                <a class="navbutton" id="about" href="about.html">About</a>
+            </div>
+        </div>
+        <div class="info">
+            <div class="pic">
+           
+                <img id="mypic" src="assets/img/Screen Shot 2021-04-27 at 01.13.26.png">
+                
+                
+            </div>
+            <div>
+                <h1 id="type"></h1>
+            </div>
+        </div>
+        <div class="media">
+            <a id="facebook" href="https://www.facebook.com/profile.php?id=100027945016513" class="fab fa-facebook-f"></a>
+            <a id="instagram" href="https://www.instagram.com/xuanyichang/" class="fab fa-instagram"></a>
+            <a id="gmail" href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=xuanyizhangc@gmail.com&tf=1" class="fas fa-at"></a>
+            <a id="linkedin" href="https://www.linkedin.com/in/samxuanyizhang/" class="fab fa-linkedin-in"></a>
+        
+        </div>
+    
+        
+    </div>
+</body>
+<script src="assets/js/script.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typeit/5.0.2/typeit.min.js"></script>
+    <script>
+        $(function () {
+            new TypeIt('#type', {
+                speed: 55,
+                loop: true
+            })
+                .pause(800)
+                .type('Hi, This is Xuanyi')
+                .pause(800)
+                .break()
+
+                .pause(800)
+                .type('You can call me Sam')
+                .pause(800)
+                .delete(19)
+                .type('I study Architecture')
+                .pause(800)
+                .delete(20)
+                .type('In this journey, J <em>’aime beaucoup les sports et la musique')
+                .pause(800)
+                .delete(58)
+                .type('如果你也是！')
+                .pause(800)
+                .delete(6)
+                .type('Love to connect ：）')
+                .pause(1500)
+                
+        });
+    </script>
+</html>

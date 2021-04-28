@@ -1,0 +1,103 @@
+p{
+    font-family: 'Skia', sans-serif;
+}
+
+#content{
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    height:100%;
+
+}
+.navbar {
+    padding-top: 2%; 
+    padding-left: 12%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+#logo{
+    width:3%;
+    padding-right: 2%;
+}
+#dot{
+    width:1.5%;
+    padding-right:2%;
+}
+.navbutton{
+    text-decoration: none;
+    font-family: 'Skia', sans-serif;
+    color:gray;
+}
+.navbutton:hover {
+    color:black;
+    cursor: pointer;
+}
+
+.navbar-text{
+    display:flex;
+    flex-direction: column;
+}
+
+#journey{
+    margin:0px;
+    padding-bottom: 5px;
+}
+#portfolio{
+    padding-bottom: 5px;
+}
+#about{
+    color: black;
+}
+.pic{
+    margin-top: 10%;
+}
+    #mypic{
+        padding-left: 25%;
+        width: 30%;
+    }
+    #type{
+        font-family: 'Skia', sans-serif;
+    }
+    /* #mypic {
+        position:relative;
+        margin-left: 20%;
+    
+    } */
+    
+    #type {
+        position: absolute;
+        width: 40%;
+        height: 200px;
+        margin-left: 65%;
+        margin-top: 20%;
+        top: 150px;
+        display: inline-block;
+        font-family: 'Skia', sans-serif;
+    }
+    .media{
+        margin: 10% 2%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    a{
+        text-decoration: none;
+    }
+    #facebook{
+        color:black;
+        padding-left: 30%;
+    }
+    #linkedin{
+        color:black;
+        padding-left: 5%;
+    }
+    #instagram{
+        color:black;
+        padding-left: 5%;
+    }
+    #gmail{
+        color:black;
+        padding-left: 5%;
+    }

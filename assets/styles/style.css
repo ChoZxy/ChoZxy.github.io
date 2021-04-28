@@ -1,0 +1,225 @@
+p{
+    font-family: 'Skia', sans-serif;}
+.caption{
+    font-family: 'Skia', sans-serif;
+}
+#loading-gif{
+    width: 100%;
+    position:relative;
+    z-index: -1;
+}
+
+#loading{
+    animation: disappear 0s linear 4.8s forwards,
+    fade 4.8s;
+}
+#content{
+    position: absolute;
+    left: 0px;
+    top: 10px;
+    height:100%;
+    animation: fadeIn 3s linear 0s forwards;
+    visibility: hidden;
+}
+.navbar {
+    padding-top: 2%; 
+    padding-left: 12%;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+#logo{
+    width:3%;
+    padding-right: 2%;
+}
+#dot{
+    width:1.5%;
+    padding-right:2%;
+}
+.navbutton{
+    text-decoration: none;
+    font-family: 'Skia', sans-serif;
+    color:gray;
+}
+.navbutton:hover {
+    color:black;
+    cursor: pointer;
+}
+
+.navbar-text{
+    display:flex;
+    flex-direction: column;
+}
+
+#journey{
+    margin:0px;
+    color:black;
+    padding-bottom: 5px;
+}
+#portfolio{
+    padding-bottom: 5px;
+}
+
+.journeymap{
+    position:relative;
+}
+#journeywhole{
+    width: 76%;
+    padding-left: 12%;
+    margin:0px;
+}
+.color{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width:76%;
+    padding-left:12%;
+    opacity: 0;
+}
+.placeholder{
+    position: absolute;
+    opacity:0;
+    
+}
+#placeholder1{
+    left:13%;
+    top: 40%;
+    width: 15%;
+    height:30%;
+}
+#placeholder2{
+    left:30%;
+    top: 40%;
+    width:10%;
+    height:27%;
+}
+#placeholder3{
+    left:42%;
+    top: 20%;
+    width:14%;
+    height:55%;
+}
+#placeholder4{
+    left:60%;
+    top: 25%;
+    width:10%;
+    height:23%;
+}
+#placeholder5{
+    left:75%;
+    top: 2%;
+    width:13%;
+    height:40%;
+}
+
+#default{
+    z-index: 1;
+}
+/* #content{
+    display: flex;
+    flex-direction: column;
+
+} */
+
+@keyframes fade{
+    0%{
+        opacity:1;
+    }
+    100%{
+        opacity:0;
+    }
+}
+/* for the loading gif */
+@keyframes disappear {
+    to {opacity:0;}
+}
+/* for the loading gif */
+@keyframes fadeIn {
+    99% {
+      visibility: hidden;
+    }
+    100% {
+      visibility: visible;
+    }
+  }
+/* for the content page */
+
+.hidden {
+    display: none;
+}
+#lightbox-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+.lightbox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+}
+.lightbox img {
+    width: 100%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.lightbox .caption {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 20px;
+    background: white;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+#mypic{
+    padding-left: 12%;
+    width: 30%;
+}
+#type{
+    font-family: 'Skia', sans-serif;
+}
+#mypic {
+    position:relative;
+	margin-left: 20%;
+	top: 40px;
+}
+
+#type {
+    position: absolute;
+	width: 46%;
+	height: 200px;
+	margin-left: 70%;
+    margin-top: 15%;
+	top: 150px;
+	display: inline-block;
+}
+.media{
+    margin: 10% 2% auto auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+#facebook{
+    color:black;
+    padding-left: 35%;
+}
+#linkedin{
+    color:black;
+    padding-left: 5%;
+}
+#instagram{
+    color:black;
+    padding-left: 5%;
+}
+#gmail{
+    color:black;
+    padding-left: 5%;
+}
