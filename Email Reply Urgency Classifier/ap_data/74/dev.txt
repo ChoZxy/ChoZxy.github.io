@@ -1,0 +1,346 @@
+30763.1	B-Exposition	" In New York City, Japanese industrialist Raizo Yamata purchases a controlling interest in an American hedge fund."
+30763.2	B-Exposition	He flies to Saipan&nbsp;— the site of his parents' suicide during the American invasion of the island at the close of World War II&nbsp;— to buy a large tract of land.
+30763.3	B-Exposition	"Meanwhile, in eastern Tennessee, a car accident involving two Japanese vehicles leads to the deaths of six people."
+30763.4	I-Exposition	Revelations about the vehicles' fatal design flaws stir long-standing resentment against Japan's protectionist trade policies.
+30763.5	I-Exposition	"As trade negotiations between the United States and Japan grind to a halt, Congress passes a law enabling the U.S. to mirror the trade practices of the countries from which it imports goods."
+30763.6	I-Exposition	"The bill is immediately used to replicate Japan's non-tariff barriers, cutting off the U.S. export markets upon which the Japanese economy depends."
+30763.7	B-Inciting Incident	"Facing an economic crisis, Japan's ruling corporate cabal decides to take military action against the U.S."
+30763.8	I-Inciting Incident	"Along with China and India, Japan plots to curtail the American presence in the Pacific and re-establish the Greater East Asia Co-Prosperity Sphere."
+30763.9	B-Rising Action	"In the wake of these developments, Jack Ryan is recruited as National Security Advisor by President Roger Durling."
+30763.10	B-Rising Action	"Meanwhile, CIA officers John Clark and Domingo Chavez are sent to Japan to reactivate a former KGB spy network in order to gain intelligence."
+30763.11	B-Rising Action	"Japan launches the first phase of its assault, sending Self-Defense Force units to occupy the Mariana Islands, specifically Saipan and Guam."
+30763.12	I-Rising Action	"The invasion, conducted with commercial airliners and car carriers, is virtually bloodless."
+30763.13	B-Rising Action	"Meanwhile, during a joint military exercise, Japanese ships ""accidentally"" launch torpedoes at the U.S. Pacific Fleet, destroying two submarines and crippling two aircraft carriers."
+30763.14	I-Rising Action	This drastically reduces the U.S. capability to project power into the western Pacific.
+30763.15	B-Rising Action	An immediate retaliation is forestalled by the second phase of the Japanese offensive: an economic attack.
+30763.16	B-Rising Action	"Even as the military offensive begins, Japan engineers the collapse of the U.S. stock market by hiring a programmer in an exchange firm to insert a logic bomb into the system, which ends up deleting all trade records."
+30763.17	B-Rising Action	"The Japanese also attempt to assassinate the chairman of the Federal Reserve, but their target survives the attempt with a broken back."
+30763.18	I-Rising Action	"With a massive economic crisis and subsequent mass panic, the Japanese hope that America will be too distracted to quickly respond to Japan's military actions."
+30763.19	B-Rising Action	"Japan immediately sues for peace, offering international talks and seemingly free elections in the Marianas to delay a U.S. response."
+30763.20	B-Climax	Negotiators secretly reveal to the U.S. that Japan has obtained nuclear ballistic missile capability.
+30763.21	I-Climax	"The Japanese oligarchs, led by Yamata, believe that offers of negotiation and the nuclear deterrent, defended by a seemingly impregnable AWACS system, will cause the U.S. to concede Japan's advantage."
+30763.22	I-Climax	"With two of America's twelve carriers disabled, and the rest pinned down by international crises elsewhere, Ryan has few resources with which to defend American interests."
+30763.23	B-Falling Action	"Despite his typical focus on military issues, Ryan advises President Durling to deal with the economic crisis first."
+30763.24	B-Falling Action	Ryan also realizes that Japan's deletion of trade records could be an advantage in responding to the economic threat.
+30763.25	I-Falling Action	"He engineers a ""do-over"", where all of the transactions on the day of the mass deletion are ignored and all assets are restored to their state at the start of business that day."
+30763.26	I-Falling Action	"Accompanied by a presidential address to the nation and behind-the-scenes bullying of investment banks, the plan is a success: America's economy is restored with only minor disruption."
+30763.27	B-Falling Action	"Ryan eliminates Japan's AWACS system through a series of ""accidents"" using widely dispersed U.S. assets, allowing B-2 bombers to destroy the silos."
+30763.28	B-Falling Action	Clark and Chavez blind incoming Japanese pilots with a laser and cause them to crash on landing and rescue Japan's moderate former prime minister.
+30763.29	B-Falling Action	An Army special operations team is airdropped into Japan to support Comanche helicopters in attacking the other AWACS planes and kill members of Yamata's cabal.
+30763.30	B-Falling Action	"Meanwhile, Admiral Robby Jackson liberates the Marianas with little bloodshed."
+30763.31	B-Falling Action	"Cornered, Japan's current prime minister resigns, ceding power to his predecessor."
+30763.32	I-Falling Action	"Yamata is arrested, and the new Japanese government accepts America's generous offer of status quo ante."
+30763.33	B-Falling Action	"Throughout the book, President Durling faces another, less important political crisis: Vice-President Ed Kealty is forced to resign after being accused of drugging and raping a former member of his staff."
+30763.34	B-Resolution	"With the crisis over, President Durling nominates Ryan as vice-president during a joint session of Congress."
+30763.35	B-Resolution	"However, an embittered Japan Air Lines pilot—driven mad by the deaths of his son and brother during the previous conflict—flies his Boeing 747 directly into the U.S. Capitol."
+30763.36	I-Resolution	"Nearly the entire presidential line of succession is eliminated; Ryan, who had just been confirmed as vice-president moments before, narrowly escapes the attack and is immediately sworn in as president."
+
+37373.1	O	" The poem is separated into twelve ""books"" or sections, and the lengths of each book varies greatly (the longest being Book IX, with 1,189 lines, and the shortest Book VII, having 640)."
+37373.2	O	The Arguments at the head of each book were added in subsequent imprints of the first edition.
+37373.3	O	"Originally published in ten books, in 1674 a fully ""Revised and Augmented"" edition with a new division into twelve books was issued."
+37373.4	O	This is the edition that is generally used today.
+37373.5	O	"The poem follows the epic tradition of starting in medias res (Latin for in the midst of things), the background story being recounted later."
+37373.6	O	Milton's story has two narrative arcs: one being that of Satan (Lucifer) and the other being that of Adam and Eve.
+37373.7	B-Exposition	"It begins after Satan and the other rebel angels have been defeated and banished to Hell, or (as it is also called in the poem), Tartarus."
+37373.8	B-Exposition	"In Pandæmonium, Satan employs his rhetorical skill to organise his followers; he is aided by Mammon and Beelzebub."
+37373.9	I-Exposition	Belial and Moloch are also present.
+37373.10	I-Exposition	"At the end of the debate, Satan volunteers to poison the newly-created Earth and God's new and most favoured creation, Mankind."
+37373.11	B-Exposition	He braves the dangers of the Abyss alone in a manner reminiscent of Odysseus or Aeneas.
+37373.12	B-Exposition	"After an arduous traverse of the Chaos outside Hell, he enters God's new material World, and later the Garden of Eden."
+37373.13	B-Exposition	"At one point in the story, the Angelic War over Heaven is recounted."
+37373.14	I-Exposition	Satan's rebellion follows the epic convention of large-scale warfare.
+37373.15	I-Exposition	The battles between the faithful angels and Satan's forces take place over three days.
+37373.16	I-Exposition	The final battle involves the Son of God single-handedly defeating the entire legion of angelic rebels and banishing them from Heaven.
+37373.17	B-Inciting Incident	"Following the purging of Heaven, God creates the World, culminating in his creation of Adam and Eve."
+37373.18	I-Inciting Incident	"While God gave Adam and Eve total freedom and power to rule over all creation, He gave them one explicit command: not to eat from the Tree of the knowledge of good and evil on penalty of death."
+37373.19	O	"The story of Adam and Eve's temptation and fall is a fundamentally different, new kind of epic: a domestic one."
+37373.20	O	Adam and Eve are presented for the first time in Christian literature as having a full relationship while still being without sin.
+37373.21	O	They have passions and distinct personalities.
+37373.22	B-Rising Action	"Satan, disguised in the form of a serpent, successfully tempts Eve to eat from the Tree by preying on her vanity and tricking her with rhetoric."
+37373.23	B-Rising Action	"Adam, learning that Eve has sinned, knowingly commits the same sin."
+37373.24	I-Rising Action	"He declares to Eve that since she was made from his flesh, they are bound to one another so that if she dies, he must also die."
+37373.25	I-Rising Action	"In this manner, Milton portrays Adam as a heroic figure, but also as a greater sinner than Eve, as he is aware that what he is doing is wrong."
+37373.26	B-Rising Action	"After eating the fruit, Adam and Eve have lustful sex, and at first, Adam is convinced that Eve was right in thinking that eating the fruit would be beneficial."
+37373.27	B-Falling Action	"However, they soon fall asleep and have terrible nightmares, and after they awake, they experience guilt and shame for the first time."
+37373.28	I-Falling Action	"Realizing that they have committed a terrible act against God, they engage in mutual recrimination."
+37373.29	I-Falling Action	Eve's pleas to Adam reconcile them somewhat.
+37373.30	B-Falling Action	"Her encouragement enables Adam and Eve both to approach God, to ""bow and sue for grace with suppliant knee"", and to receive grace from God."
+37373.31	B-Falling Action	"Adam is shown a vision by the angel Michael, in which Adam witnesses everything that will happen to mankind until the Great Flood."
+37373.32	I-Falling Action	"Adam is very upset by this vision of humankind's future, and so Michael also tells him about humankind's potential redemption from original sin through Jesus Christ (whom Michael calls ""King Messiah"")."
+37373.33	B-Resolution	"Adam and Eve are cast out of Eden, and Michael says that Adam may find ""a paradise within thee, happier far""."
+37373.34	I-Resolution	"Adam and Eve also now have a more distant relationship with God, who is omnipresent but invisible (unlike the tangible Father in the Garden of Eden)."
+
+234527.1	B-Exposition	" Equality 7-2521, writing in a tunnel under the earth, later revealed to be an ancient subway tunnel, explains his background, the society around him, and his emigration."
+234527.2	I-Exposition	"His exclusive use of plural pronouns (""we"", ""our"", ""they"") to refer to himself and others tells a tale of complete socialization and governmental control."
+234527.3	B-Exposition	The idea of the World Council was to eliminate all individualist ideas.
+234527.4	I-Exposition	"It was so stressed, that people were burned at the stake for saying an Unspeakable Word (""I"", ""Me"", ""Myself"", and ""Ego"")."
+234527.5	I-Exposition	He recounts his early life.
+234527.6	I-Exposition	"He was raised, like all children in the world of Anthem, away from his parents in the Home of the Infants, then transferred to the Home of the Students, where he began his schooling."
+234527.7	B-Inciting Incident	"Later, he realized that he was born with a ""curse"": He is eager to think and question, and unwilling to give up himself for others, which violates the principles upon which Anthems society is founded."
+234527.8	I-Inciting Incident	"He excelled in math and science, and dreamed of becoming a Scholar."
+234527.9	B-Rising Action	"However, a Council of Vocations assigned all people to their jobs, and he was assigned to the Home of the Street Sweepers."
+234527.10	I-Rising Action	Equality accepts his profession willingly in order to repent for his transgression (his desire to learn).
+234527.11	B-Rising Action	"He works with International 4-8818 and Union 5-3992. International is exceptionally tall, a great artist (which is his transgression, as only people chosen to be artists may draw), and Equality's only friend (having a friend also being a crime because, in Anthems society, one is not supposed to prefer one of one's brothers over the rest)."
+234527.12	I-Rising Action	"Union, ""they of the half-brain,"" suffers from some sort of neurological seizures."
+234527.13	I-Rising Action	"However, Equality remains curious."
+234527.14	B-Rising Action	"One day, he finds the entrance to a subway tunnel in his assigned work area and explores it, despite International 4-8818's protests that an action unauthorized by a Council is forbidden."
+234527.15	I-Rising Action	"Equality realizes that the tunnel is left over from the Unmentionable Times, before the creation of Anthems society, and is curious about it."
+234527.16	I-Rising Action	"During the daily three hour-long play, he leaves the rest of the community at the theater and enters the tunnel and undertakes scientific experiments."
+234527.17	B-Rising Action	"Working outside the City one day, by a field, Equality meets and falls in love with a woman, Liberty 5-3000, whom he names ""The Golden One."""
+234527.18	I-Rising Action	"Liberty 5-3000 names Equality ""The Unconquered""."
+234527.19	B-Rising Action	"Continuing his scientific work, Equality rediscovers electricity (which he, until the book nears its conclusion, calls the ""power of the sky"") and the light bulb."
+234527.20	I-Rising Action	"He makes a decision to take his inventions to the World Council of Scholars when they arrive in his town in a few days' time, so that they will recognize his talent and allow him to work with them, as well as to make what he sees as a valuable contribution to his fellow men."
+234527.21	B-Rising Action	"However, one night he loses track of time in the underground tunnel and his absence from the Home of the Street Sweepers is noticed."
+234527.22	B-Rising Action	"When he refuses to say where he has been, he is arrested and sent to the Palace of Corrective Detention, from which he easily escapes after being tortured."
+234527.23	B-Climax	"The day after his escape, he walks in on the World Council of Scholars and presents his work to them."
+234527.24	I-Climax	"Horrified, they reject it because it was not authorized by a Council and threatens to upset the equilibrium of their world."
+234527.25	B-Climax	"When they try to destroy his invention, he takes it and flees into the Uncharted Forest which lies outside the City."
+234527.26	B-Falling Action	"Upon entering the Uncharted Forest, Equality begins to realize that he is free, that he no longer must wake up every morning with his brothers to sweep the streets."
+234527.27	I-Falling Action	"Since it was illegal for men of the City to enter or even think of the Forest, he was not pursued once he crossed its threshold."
+234527.28	I-Falling Action	"He can ""rise, or run, or leap, or fall down again."""
+234527.29	I-Falling Action	"Now that he sees this, he is not stricken with the sense that he will die at the fangs of the beasts of the forest as a result of his transgressions."
+234527.30	I-Falling Action	He develops a new understanding of the world and his place in it.
+234527.31	B-Falling Action	"On his second day of living in the forest, Equality stumbles upon the Golden One, Liberty 5-3000, who has followed him from the City."
+234527.32	I-Falling Action	"They embrace, struggling to express their feelings for each other as they do not know how to verbally express themselves as individuals."
+234527.33	B-Resolution	"They find and enter a house from the Unmentionable Times in the mountains, perfectly preserved for hundreds of years by thick overgrowth, and decide to live in it."
+234527.34	B-Resolution	"While reading books from the house's library, Equality and Liberty discover that the Unspeakable Word, the one that carries the penalty of death, is ""I"", given through the power of ""ego""."
+234527.35	I-Resolution	"Recognizing its sacred value and the individuality it expresses, they give themselves new names from the books: Equality becomes ""Prometheus"" and Liberty becomes ""Gaea""."
+234527.36	B-Resolution	"As the book closes, Prometheus talks about the past, wonders how men could give up their individuality, and charts a future in which they will regain it."
+234527.37	B-Resolution	"The last word of the book, ""EGO"", is inscribed by Prometheus on a rock and hung over his front door."
+
+2080.1	B-Exposition	" The novel posits that space around the Milky Way is divided into concentric layers called Zones, each being constrained by different laws of physics and each allowing for different degrees of biological and technological advancement."
+2080.2	I-Exposition	"The innermost, the ""Unthinking Depths"", surrounds the galactic core and is incapable of supporting advanced life forms at all."
+2080.3	I-Exposition	"The next layer, the ""Slow Zone"", is roughly equivalent to the real world in behavior and potential."
+2080.4	I-Exposition	"Further out, the zone named the ""Beyond"" can support futuristic technologies such as AI and FTL travel."
+2080.5	I-Exposition	"The outermost zone, the ""Transcend"", contains most of the galactic halo and is populated by incomprehensibly vast and powerful posthuman entities."
+2080.6	B-Exposition	A human expedition investigates a five-billion-year-old data archive that offers the possibility of unimaginable riches for the ambitious young civilization of the Straumli Realm.
+2080.7	I-Exposition	"The expedition's facility, called High Lab, is gradually compromised by a dormant super-intelligent entity (actually encoded within the archive) later known as the Blight."
+2080.8	I-Exposition	"The Blight rapidly learns how to infiltrate and control the computer systems of High Lab, and even develops the ability to possess and control the living humans."
+2080.9	B-Exposition	"The novel starts with an imaginative description of the evolution of this superintelligence through exponentially accelerating developmental stages, culminating in a transcendent, nigh-omnipotent power that is unfathomable to mere humans."
+2080.10	I-Exposition	"Shortly before its final ""flowering"", the changes in a single minute of the Blight's life are said to exceed those of 10,000 years of human civilization."
+2080.11	B-Inciting Incident	"Recognizing the danger of what they have awakened, the researchers at High Lab attempt to flee in two ships."
+2080.12	B-Inciting Incident	"Suspicious, the Blight discovers that one of the ships contains a data storage device in its cargo manifest; assuming it contains information that could harm it, the Blight destroys the ship."
+2080.13	B-Inciting Incident	"The second ship is allowed to escape, unharmed, as the Blight assumes that it is no threat; but later realizes that it actually held a countermeasure, one of the few things in the universe that the Blight fears."
+2080.14	B-Rising Action	"The ship lands on a distant planet with a medieval-level civilization of dog-like creatures dubbed ""Tines"", who live in packs as group minds."
+2080.15	B-Rising Action	"The ship is revealed to be a sleeper ship, carrying most of High Lab's children in ""coldsleep boxes""."
+2080.16	B-Rising Action	"The boxes are rapidly failing and the surviving adults begin unloading them, but are killed when one of two rival forces of Tines seize the ship."
+2080.17	B-Rising Action	"The faction that initially contacts the humans, led by a Tine known as Steel, kills the adults and destroys many of the coldsleep boxes."
+2080.18	I-Rising Action	"They also capture a boy named Jefri Olsndot, whom Steel intended on killing but eventually exploits in order to develop advanced technology (such as cannon and radio communication)."
+2080.19	B-Rising Action	"Jefri's older sister, Johanna, is rescued by Pilgrim and Scriber, wandering Tines who bring her to the rival faction, led by Woodcarver."
+2080.20	I-Rising Action	She is asked to help develop technology that could gain the upper hand in the impending war.
+2080.21	B-Rising Action	"A distress signal from the sleeper ship eventually reaches ""Relay"", a major node in the galactic communications network."
+2080.22	B-Rising Action	"A benign transcendent entity (known as a ""Power"") named ""Old One"" contacts Relay, seeking information about the Blight and the humans who released it."
+2080.23	B-Rising Action	"Old One constructs a seemingly human man, Pham Nuwen, to act as its agent."
+2080.24	B-Rising Action	"Pham and Ravna Bergsndot – a human employee of Relay's owners, the wealthy Vrinimi Organization – trace the sleeper ship's signal to the Tines world."
+2080.25	B-Rising Action	"Old One designs a vessel, the Out of Band II, to reach the Tines world and to investigate what the ship carried with it from the High Lab."
+2080.26	B-Climax	The Blight attacks Relay and Old One.
+2080.27	I-Climax	"Old One gives Pham the information necessary to activate the Blight Countermeasure while dying (a process known as godshatter), and Pham and Ravna escape Relay's destruction in the Out of Band II."
+2080.28	B-Falling Action	"After arriving at the Tines homeworld and allying with Woodcarver to defeat Steel, Pham initiates the Countermeasure, which extends the Slow Zone by thousands of light-years to enclose the Blight."
+2080.29	B-Resolution	"This ends the threat of the Blight at the cost of wrecking thousands of uninvolved civilizations, causing trillions of deaths and potentially the extinction of several galactic races."
+2080.30	B-Resolution	"The process also kills Pham and strands the other humans on the Tines world, now in the depths of the ""Slow Zone"" where rescue by an advanced civilization is impossible."
+
+175547.1	B-Exposition	" Islamic terrorists from Azerbaijan destroy a Soviet oil-production facility at Nizhnevartovsk, Russia, crippling the USSR's oil production and threatening to wreck the nation's economy."
+175547.2	B-Inciting Incident	"Contemplating concessions to the West to survive the crisis, the Politburo instead decides to seize the oil fields in the Persian Gulf by military force."
+175547.3	B-Inciting Incident	"According to the Carter Doctrine, any attack on the Gulf is an attack on strategic interests to the United States, necessitating a military response."
+175547.4	B-Rising Action	"To prevent a combined reaction by NATO, the Soviets launch a KGB operation to carry out a false flag operation framing West Germany for an unprovoked attack on the USSR; afterwards, the Soviets plan to invade Europe in response to that “attack”."
+175547.5	I-Rising Action	"With West Germany occupied, and NATO defeated, the Soviets hope that the U.S. will not rescue the Arab oil states when it attacks them, as it can meet its oil needs with Western sources."
+175547.6	B-Rising Action	"The Politburo arranges a bomb blast in the Kremlin that kills some visiting schoolchildren, blaming a West German exile for the attack."
+175547.7	B-Rising Action	The KGB operation has limited success: the planned attack on West Germany is detected when a Spetsnaz major is captured in Aachen.
+175547.8	B-Rising Action	The officer's capture gives NATO time to mobilize its forces and preserve the alliance.
+175547.9	B-Rising Action	"Nonetheless, the operation scores some success, as several governments, notably those of Greece and Japan, publicly claim that this “German-Russian disagreement” does not warrant involvement."
+175547.10	B-Rising Action	"Thus, the Soviets face no opposition in either the Pacific theater or the Mediterranean region."
+175547.11	B-Rising Action	NATO aircraft manage to sharply reduce Soviet ground superiority on the first night of the war by using first-generation stealth planes and tactical fighter-bombers to eliminate Soviet Mainstay AWACS aircraft and tactical fighters.
+175547.12	B-Rising Action	The NATO forces achieve air superiority and destroy many key bridges over which much of the Soviet Army had yet to cross.
+175547.13	B-Rising Action	"The Soviets advance at great cost, having dramatically underestimated NATO defensive firepower."
+175547.14	B-Rising Action	"Germany becomes the epicentre of the conflict; here, NATO forces are slowly driven west while inflicting significant damage to the encroaching Soviet Army."
+175547.15	B-Rising Action	"Simultaneously, the Soviets seize Iceland in a covert surprise attack, capturing the NATO air station at Keflavík and disrupting the GIUK-SOSUS line to allow the Soviet Navy to operate in the Atlantic Ocean undetected."
+175547.16	B-Rising Action	"In addition, the Soviet Navy takes steps to protect its ballistic missile submarine fleet in costal waters behind minefields and ASW assets, allowing the full use of its attack submarines to engage and destroy NATO shipping rather than escorting strategic assets."
+175547.17	I-Rising Action	"In essence, the Soviet Navy is able to act as an offensive weapon contrary to pre-war NATO expectations, becoming a major strategic threat against resupply convoys coming from North America with both aircraft and submarines."
+175547.18	I-Rising Action	"This advantage is put to immediate use as a NATO carrier battle group, led by USS Nimitz, USS Saratoga and the French carrier Foch, is successfully attacked by Soviet Badger and Backfire bombers, the latter firing Kingfish missiles."
+175547.19	B-Rising Action	"The Soviets use Kelt missiles as decoys set to transmit as if they were Backfires on the predicted attack vector, far out from the main air fleet."
+175547.20	B-Rising Action	"The American carriers' F-14 interceptors are committed against the decoys, leaving an insufficient number of Crusaders from the Foch and the ships' surface-to-air missiles to defend against the bombers approaching from another direction."
+175547.21	B-Rising Action	"Foch is sunk, the amphibious assault carrier Saipan explodes, taking 2,500 Marines with her, and the two American carriers are forced to spend several weeks in drydock at Southampton, England."
+175547.22	B-Rising Action	"In West Germany, the battle becomes a war of attrition that the Soviets expect to win through slow and sustained advances."
+175547.23	B-Rising Action	"With the death of the Soviet political favorite CinC-West in a NATO air attack on the Soviet rear lines, the more competent CinC-Southwest and his second-in-command, General-Colonel Pavel Leonidovich Alekseyev take over on the German front."
+175547.24	I-Rising Action	"Alekseyev commands a successful Soviet attack on the town of Alfeld, finally giving the Soviet Army the breakthrough it needs."
+175547.25	B-Rising Action	"As the OMG (Operational Manoeuvre Group) forces start to deploy, NATO looks likely to lose all of Germany east of the Weser River."
+175547.26	B-Climax	"When a brilliantly timed naval attack on Soviet bomber bases with submarine-launched cruise missiles cripples the Soviet bomber force, the Soviets lose their most effective convoy and fleet killing weapon."
+175547.27	B-Falling Action	"The U.S. Marines take this opportunity to stage an amphibious assault on Iceland backed by NATO navies, retaking the island and closing the Atlantic to Soviet forces."
+175547.28	B-Falling Action	"A failed bomber raid on the NATO naval forces attacking Iceland (in which the remaining Soviet naval cruise missile bomber fleets are nearly wiped out) essentially means Victory in the Atlantic, opening the USSR to direct attacks from carrier strike groups against its Northern strategic areas and the free flow of convoys across the Atlantic."
+175547.29	B-Falling Action	"Simultaneously with the sudden reversal in the Atlantic, SACEUR, a renowned poker player, makes an audacious gamble in the face of a final Soviet offensive that pushes NATO ground forces to the breaking point, launching an unexpected flanking manoeuvre that places heavy NATO forces in the rear of the Soviet spearhead, cutting their last frontline units off behind two different rivers and interdicting their supplies."
+175547.30	B-Falling Action	"Intelligence gained from a prisoner on Iceland finally reveals the dire fuel situation in the USSR to NATO, who promptly switch bombing tactics and wipe out significant forward fuel depots, essentially immobilising the last of the elite Soviet formations."
+175547.31	I-Falling Action	"With the Soviet advance decisively halted, NATO catches its breath and prepares to move into a general offensive against the increasingly ineffective Soviet C category reserves being moved forward."
+175547.32	B-Falling Action	"With the conventional situation in Europe turning against them and their strategic situation increasingly bleak due to the drawdown on national oil reserves resulting in a crippled economy, the Politburo are moved to consider the use of tactical nuclear weapons at the front to regain the initiative."
+175547.33	B-Resolution	"Alekseyev, realizing that a tactical nuclear exchange would almost certainly lead to a strategic nuclear exchange, seeks and obtains control of his theatre's nuclear weapons as part of their planning; ostensibly for practical matters of tactical targeting but in reality to ensure they are never used."
+175547.34	B-Resolution	"In the face of this nightmare scenario, General Alekseyev joins forces with the Chairman of the KGB and the Energy Minister, Mikhail Eduardovich Sergetov, in staging a coup d’état, replacing the Politburo with a troika consisting of Sergetov, Agriculture Minister F. M. Krylov, and longtime Politburo member Pyotr Bromkovskiy (an elderly and respected World War II veteran) whilst the Chairman of the KGB is allowed to be executed by a Major, revealed to be a parent of one of the children who was killed in the Kremlin bombing."
+175547.35	B-Resolution	"With the Government back under control, Alekseyev flies back to Germany and personally negotiates with SACEUR to bring an end to the war, forestalling the launching of NATO's counter-offensive with an agreement of a cease fire and withdrawal to pre-war lines, apparently ending the war."
+175547.36	I-Resolution	The story of the aftermath of the conflict is left untold.
+
+228736.1	B-Exposition	" The book is set in the 17th century in the Badgworthy Water region of Exmoor in Devon and Somerset, England."
+228736.2	B-Exposition	"John (in West Country dialect, pronounced ""Jan"") Ridd is the son of a respectable farmer who was murdered in cold blood by one of the notorious Doone clan, a once noble family, now outlaws, in the isolated Doone Valley."
+228736.3	B-Exposition	"Battling his desire for revenge, John also grows into a respectable farmer and takes good care of his mother and two sisters."
+228736.4	B-Inciting Incident	"He falls hopelessly in love with Lorna, a girl he meets by accident, who turns out to be not only (apparently) the granddaughter of Sir Ensor Doone (lord of the Doones), but destined to marry (against her will) the impetuous, menacing, and now jealous heir of the Doone Valley, Carver Doone."
+228736.5	I-Inciting Incident	"Carver will let nothing get in the way of his marriage to Lorna, which he plans to force upon her once Sir Ensor dies and he comes into his inheritance."
+228736.6	B-Rising Action	"Sir Ensor dies, and Carver becomes lord of the Doones."
+228736.7	B-Rising Action	"John Ridd helps Lorna escape to his family's farm, Plover's Barrows."
+228736.8	I-Rising Action	"Since Lorna is a member of the hated Doone clan, feelings are mixed toward her in the Ridd household, but she is nonetheless defended against the enraged Carver's retaliatory attack on the farm."
+228736.9	B-Rising Action	"A member of the Ridd household notices Lorna's necklace, a jewel that she was told by Sir Ensor belonged to her mother."
+228736.10	B-Rising Action	"During a visit from the Counsellor, Carver's father and the wisest of the Doone family, the necklace is stolen from Plover's Barrows."
+228736.11	B-Rising Action	"Shortly after its disappearance, a family friend discovers Lorna's origins, learning that the necklace belonged to a Lady Dugal, who was robbed and murdered by a band of outlaws."
+228736.12	I-Rising Action	Only her daughter survived the attack.
+228736.13	B-Climax	"It becomes apparent that Lorna, being evidently the long-lost girl in question, is in fact heiress to one of the largest fortunes in the country, and not a Doone after all (although the Doones are remotely related, being descended from a collateral branch of the Dugal family)."
+228736.14	B-Falling Action	"She is required by law, but against her will, to return to London to become a ward in Chancery."
+228736.15	I-Falling Action	"Despite John and Lorna's love for one another, their marriage is out of the question."
+228736.16	B-Falling Action	"King Charles II dies, and the Duke of Monmouth (the late king's illegitimate son) challenges Charles's brother James for the throne."
+228736.17	B-Falling Action	"The Doones, abandoning their plan to marry Lorna to Carver and claim her wealth, side with Monmouth in the hope of reclaiming their ancestral lands."
+228736.18	B-Falling Action	"However, Monmouth is defeated at the Battle of Sedgemoor, and his associates are sought for treason."
+228736.19	I-Falling Action	John Ridd is captured during the revolution.
+228736.20	I-Falling Action	"Innocent of all charges, he is taken to London by an old friend to clear his name."
+228736.21	I-Falling Action	"There, he is reunited with Lorna (now Lorna Dugal), whose love for him has not diminished."
+228736.22	B-Falling Action	"When he thwarts an attack on Lorna's great-uncle and legal guardian Earl Brandir, John is granted a pardon, a title, and a coat of arms by the king and returns a free man to Exmoor."
+228736.23	B-Falling Action	"In the meantime, the surrounding communities have grown tired of the Doones and their depredations."
+228736.24	B-Falling Action	"Knowing the Doones better than any other man, John leads the attack on their land."
+228736.25	I-Falling Action	"All the Doone men are killed, except the Counsellor (from whom John retrieves the stolen necklace) and his son Carver, who escapes, vowing revenge."
+228736.26	B-Resolution	"When Earl Brandir dies and Judge Jeffreys is awarded guardianship of Lorna, she is granted her freedom to return to Exmoor and marry John."
+228736.27	B-Resolution	"During their wedding, Carver bursts into the church at Oare."
+228736.28	I-Resolution	He shoots Lorna and flees.
+228736.29	I-Resolution	"Distraught and filled with blinding rage, John pursues and confronts him."
+228736.30	I-Resolution	A struggle ensues in which Carver is left sinking in a mire.
+228736.31	I-Resolution	"Exhausted and bloodied from the fight, John can only pant as he watches Carver slip away."
+228736.32	B-Resolution	"He returns to discover that Lorna is not dead, and after a period of anxious uncertainty, she survives to live happily ever after."
+
+6628.1	B-Exposition	" Nine years after Emperor Paul Muad'dib walked into the desert, blind, the ecological transformation of Dune has reached the point where some Fremen are living without stillsuits in the less arid climate and have started to move out of the Sietches and into the villages and cities."
+6628.2	B-Exposition	"As the old ways erode, more and more pilgrims arrive to experience the planet of Muad'dib."
+6628.3	B-Exposition	The Imperial high council has lost the political initiative and is powerless to control the Jihad.
+6628.4	B-Exposition	"Paul's twin young children, Leto II and Ghanima, sharing his prescience, have concluded that their guardian Alia has succumbed to possession by one of her ancestors and fear that a similar fate awaits them."
+6628.5	I-Exposition	"They (and Alia) also realize that the terraforming of Dune will kill all the sandworms, thus destroying the source of the spice."
+6628.6	I-Exposition	"Leto also fears that, like his father, he will be trapped by his prescience."
+6628.7	B-Exposition	"Possessed by the persona of her grandfather Baron Vladimir Harkonnen, Alia fears that her mother, about to return to Arrakis, will recognize her ""abomination."""
+6628.8	B-Exposition	"A new religious figure called ""The Preacher"" has risen in the desert, railing against the religious government's injustices and the changes among the Fremen."
+6628.9	I-Exposition	Some Fremen believe he is Paul Atreides.
+6628.10	B-Inciting Incident	The fallen House Corrino on Salusa Secundus plots to assassinate the twins and regain power.
+6628.11	B-Rising Action	Lady Jessica returns to Arrakis and recognizes that her daughter has been possessed but finds no signs of abomination in the twins.
+6628.12	I-Rising Action	She plans with them to thwart Alia's plotting.
+6628.13	B-Rising Action	Leto arranges for Fremen leader Stilgar to protect his sister if there is an attempt on their lives.
+6628.14	B-Rising Action	"Alia attempts to assassinate Jessica who escapes into the desert with Duncan Idaho's help, precipitating a rebellion among the Fremen."
+6628.15	B-Rising Action	The twins anticipate and survive the Corrino assassination plot.
+6628.16	B-Rising Action	"Leto leaves to seek out the Preacher while Ghanima, masking her memory with self-hypnosis, reports falsely that her brother had been murdered."
+6628.17	B-Rising Action	Duncan and Jessica flee to Salusa Secundus where Jessica begins to mentor the Corrino heir Farad'n.
+6628.18	I-Rising Action	"He seizes power from his regent mother and allies with the Bene Gesserit, who promise to marry him to Ghanima and support his bid for coronation as Emperor."
+6628.19	B-Rising Action	"A band of Fremen outlaws capture Leto and force him to undergo the spice trance at the suggestion of one of Alia's agents, who has infiltrated the group."
+6628.20	I-Rising Action	His spice-induced visions show him a myriad of possible futures where humanity has become extinct and only one where humanity survives.
+6628.21	B-Rising Action	"He names this future ""The Golden Path"" and resolves to bring it to fruition."
+6628.22	B-Rising Action	He escapes his captors and sacrifices his humanity in pursuit of the Golden Path.
+6628.23	B-Rising Action	"This requires him to physically fuse with a school of sandtrout, gaining superhuman strength and near-invulnerability."
+6628.24	B-Rising Action	"He travels across the desert and confronts the Preacher who does, in fact, prove to be his father, Paul Atreides."
+6628.25	B-Climax	Duncan Idaho returns to Arrakis and provokes Stilgar into killing him.
+6628.26	B-Climax	"With Stilgar's neutrality now untenable, he seizes Ghanima and flees."
+6628.27	B-Falling Action	"Alia recaptures Ghanima and arranges her marriage to Farad'n, planning to exploit the expected chaos when Ghanima kills him to avenge her brother's murder."
+6628.28	B-Falling Action	"The Preacher and Leto return to the capital to confront Alia who has the Preacher murdered, revealing his true identity."
+6628.29	I-Falling Action	Leto reveals himself in a display of superhuman strength and triggers the return of Ghanima's genuine memories.
+6628.30	I-Falling Action	He confronts Alia and offers to help her overcome her possession but she is overwhelmed by her ancestral personae and elects to commit suicide.
+6628.31	B-Resolution	Leto declares himself Emperor and asserts control over the Fremen.
+6628.32	B-Resolution	Farad'n enlists in his service and delivers control of the Corrino armies.
+6628.33	B-Resolution	"The seemingly immortal and omnipotent Leto is left as Emperor of the Known Universe, with Ghanima at his side."
+
+234555.1	B-Exposition	" One thousand years after the One State's conquest of the entire world, the spaceship Integral is being built in order to invade and conquer extraterrestrial planets."
+234555.2	B-Exposition	"Meanwhile, the project's chief engineer, D-503, begins a journal which he intends to be carried upon the completed Integral."
+234555.3	B-Exposition	"Like all other citizens of the One State, D-503 lives in a glass apartment building and is carefully watched by the secret police, or Bureau of Guardians."
+234555.4	B-Exposition	"D-503's lover, who has been assigned by the One State to visit him on certain nights, is O-90."
+234555.5	B-Inciting Incident	"O-90, who is considered too short to bear children, is deeply grieved by her state in life."
+234555.6	B-Inciting Incident	"O-90's other lover and D-503's best friend, is R-13, a State poet who reads his verse at public executions."
+234555.7	B-Inciting Incident	"While on an assigned walk with O-90, D-503 meets a woman named I-330."
+234555.8	I-Inciting Incident	"I-330 smokes cigarettes, drinks alcohol, and shamelessly flirts with D-503 instead of applying for an impersonal sex visit."
+234555.9	I-Inciting Incident	All of these are highly illegal according to the laws of the One State.
+234555.10	I-Inciting Incident	"Both repelled and fascinated, D-503 struggles to overcome his attraction to I-330."
+234555.11	B-Inciting Incident	"I-330 invites him to visit the Ancient House, notable for being the only opaque building in the One State, except for windows."
+234555.12	I-Inciting Incident	"Objects of aesthetic and historical importance, dug up from around the city, are stored there."
+234555.13	I-Inciting Incident	"There, I-330 offers him the services of a corrupt doctor in order to explain his absence from work."
+234555.14	B-Inciting Incident	"Leaving in horror, D-503 vows to denounce her to the Bureau of Guardians, but finds that he cannot."
+234555.15	B-Inciting Incident	"He begins to have dreams at night, which disturbs him, as dreams are thought to be a symptom of mental illness."
+234555.16	B-Inciting Incident	"Slowly, I-330 reveals to D-503 that she is involved with the MEPHI, an organization plotting to bring down the One State."
+234555.17	B-Climax	She takes him through secret tunnels inside the Ancient House to the world outside the Green Wall which surrounds the city-state.
+234555.18	I-Climax	"There, D-503 meets the inhabitants of the outside world: humans whose bodies are covered with animal fur."
+234555.19	B-Climax	The aims of the MEPHI are to destroy the Green Wall and reunite the citizens of the One State with the outside world.
+234555.20	B-Falling Action	"Despite the recent rift between them, O-90 pleads with D-503 to impregnate her illegally."
+234555.21	I-Falling Action	"After O-90 insists that she will obey the law by turning over their child to be raised by the One State, D-503 obliges."
+234555.22	B-Falling Action	"However, as her pregnancy progresses, O-90 realizes that she cannot bear to be parted from her baby under any circumstances."
+234555.23	I-Falling Action	"At D-503's request, I-330 arranges for O-90 to be smuggled outside of the Green Wall."
+234555.24	B-Falling Action	"In his last journal entry, D-503 indifferently relates that he has been forcibly tied to a table and subjected to the ""Great Operation"" (similar to a lobotomy), which has recently been mandated for all citizens of the One State."
+234555.25	I-Falling Action	This operation removes the imagination and emotions by targeting parts of the brain with x-rays.
+234555.26	I-Falling Action	"After this operation, D-503 willingly informed the Benefactor about the inner workings of the MEPHI."
+234555.27	I-Falling Action	"However, D-503 expresses surprise that even torture could not induce I-330 to denounce her comrades."
+234555.28	B-Falling Action	"Despite her refusal, I-330 and those arrested with her are sentenced to death, ""under the Benefactor's Machine."""
+234555.29	B-Resolution	"Meanwhile, the MEPHI uprising gathers strength; parts of the Green Wall have been destroyed, birds are repopulating the city, and people start committing acts of social rebellion."
+234555.30	I-Resolution	"Although D-503 expresses hope that the Benefactor shall restore ""reason,"" the novel ends with the One State's authority in doubt."
+234555.31	I-Resolution	A repeated mantra in the novel is that there is no final revolution.
+
+25821.1	B-Exposition	" The play, set in Verona, begins with a street brawl between Montague and Capulet supporters who are sworn enemies."
+25821.2	I-Exposition	The Prince of Verona intervenes and declares that further breach of the peace will be punishable by death.
+25821.3	B-Exposition	"Later, Count Paris talks to Capulet about marrying his daughter, but Capulet asks Paris to wait another two years (then he later orders Juliet to marry Paris) and invites him to attend a planned Capulet ball."
+25821.4	B-Exposition	Lady Capulet and Juliet's nurse try to persuade Juliet to accept Paris's courtship.
+25821.5	B-Exposition	"Meanwhile, Benvolio talks with his cousin Romeo, Montague's son, about Romeo's recent depression."
+25821.6	B-Exposition	"Benvolio discovers that it stems from unrequited infatuation for a girl named Rosaline, one of Capulet's nieces."
+25821.7	B-Inciting Incident	"Persuaded by Benvolio and Mercutio, Romeo attends the ball at the Capulet house in hopes of meeting Rosaline."
+25821.8	I-Inciting Incident	"However, Romeo instead meets and falls in love with Juliet."
+25821.9	B-Rising Action	"After the ball, in what is now called the ""balcony scene"", Romeo sneaks into the Capulet orchard and overhears Juliet at her window vowing her love to him in spite of her family's hatred of the Montagues."
+25821.10	I-Rising Action	Romeo makes himself known to her and they agree to be married.
+25821.11	B-Rising Action	"With the help of Friar Laurence, who hopes to reconcile the two families through their children's union, they are secretly married the next day."
+25821.12	B-Rising Action	"Juliet's cousin Tybalt, incensed that Romeo had sneaked into the Capulet ball, challenges him to a duel."
+25821.13	I-Rising Action	"Romeo, now considering Tybalt his kinsman, refuses to fight."
+25821.14	I-Rising Action	"Mercutio is offended by Tybalt's insolence, as well as Romeo's ""vile submission,"" and accepts the duel on Romeo's behalf."
+25821.15	I-Rising Action	Mercutio is fatally wounded when Romeo attempts to break up the fight.
+25821.16	I-Rising Action	"Grief-stricken and wracked with guilt, Romeo confronts and slays Tybalt."
+25821.17	B-Rising Action	Montague argues that Romeo has justly executed Tybalt for the murder of Mercutio.
+25821.18	B-Rising Action	"The Prince, now having lost a kinsman in the warring families' feud, exiles Romeo from Verona, with threat of execution upon return."
+25821.19	B-Rising Action	"Romeo secretly spends the night in Juliet's chamber, where they consummate their marriage."
+25821.20	B-Rising Action	"Capulet, misinterpreting Juliet's grief, agrees to marry her to Count Paris and threatens to disown her when she refuses to become Paris's ""joyful bride."""
+25821.21	I-Rising Action	"When she then pleads for the marriage to be delayed, her mother rejects her."
+25821.22	B-Rising Action	"Juliet visits Friar Laurence for help, and he offers her a drug that will put her into a deathlike coma for ""two and forty hours."""
+25821.23	I-Rising Action	"The Friar promises to send a messenger to inform Romeo of the plan, so that he can rejoin her when she awakens."
+25821.24	B-Rising Action	"On the night before the wedding, she takes the drug and, when discovered apparently dead, she is laid in the family crypt."
+25821.25	B-Rising Action	"The messenger, however, does not reach Romeo and, instead, Romeo learns of Juliet's apparent death from his servant Balthasar."
+25821.26	B-Rising Action	"Heartbroken, Romeo buys poison from an apothecary and goes to the Capulet crypt."
+25821.27	I-Rising Action	He encounters Paris who has come to mourn Juliet privately.
+25821.28	B-Climax	"Believing Romeo to be a vandal, Paris confronts him and, in the ensuing battle, Romeo kills Paris."
+25821.29	B-Climax	"Still believing Juliet to be dead, he drinks the poison."
+25821.30	B-Falling Action	"Juliet then awakens and, finding Romeo dead, stabs herself with his dagger."
+25821.31	B-Falling Action	The feuding families and the Prince meet at the tomb to find all three dead.
+25821.32	B-Resolution	"Friar Laurence recounts the story of the two ""star-cross'd lovers""."
+25821.33	I-Resolution	The families are reconciled by their children's deaths and agree to end their violent feud.
+25821.34	B-Resolution	"The play ends with the Prince's elegy for the lovers: ""For never was a story of more woe / Than this of Juliet and her Romeo."""
+
+30762.1	B-Exposition	CIA analyst Jack Ryan attends a diplomatic conference in Moscow as part of an American delegation to the Soviet Union.
+30762.2	B-Inciting Incident	"He learns that the CIA’s most highly-placed agent, codenamed ""CARDINAL"", is none other than Colonel Mikhail Semyonovich Filitov, the personal aide to the Soviet Minister of Defense and a national war hero."
+30762.3	I-Inciting Incident	"Filitov was recruited by GRU colonel and British agent Oleg Penkovskiy, and offered his services to the CIA after the deaths of his wife and two sons; the latter two were killed during their service in the Red Army."
+30762.4	I-Inciting Incident	"As a result, Filitov has been passing political, technical, and military intelligence to the CIA for the past thirty years."
+30762.5	B-Rising Action	"The U.S. discovers through ""National Technical Means"" that the Soviets were working on an ABM defense system based at Dushanbe in Tajikistan."
+30762.6	B-Rising Action	"Emilio Ortiz, a CIA liaison, is sent to aid Mujaheddin rebels in the region."
+30762.7	B-Rising Action	"One rebel leader, a man known only as ""The Archer,"" is questioned after unwittingly witnessing a test of the Soviets' ABM system."
+30762.8	I-Rising Action	"The Archer determines that the Soviet installation is a threat to him and his people, and tasks his group with attacking and pillaging the facility."
+30762.9	I-Rising Action	"In the end, the guerrillas destroy a large amount of Soviet equipment."
+30762.10	I-Rising Action	"However, the rebels suffer horrendous losses, including the death of The Archer."
+30762.11	B-Rising Action	"Ryan travels to New Mexico to meet with a young SDI researcher, Major Alan Gregory, whom he brings to Washington, D.C., to brief the president."
+30762.12	I-Rising Action	"Gregory lives with another scientist, Candi Long, who is working on adaptive optics for use in the development of laser weaponry."
+30762.13	I-Rising Action	"A lesbian KGB agent, Bea Taussig&mdash;who has unluckily fallen in love with Long&mdash;describes Gregory and his work to her KGB handler, Tanya Bisyarina."
+30762.14	B-Rising Action	The KGB launches a plan to kidnap and debrief Gregory.
+30762.15	B-Rising Action	Filitov is arrested after his work for the CIA is discovered.
+30762.16	B-Rising Action	"However, Ryan concocts a plan to both secure the return of Filitov and arrange the defection of the sitting KGB chairman, Nikolay Borissovich Gerasimov."
+30762.17	I-Rising Action	"Gerasimov is angling to take over as General Secretary in the wake of Filitov's arrest, something Ryan is determined to prevent because of his unyielding anti-American ideology."
+30762.18	I-Rising Action	"Ryan schemes to go public with the prior capture of Soviet submarine Red October, banking on the political instability of the Soviet Politburo."
+30762.19	I-Rising Action	"He plans for Filitov and Gerasimov to be exfiltrated on the American delegation's aircraft, while Gerasimov's family is extracted from Estonia by John Clark onto the submarine USS Dallas."
+30762.20	B-Climax	"Meanwhile, in New Mexico, three KGB officers kidnap Gregory on Gerasimov's orders and hold him in a shabby desert safe house, planning to send him to Moscow for debriefing."
+30762.21	B-Climax	Their plans are foiled when the FBI sends in the Hostage Rescue Team to retrieve Gregory and return him to Long.
+30762.22	I-Climax	Among those killed is Bisyarina.
+30762.23	B-Falling Action	"Ryan informs Gerasimov of the failed operation, forcing the enraged chairman to accept Ryan's defection offer."
+30762.24	I-Falling Action	The flipped Gerasimov fetches Filitov from his confinement.
+30762.25	I-Falling Action	"The three make their way to Sheremetyevo Airport, awaiting the departure of the American delegation."
+30762.26	B-Falling Action	"Unfortunately, two KGB officers, Klementi Vladimirovich Vatutin and Sergey Nikolayevch Golovko, become aware of their planned departure."
+30762.27	B-Falling Action	"As Gerasimov and Filitov escape, Ryan allows himself to be captured by Golovko, banking on his diplomatic status to protect him from harm."
+30762.28	B-Falling Action	"Golovko then escorts Ryan to the private dacha of General Secretary Narmonov, where the two men discuss the CIA's interest in his political position and the CIA's interference in their internal security."
+30762.29	B-Resolution	"Ryan returns to the United States, where he and several others attend the funeral of Filitov, who had died of heart disease in the months following his CIA debriefing period."
+30762.30	I-Resolution	"Filitov is buried at Camp David, within twenty miles of the Antietam battlefield."
+30762.31	I-Resolution	A Soviet military attaché attending the funeral questions why Filitov would be buried so close to American soldiers.
+30762.32	I-Resolution	"Ryan, always working to keep the peace, explains to him, ""One way or another, we all fight for what we believe in."
+30762.33	I-Resolution	"Doesn't that give us some common ground?"""
+

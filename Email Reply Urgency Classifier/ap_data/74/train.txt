@@ -1,0 +1,1113 @@
+253233.1	B-Exposition	The Scar opens with the journey of a small ship which has set out from the city New Crobuzon (the setting of Perdido Street Station).
+253233.2	B-Exposition	"It is heading to the city's new colony, Nova Esperium, which lies across the Swollen Ocean of Bas-Lag."
+253233.3	B-Exposition	"On board the ship are: *Bellis Coldwine, a cold, reserved linguist who is fleeing for her life for her alleged connection to the events in Perdido Street Station."
+253233.4	B-Exposition	"*Johannes Tearfly, a scientist whose interests lie in megafauna and underwater sealife."
+253233.5	B-Exposition	"*Tanner Sack, a Remade criminal (that is, he has had his body surgically and magically altered as punishment for his crime) who is bound for slavery."
+253233.6	B-Exposition	"*Shekel, a young cabin boy who befriends Tanner."
+253233.7	B-Inciting Incident	"Before the ship reaches Nova Esperium, it is captured by pirates, and the passengers, crew and prisoners are all press-ganged into being citizens of Armada, a floating city made of thousands of ships."
+253233.8	I-Inciting Incident	Tanner uses his newfound freedom to embrace his remaking.
+253233.9	I-Inciting Incident	"He has his body further remade and the earlier, rough work perfected, becoming an amphibious sea-creature."
+253233.10	I-Inciting Incident	"Treated now as an equal citizen rather than a prisoner or slave, Tanner's loyalties fiercely lie in Armada."
+253233.11	B-Inciting Incident	"Bellis meanwhile despises her new life as a librarian for the city's vast collection of stolen books, and yearns for home (somewhat ironically, as she was originally fleeing it)."
+253233.12	B-Rising Action	"She gains the attention of the powerful Uther Doul, bodyguard to the Lovers, the mysterious, scarred leaders of Armada."
+253233.13	I-Rising Action	"Doul, for his own reasons, involves Bellis much more closely in the city's matters."
+253233.14	B-Rising Action	She soon becomes privy to a plan formulated by the Lovers to raise a mythical sea creature known as the avanc.
+253233.15	B-Rising Action	"Simultaneously, she becomes involved with a New Crobuzonian spy named Silas Fennec, who reveals that the grindylow of the Cold Claw Sea are planning war on New Crobuzon."
+253233.16	B-Rising Action	Silas was on his way home to warn his leaders of this war (thus saving the millions of innocents who might be slaughtered by the grindylow) when he was captured by Armada.
+253233.17	I-Rising Action	"Bellis and Silas find physical release in each other, and commiserate that they are powerless to save their home city."
+253233.18	B-Climax	"Soon enough Shekel, who is learning to read with Bellis's help, finds a strange book in the Armada's library."
+253233.19	I-Climax	"He brings it to Bellis, and she quickly realizes that it is the book the Lovers need to raise the avanc."
+253233.20	B-Climax	"Knowing that she must get a message home, Bellis destroys that information."
+253233.21	B-Falling Action	"This forces the Lovers to seek Krüach Aum, now the only person who knows how to summon the mythical creature."
+253233.22	B-Falling Action	"Armada mounts an expedition to his unnamed island home, which is the island of the dreaded Anophelii (a horrific and deadly race of mosquito-people)."
+253233.23	B-Falling Action	"The Lovers find Aum and the information they need, while Bellis uses their time on the island, away from Armada, to get a message home, to warn of the impending grindylow invasion."
+253233.24	I-Falling Action	"Armada then successfully raises the avanc and captures it – no mean feat, as the avanc is an immense creature, several miles long."
+253233.25	B-Falling Action	"The Lovers' true plan is finally revealed: to use the great speed and pulling power of the avanc to find the fabled Scar, a place in the world where reality breaks down and anything is possible."
+253233.26	I-Falling Action	The Lovers see this as a source of ultimate power.
+253233.27	B-Falling Action	"On the journey far into unmapped waters, numerous matters threaten the city."
+253233.28	B-Falling Action	"Silas Fennec's actions, which have been far from honest all along, single-handedly bring down the fury of the New Crobuzon navy and the inhuman wrath of the grindylows."
+253233.29	B-Falling Action	Following this a civil war breaks out within the city.
+253233.30	I-Falling Action	"Then, terribly wounded, Armada finally nears the Scar, and faces the unsettling horrors that accompany the breakdown of possibility."
+253233.31	B-Falling Action	"They pick up a shipwrecked friend from a different train of possibilities, chances and choices, who warns them of The Scar and that he saw the city fall into the wound of the world and everybody was killed."
+253233.32	B-Resolution	"Mutiny follows and the people of Armada finally force the city to turn around and head back to the Swollen Ocean, the life of quiet and piracy, that they all want."
+253233.33	B-Resolution	"The last chapter of the book is another excerpt of Bellis's letter home, in which she realises how much she was being used by Doul."
+253233.34	I-Resolution	"The reader is left with the question, how much Uther Doul actually was in control of the events in the book, what was chance and what was 'planned' possibility."
+
+28833.1	B-Exposition	In Camelot on New Year's Day King Arthur's court is exchanging gifts and waiting for the feasting to start when the king asks first to see or hear of an exciting adventure.
+28833.2	B-Inciting Incident	"At this a gigantic figure, entirely green in appearance and riding a green horse, rides unexpectedly into the hall."
+28833.3	I-Inciting Incident	He wears no armour but bears an axe in one hand and a holly bough in the other.
+28833.4	I-Inciting Incident	"Refusing to fight anyone there on the grounds they are all too weak to take him on, he insists he has come for a friendly ""Christmas game"": someone is to strike him once with his axe on condition that the Green Knight may return the blow in a year and a day."
+28833.5	I-Inciting Incident	The splendid axe will belong to whoever takes him on.
+28833.6	I-Inciting Incident	"Arthur himself is prepared to accept the challenge when it appears no other knight will dare, but Sir Gawain, youngest of Arthur's knights and his nephew, quickly begs for the honour instead."
+28833.7	I-Inciting Incident	The giant bends and bares his neck before him and Gawain neatly beheads him in one stroke.
+28833.8	I-Inciting Incident	"However the Green Knight neither falls nor falters but reaches out, picks up his severed head and remounts, holding up his bleeding head to Queen Guinevere while its writhing lips remind Gawain that the two must meet again at the Green Chapel before he rides away."
+28833.9	B-Rising Action	"Joking together, Gawain and Arthur admire the axe, hang it up as a trophy and encourage Guinevere to treat the whole matter lightly."
+28833.10	B-Rising Action	As the date approaches Sir Gawain sets off to find the Green Chapel and keep his bargain.
+28833.11	B-Rising Action	"Many adventures and battles are alluded to (but not described) until Gawain, on the brink of starvation, comes across a splendid castle where he meets Bertilak de Hautdesert, the lord of the castle, and his beautiful wife, who are pleased to have such a renowned guest."
+28833.12	I-Rising Action	"Also present is an old and ugly lady, unnamed but treated with great honour by all."
+28833.13	I-Rising Action	Gawain tells them of his New Year's appointment at the Green Chapel and that he only has a few days remaining.
+28833.14	I-Rising Action	"Bertilak laughs, explains that the Green Chapel is less than two miles away and proposes that Gawain rest at the castle till then."
+28833.15	I-Rising Action	"Relieved and grateful, Gawain agrees."
+28833.16	B-Rising Action	Before going hunting the next day Bertilak proposes a playful bargain: he will give Gawain whatever he catches on condition that Gawain give him whatever he might gain during the day.
+28833.17	I-Rising Action	Gawain accepts.
+28833.18	B-Rising Action	After Bertilak leaves Lady Bertilak visits Gawain's bedroom and behaves seductively but despite her best efforts he yields nothing but a single kiss in his unwillingness to offend her.
+28833.19	B-Rising Action	"When Bertilak returns and gives Gawain the deer he has killed, his guest gives a kiss to Bertilak without divulging its source."
+28833.20	B-Rising Action	"The next day the lady comes again, Gawain again courteously foils her advances and there is a similar exchange of a hunted boar for two kisses."
+28833.21	B-Rising Action	"She comes once more on the third morning, this time offering Gawain a gold ring as a keepsake."
+28833.22	I-Rising Action	"As he gently but steadfastly refuses she pleads that he at least take her belt, a girdle of green and gold silk which, the lady assures him, is charmed and will keep him from all physical harm."
+28833.23	I-Rising Action	"Tempted, as he may otherwise die the next day, Gawain accepts it from her and they also exchange three kisses."
+28833.24	B-Rising Action	"That evening, Bertilak returns with a fox, which he exchanges with Gawain for the three kisses – but Gawain says nothing of the girdle."
+28833.25	B-Rising Action	The next day Gawain leaves for the Green Chapel with the girdle wound twice round his waist.
+28833.26	B-Climax	"He finds the Green Knight sharpening an axe and, as promised, Gawain bends his bared neck to receive his blow."
+28833.27	I-Climax	At the first swing Gawain flinches slightly and the Green Knight belittles him for it.
+28833.28	I-Climax	"Ashamed of himself, at the Green Knight's next swing Gawain does not flinch; but again the full force of the blow is withheld."
+28833.29	I-Climax	The knight explains he was testing Gawain's nerve.
+28833.30	I-Climax	"Angrily Gawain tells him to deliver his blow at once and so the knight does, but striking softly and causing only a slight wound on Gawain's neck."
+28833.31	B-Climax	The game is over: Gawain is now free to defend himself from further harm.
+28833.32	B-Falling Action	"He seizes his sword, helmet and shield, but the Green Knight, laughing, reveals himself to be the lord of the castle, Bertilak de Hautdesert, transformed by magic."
+28833.33	I-Falling Action	"He explains that the entire adventure was a trick of the 'elderly lady' Gawain saw at the castle who is the sorceress Morgan le Fay, Arthur's sister, who intended to test Arthur's knights and terrify Guinevere."
+28833.34	B-Falling Action	Gawain is ashamed to have behaved deceitfully and cowardly but the Green Knight laughs at his scruples and the two part on cordial terms.
+28833.35	B-Resolution	Gawain returns to Camelot wearing the girdle in shame as a token of his failure to keep his promise and follow the rules of the game.
+28833.36	B-Resolution	"The Knights of the Round Table, having heard his story, absolve him of blame and decide that henceforth all will wear a green sash in recognition of Gawain's adventure."
+
+202349.1	B-Exposition	The Restaurant at the End of the Universe begins just as The Hitchhiker's Guide to the Galaxy ended.
+202349.2	B-Exposition	"Arthur Dent, Ford Prefect, Trillian, and Zaphod Beeblebrox have just left the planet Magrathea when they are attacked by a Vogon ship."
+202349.3	B-Inciting Incident	"They find they are unable to use the Improbability Drive to escape, as Arthur has accidentally jammed the computer with a simple request for a cup of tea which proved a rather difficult problem."
+202349.4	B-Inciting Incident	"Luckily, an ancestor of Zaphod's, Zaphod Beeblebrox the Fourth saves them."
+202349.5	B-Rising Action	"Zaphod and Marvin vanish, and reappear at the offices of the Guide on Ursa Minor Beta."
+202349.6	B-Rising Action	"They are looking for Zarniwoop, who has gone on an intergalactic cruise in his office via his virtual universe."
+202349.7	I-Rising Action	"Arthur, Trillian and Ford are unaware of any of this, knowing only that the computer has been shut down, and only having received a message from a stalling Nutrimatic that says ""Wait."""
+202349.8	B-Rising Action	"When Zaphod and Marvin reach the fifteenth floor of the Guides office, half of the building is lifted off the ground by Frogstar Fighters."
+202349.9	B-Rising Action	"A mysterious man named Roosta brings Zaphod to Zarniwoop's office, where they wait until the building lands on Frogstar World B. Roosta gives Zaphod final instructions before he leaves: Go through the window on his way out, not the door."
+202349.10	B-Rising Action	"Zaphod then meets Gargravarr who informs Zaphod that he is to be sent through the Total Perspective Vortex, a torture device which annihilates you by showing you just how infinitesimally small you are compared to the Universe."
+202349.11	I-Rising Action	"However when Zaphod enters it, the Vortex shows him that he is the most important thing in the Universe."
+202349.12	B-Rising Action	"Zaphod escapes, and finds Zarniwoop in the first class cabin of a spaceliner in an abandoned spaceport."
+202349.13	I-Rising Action	"Zarniwoop explains that the Total Perspective Vortex has not malfunctioned&nbsp;&mdash; this is a virtual universe created by Zarniwoop for the sole benefit of Zaphod, who is the most important creature in this universe."
+202349.14	I-Rising Action	It turns out that Zaphod had the shrunk Heart of Gold in his jacket pocket the whole time.
+202349.15	I-Rising Action	"It is reconstituted, and Zaphod is reunited with Trillian, Arthur and Ford."
+202349.16	B-Rising Action	They escape from Zarniwoop by asking to be transported to the nearest restaurant.
+202349.17	B-Rising Action	"Milliways, the Restaurant at the End of the Universe, is the nearest restaurant in space but not time."
+202349.18	I-Rising Action	"They are transported there ""five hundred and seventy-six thousand million years"" into the future."
+202349.19	I-Rising Action	Marvin is left stranded here for this incredibly vast amount of time parking diners' spaceships while waiting for the humans to return.
+202349.20	B-Climax	"After the meal, Zaphod and Ford steal a spaceship, which turns out to be a stuntship belonging to the rock band Disaster Area, programmed to dive into a star to provide backing effects for a rock concert."
+202349.21	I-Climax	"There is a teleporter on the ship for which the guidance system was never built, as it was never intended to be used, and it also requires somebody to stay on the ship in order to operate it."
+202349.22	I-Climax	"Marvin is chosen to stay behind and teleport the others, who have no choice but to go wherever it takes them."
+202349.23	B-Falling Action	"Zaphod and Trillian are returned to the Heart of Gold, which is commandeered by Zarniwoop to complete his mission, to discover who really rules the Universe."
+202349.24	B-Falling Action	"As it turns out, the Ruler of the Universe is entirely skeptical that he holds this position, as he is entirely skeptical of everything, including whether his cat, The Lord, really exists, or whether there is even a universe at all outside of his small isolated home."
+202349.25	B-Falling Action	"While Zarniwoop attempts to impress upon the Ruler of the Universe the reality and the weight of his position, Trillian and Zaphod sneak out and fly the Heart of Gold away."
+202349.26	B-Falling Action	"The teleporter has meanwhile sent Arthur and Ford to the Golgafrinchan Ark Fleet Ship B, a ship of fools which crash-lands on prehistoric Earth."
+202349.27	I-Falling Action	"They realize that the bumbling travellers are the real ancestors of modern humans, not the Neanderthals originally inhabiting the planet."
+202349.28	B-Falling Action	"Arthur attempts to determine the Question to the Ultimate Answer of Life, the Universe and Everything by reaching into a Scrabble bag made from Ford's towel and pulling out letters randomly, hoping Deep Thought's computational matrix in Earth would have rubbed off on his subconscious."
+202349.29	I-Falling Action	"The letters spell ""What do you get when you multiply six by nine"" See this website for possible explanations of this seeming error."
+202349.30	I-Falling Action	"before running out, although the Neanderthals manage to spell ""forty-two"" with the tiles, implying that it is they, rather than the Golgafrinchans, who were intended to be part of Earth's computer matrix."
+202349.31	B-Resolution	"After some brief contemplation, Ford and Arthur realize that this is, in fact, a detrimental ""cock-up,"" and that the Earth will never produce the proper Question, thus destroying all hope of ever finding out what it is."
+202349.32	B-Resolution	"As Ford convinces Arthur that there is nothing that can be done to improve the inevitable history of the Earth, Arthur decides that he should make the best of his situation and settles for a life on prehistoric Earth."
+
+45896.1	B-Exposition	Part One begins with Meursault finding out of his mother's death.
+45896.2	B-Exposition	"At her funeral, he expresses none of the expected emotions of grief."
+45896.3	I-Exposition	"When asked if he wishes to view the body, he says no, and, instead, smokes and drinks coffee with milk in front of the coffin."
+45896.4	I-Exposition	"Rather than expressing his feelings, he only comments to the reader about the others at the funeral."
+45896.5	B-Exposition	"He later encounters Marie, a former employee of his firm, and the two become re-acquainted and begin to have a sexual relationship, regardless of the fact that Meursault's mother died just a day before."
+45896.6	B-Inciting Incident	"In the next few days, he helps his friend and neighbour, Raymond Sintès, take revenge on a Moorish girlfriend suspected of infidelity."
+45896.7	B-Rising Action	"For Raymond, Meursault agrees to write a letter to his girlfriend, with the sole purpose of inviting her over so that Raymond can have sex with her but kick her out at the last minute as emotional revenge."
+45896.8	I-Rising Action	"Meursault sees no reason not to help him, and it pleases Raymond."
+45896.9	I-Rising Action	"He does not express concern that Raymond's girlfriend is going to be emotionally hurt, as he believes Raymond's story that she has been unfaithful, and he himself is both somewhat drunk and characteristically unfazed by any feelings of empathy."
+45896.10	I-Rising Action	In general he considers other people either interesting or annoying.
+45896.11	B-Rising Action	"The letter works: the girlfriend returns, but the situation escalates when she slaps Raymond after he tries to kick her out, and Raymond beats her."
+45896.12	B-Rising Action	"Raymond is taken to court where Meursault testifies that she had been unfaithful, and Raymond is let off with a warning."
+45896.13	B-Rising Action	"After this, the girlfriend's brother and several Arab friends begin tailing Raymond."
+45896.14	B-Rising Action	"Raymond invites Meursault and Marie to a friend's beach house for the weekend, and when there, they encounter the spurned girlfriend's brother and an Arab friend; these two confront Raymond and wound him with a knife during a fist fight."
+45896.15	B-Climax	"Later, walking back along the beach alone and now armed with a pistol he took from Raymond so that Raymond would not do anything rash, Meursault encounters the Arab."
+45896.16	I-Climax	"Meursault is now disoriented on the edge of heatstroke, and when the Arab flashes his knife at him, Meursault shoots."
+45896.17	I-Climax	"Despite killing the Arab man with the first gunshot, he shoots the corpse four more times after a brief pause."
+45896.18	I-Climax	"He does not divulge to the reader any specific reason for his crime or emotions he experiences at the time, if any, aside from the fact that he was bothered by the heat and bright sunlight."
+45896.19	B-Falling Action	"Part Two begins with Meursault's incarceration, explaining his arrest, time in prison, and upcoming trial."
+45896.20	I-Falling Action	"His general detachment makes living in prison very tolerable, especially after he gets used to the idea of not being able to go places whenever he wants to and no longer being able to satisfy his sexual desires with Marie."
+45896.21	I-Falling Action	"He passes the time sleeping, or mentally listing the objects he owned back in his apartment building."
+45896.22	B-Falling Action	"At the trial, Meursault's quietness and passivity is seen as demonstrative of his seeming lack of remorse or guilt by the prosecuting attorney, and so the attorney concentrates more upon Meursault's inability or unwillingness to cry at his mother's funeral than on the actual murder."
+45896.23	I-Falling Action	"The attorney pushes Meursault to tell the truth but never comes through and later, on his own, Meursault explains to the reader that he simply was never really able to feel any remorse or personal emotions for any of his actions in life."
+45896.24	I-Falling Action	"The dramatic prosecutor theatrically denounces Meursault to the point that he claims Meursault must be a soulless monster, incapable of remorse and that he thus deserves to die for his crime."
+45896.25	B-Falling Action	"Although Meursault's attorney defends him and later tells Meursault that he expects the sentence to be light, Meursault is alarmed when the judge informs him of the final decision: that he will be decapitated publicly."
+45896.26	B-Resolution	"In prison, while awaiting the execution of his death sentence by the guillotine, Meursault meets with a chaplain, but rejects his proffered opportunity of turning to God, explaining that God is a waste of his time."
+45896.27	I-Resolution	"Although the chaplain persists in attempting to lead Meursault from his atheism, Meursault finally accosts him in a rage, with a climactic outburst on his frustrations and the absurdity of the human condition; his personal anguish at the meaninglessness of his existence without respite."
+45896.28	I-Resolution	"At the beginning of his outrage he mentions other people in anger, that they have no right to judge him, for his actions or for who he is, no one has the right to judge someone else."
+45896.29	I-Resolution	"Meursault ultimately grasps the universe's indifference towards humankind (coming to terms with his execution): ""As if that blind rage had washed me clean, rid me of hope; for the first time, in that night alive with signs and stars, I opened myself to the benign indifference of the world."
+45896.30	I-Resolution	"Finding it so much like myself—so like a brother, really—I felt that I had been happy and that I was happy again."
+45896.31	I-Resolution	"For everything to be consummated, for me to feel less alone, I had only to wish that there be a large crowd of spectators the day of my execution and that they greet me with howls of execration."""
+
+8567.1	B-Exposition	" Twelve years after the events described in Dune (1965), Paul ""Muad'Dib"" Atreides rules as Emperor."
+8567.2	I-Exposition	"By accepting the role of messiah to the Fremen, Paul had unleashed a jihad which conquered most of the known universe."
+8567.3	I-Exposition	"While Paul is the most powerful Emperor ever known, he is powerless to stop the lethal excesses of the religious juggernaut he has created."
+8567.4	I-Exposition	"Although sixty-one billion people have perished, Paul's prescient visions indicate that this is far from the worst possible outcome for humanity."
+8567.5	I-Exposition	"Motivated by this knowledge, Paul hopes to set humanity on a course that will not inevitably lead to stagnation and destruction, while at the same time acting as ruler of the Empire and focal point of the Fremen religion."
+8567.6	B-Inciting Incident	"The Bene Gesserit, Spacing Guild and Tleilaxu enter into a conspiracy to dethrone Paul, the Bene Gesserit Reverend Mother Gaius Helen Mohiam enlisting Paul's own consort Princess Irulan, daughter of the deposed Padishah Emperor Shaddam Corrino IV."
+8567.7	B-Rising Action	"Paul has refused to father a child with Irulan (or even touch her), but his Fremen concubine Chani has also failed to produce an heir, causing tension within his monarchy."
+8567.8	I-Rising Action	"Desperate both to secure her place in the Atreides dynasty and to preserve the Atreides bloodline for the Bene Gesserit breeding program, Irulan has secretly been giving contraceptives to Chani."
+8567.9	I-Rising Action	"Paul is aware of this fact, but has foreseen that the birth of his heir will bring Chani's death, and does not want to lose her."
+8567.10	B-Rising Action	"Because of the way oracles interfere with one another's prescience, the Guild Navigator Edric is able to shield the conspiracy from Paul's visions of the future."
+8567.11	B-Rising Action	"The Tleilaxu Face Dancer Scytale gives Paul a gift he cannot resist: a Tleilaxu-grown ghola of the deceased Duncan Idaho, Paul's childhood teacher and friend, now called ""Hayt""."
+8567.12	I-Rising Action	The conspirators hope the presence of Hayt will undermine Paul's ability to rule by forcing Paul to question himself and the empire he has created.
+8567.13	I-Rising Action	"Furthermore, Paul's acceptance of the gift weakens his support among the Fremen, who see the Tleilaxu and their tools as unclean."
+8567.14	B-Rising Action	"Chani, taking matters into her own hands, switches to a traditional Fremen fertility diet, preventing Irulan from being able to tamper with her food, and soon becomes pregnant."
+8567.15	B-Rising Action	"Otheym, one of Paul's former Fedaykin death commandos, reveals evidence of a Fremen conspiracy against Paul."
+8567.16	B-Rising Action	"Otheym gives Paul his dwarf Tleilaxu servant Bijaz who, like a recording machine, can remember faces, names, and details."
+8567.17	I-Rising Action	"Paul accepts reluctantly, seeing the strands of a Tleilaxu plot."
+8567.18	B-Rising Action	"As Paul's soldiers attack the conspirators, others set off an atomic weapon called a stone burner, purchased from the Tleilaxu, that destroys the area and blinds Paul."
+8567.19	B-Rising Action	"By tradition, all blind Fremen are abandoned in the desert, but Paul shocks the Fremen and entrenches his godhead by proving he can still see, even without eyes."
+8567.20	I-Rising Action	"His oracular powers have become so developed that he can foresee in his mind everything that happens, as though his eyes still function."
+8567.21	I-Rising Action	"By moving through his life in lockstep with his visions, he can see even the slightest details of the world around him."
+8567.22	I-Rising Action	The disadvantage of this is his inability to change any part of his destiny so long as he wishes to appear sighted.
+8567.23	B-Rising Action	"The unraveling of the Fremen conspiracy reveals that Korba, a former Fedaykin and now high priest of Paul's church, is among Paul's enemies."
+8567.24	B-Rising Action	"Hayt interrogates Bijaz, but the little man—actually an agent of the Tleilaxu—uses a specific humming intonation that renders Hayt open to implanted commands."
+8567.25	B-Rising Action	"Bijaz programs Hayt to offer Paul a bargain when Chani dies: Chani's rebirth as a ghola, and the hope that Duncan Idaho's memories might be reawakened, in return for Paul sacrificing the throne and going into exile."
+8567.26	I-Rising Action	"Bijaz also implants a compulsion that will force Hayt to attempt to kill Paul, given the appropriate circumstances."
+8567.27	I-Rising Action	Hayt remains oblivious of the programming.
+8567.28	B-Rising Action	Eventually news is brought that Chani has died giving birth.
+8567.29	B-Rising Action	"Paul's reaction to it triggers the compulsions in the mind of Hayt, who attempts to kill Paul."
+8567.30	B-Rising Action	"But rather than kill his beloved Paul, Duncan's ghola body reacts against its own programming and recovers Duncan's full consciousness."
+8567.31	I-Rising Action	"He remains conscious of the Zen-Sunni and Mentat training given to Hayt by the Tleilaxu, but is no longer bound to their programming."
+8567.32	B-Rising Action	"Paul and Chani's newborn twins are ""pre-born"", like Paul's sister Alia had been, and come into the world fully conscious with Kwisatz Haderach-like access to ancestral memories thanks to a combination of their genes and an in utero exposure to the quantities of spice in Chani's special pregnancy diet."
+8567.33	B-Rising Action	Scytale offers to revive Chani as a ghola in return for all of Paul's CHOAM holdings.
+8567.34	B-Climax	"Paul refuses to submit to the possibility that the Tleilaxu might program Chani in some diabolical way, and Scytale threatens the infants with a knife while he negotiates with Alia."
+8567.35	B-Climax	"Paul has now been rendered completely blind by the presence of his oracular son, yet he is able to kill Scytale with an accurately aimed dagger thanks to a vision from his son's perspective."
+8567.36	B-Falling Action	"Now prophetically as well as physically blind, Paul chooses to embrace the Fremen tradition of a blind man walking alone into the desert, winning the fealty of the Fremen for his children, who will inherit his mantle of Emperor."
+8567.37	B-Resolution	"Paul leaves Alia, now romantically involved with Duncan, as regent for the twins, whom he has named Leto and Ghanima."
+8567.38	B-Resolution	"Duncan notes the irony that Paul and Chani's deaths had enabled them to triumph against their enemies, and that Paul has escaped deification by walking into the desert as a man, while guaranteeing Fremen support for the Atreides line."
+
+213077.1	B-Exposition	" ; Act 1 In the mid 1920s in Chicago, Illinois, Velma Kelly is a vaudevillian who murdered both her husband and her sister when she found them in bed together."
+213077.2	I-Exposition	"She welcomes the audience to tonight's show (""All That Jazz"")."
+213077.3	B-Inciting Incident	"Meanwhile, we hear of chorus girl Roxie Hart's murder of her lover, nightclub regular Fred Casely."
+213077.4	I-Inciting Incident	"Roxie convinces her husband Amos that the victim was a burglar, and Amos cheerfully takes the blame."
+213077.5	I-Inciting Incident	"Roxie expresses her appreciation of her husband's thick skull (""Funny Honey"")."
+213077.6	B-Rising Action	"However, when the police mention the deceased's name Amos belatedly puts two and two together."
+213077.7	B-Rising Action	"The truth comes out, and Roxie is arrested."
+213077.8	I-Rising Action	"She is sent to the women's block in Cook County Jail, inhabited by Velma and other murderesses (""Cell Block Tango"")."
+213077.9	I-Rising Action	"The block is presided over by the corrupt Matron ""Mama"" Morton, whose system of mutual aid (""When You're Good to Mama"") perfectly suits her clientele."
+213077.10	I-Rising Action	She has helped Velma become the media's top murder-of-the-week and is acting as a booking agent for Velma's big return to vaudeville.
+213077.11	B-Rising Action	"Velma is not happy to see Roxie, who is stealing not only her limelight but also her lawyer, Billy Flynn."
+213077.12	I-Rising Action	"Roxie tries to convince Amos to pay for Billy Flynn to be her lawyer (""A Tap Dance"")."
+213077.13	B-Rising Action	"Eagerly awaited by his all-girl clientele, Billy sings his anthem, complete with a chorus of fan dancers (""All I Care About is Love"")."
+213077.14	I-Rising Action	"Billy takes Roxie's case and re-arranges her story for consumption by sympathetic tabloid columnist Mary Sunshine (""A Little Bit of Good"")."
+213077.15	B-Rising Action	"Roxie's press conference turns into a ventriloquist act with Billy dictating a new version of the truth (""We Both Reached for the Gun"") to the press while Roxie mouths the words."
+213077.16	B-Rising Action	"Roxie becomes the new toast of Chicago and she proclaims so boastfully while planning for her future career in vaudeville (""Roxie"")."
+213077.17	B-Climax	"As Roxie's fame grows, Velma's notoriety is left in the dust and in an ""act of pure desperation"", she tries to talk Roxie into recreating the sister act (""I Can't Do It Alone""), but Roxie turns her down, only to find her own headlines replaced by the latest sordid crime of passion."
+213077.18	B-Falling Action	"Separately, Roxie and Velma realize there's no one they can count on but themselves (""My Own Best Friend""), and the ever-resourceful Roxie decides that being pregnant in prison would put her back on the front page."
+213077.19	B-Falling Action	"; Act 2 Velma again welcomes the audience with the line ""Hello, Suckers,"" another reference to Texas Guinan, who commonly greeted her patrons with the same phrase."
+213077.20	I-Falling Action	"She informs the audience of Roxie's continual run of luck (""I Know a Girl"") despite Roxie's obvious falsehoods (""Me and My Baby"")."
+213077.21	I-Falling Action	"A little shy on the arithmetic, Amos proudly claims paternity, and still nobody notices him (""Mr. Cellophane"")."
+213077.22	I-Falling Action	"Velma tries to show Billy all the tricks she's got planned for her trial (""When Velma Takes The Stand"")."
+213077.23	B-Falling Action	"With her ego growing, Roxie has a heated argument with Billy, and fires him."
+213077.24	I-Falling Action	She is brought back down to earth when she learns that a fellow inmate has been executed.
+213077.25	I-Falling Action	"The trial date arrives, and Billy calms her, telling her if she makes a show of it, she'll be fine (""Razzle Dazzle""), but when he passes all Velma's ideas on to Roxie, she uses each one, down to the rhinestone shoe buckles, to the dismay of Mama and Velma (""Class"")."
+213077.26	B-Resolution	"As promised, Billy gets Roxie her acquittal but, just as the verdict is given, some even more sensational crime pulls the pack of press bloodhounds away, and Roxie's fleeting celebrity life is over."
+213077.27	I-Resolution	"Billy leaves, done with the case."
+213077.28	I-Resolution	"Amos stays with her, glad for his wife, but she then confesses that there isn't really a baby, making Amos finally leave her."
+213077.29	I-Resolution	"Left in the dust, Roxie pulls herself up and extols the joys of life (""Nowadays"")."
+213077.30	I-Resolution	"She teams up with Velma in a new act, in which they dance and perform (""Hot Honey Rag"") until they are joined by the entire company (""Finale"")."
+
+42478.1	B-Exposition	The Rime of the Ancient Mariner relates the experiences of a sailor who has returned from a long sea voyage.
+42478.2	I-Exposition	The Mariner stops a man who is on the way to a wedding ceremony and begins to narrate a story.
+42478.3	I-Exposition	"The Wedding-Guest's reaction turns from bemusement to impatience and fear to fascination as the Mariner's story progresses, as can be seen in the language style: for example, Coleridge uses narrative techniques such as personification and repetition to create either a sense of danger, of the supernatural or of serenity, depending on the mood of each of the different parts of the poem."
+42478.4	B-Exposition	The Mariner's tale begins with his ship departing on its journey.
+42478.5	B-Inciting Incident	"Despite initial good fortune, the ship is driven south off course by a storm and eventually reaches Antarctica."
+42478.6	I-Inciting Incident	"An albatross appears and leads them out of the Antarctic but, even as the albatross is praised by the ship's crew, the Mariner shoots the bird (""with my cross-bow / I shot the albatross"")."
+42478.7	I-Inciting Incident	"The crew is angry with the Mariner, believing the albatross brought the south wind that led them out of the Antarctic."
+42478.8	I-Inciting Incident	"However, the sailors change their minds when the weather becomes warmer and the mist disappears (""'Twas right, said they, such birds to slay / that bring the fog and mist"")."
+42478.9	B-Rising Action	"However, they made a grave mistake in supporting this crime as it arouses the wrath of spirits who then pursue the ship ""from the land of mist and snow""; the south wind that had initially led them from the land of ice now sends the ship into uncharted waters, where it is becalmed."
+42478.10	B-Rising Action	": Day after day, day after day, : We stuck, nor breath nor motion; : As idle as a painted ship : Upon a painted ocean."
+42478.11	I-Rising Action	": Water, water, every where, : And all the boards did shrink; : Water, water, every where, : Nor any drop to drink."
+42478.12	B-Rising Action	"Here, however, the sailors change their minds again and blame the Mariner for the torment of their thirst."
+42478.13	I-Rising Action	"In anger, the crew forces the Mariner to wear the dead albatross about his neck, perhaps to illustrate the burden he must suffer from killing it, or perhaps as a sign of regret (""Ah!"
+42478.14	I-Rising Action	Well a-day!
+42478.15	I-Rising Action	What evil looks / Had I from old and young!
+42478.16	I-Rising Action	"/ Instead of the cross, the albatross / About my neck was hung"")."
+42478.17	B-Climax	"Eventually, the ship encounters a ghostly vessel."
+42478.18	I-Climax	"On board are Death (a skeleton) and the ""Night-mare Life-in-Death"" (a deathly-pale woman), who are playing dice for the souls of the crew."
+42478.19	I-Climax	"With a roll of the dice, Death wins the lives of the crew members and Life-in-Death the life of the Mariner, a prize she considers more valuable."
+42478.20	I-Climax	Her name is a clue as to the Mariner's fate; he will endure a fate worse than death as punishment for his killing of the albatross.
+42478.21	I-Climax	"One by one, all of the crew members die, but the Mariner lives on, seeing for seven days and nights the curse in the eyes of the crew's corpses, whose last expressions remain upon their faces."
+42478.22	B-Falling Action	"Eventually, the Mariner's curse is temporarily lifted when he sees sea creatures swimming in the water."
+42478.23	I-Falling Action	"Despite his cursing them as ""slimy things"" earlier in the poem (""Yea, slimy things did crawl with legs / upon the slimy sea""), he suddenly sees their true beauty and blesses them (""a spring of love gush'd from my heart and I bless'd them unaware""); suddenly, as he manages to pray, the albatross falls from his neck and his guilt is partially expiated."
+42478.24	B-Falling Action	"The bodies of the crew, possessed by good spirits, rise again and steer the ship back home, where it sinks in a whirlpool, leaving only the Mariner behind."
+42478.25	B-Falling Action	A hermit on the mainland had seen the approaching ship and had come to meet it with a pilot and the pilot's boy in a boat.
+42478.26	I-Falling Action	"When they pull him from the water, they think he is dead, but when he opens his mouth, the pilot has a fit."
+42478.27	I-Falling Action	"The hermit prays, and the Mariner picks up the oars to row."
+42478.28	I-Falling Action	"The pilot's boy goes crazy and laughs, thinking the Mariner is the devil, and says, ""The Devil knows how to row."""
+42478.29	B-Resolution	"As penance for shooting the albatross, the Mariner, driven by guilt, is forced to wander the earth, tell his story, and teach a lesson to those he meets: : He prayeth best, who loveth best : All things both great and small; : For the dear God who loveth us, : He made and loveth all."
+42478.30	B-Resolution	"After relating the story, the Mariner leaves, and the Wedding Guest returns home, and wakes the next morning ""a sadder and a wiser man""."
+
+29999.1	B-Exposition	" In 1976, Jack Torrance is an aspiring writer who is attempting to rebuild his marriage and career, both of which have been nearly ruined by two traits inherited from his late father: alcoholism and an explosive temper."
+29999.2	B-Exposition	"During one occasion while drinking, Jack broke his son's arm."
+29999.3	B-Exposition	"This incident shocked him into sobriety, but Jack's temper continued to plague him: he lost his teaching position at a Vermont prep school after assaulting a student."
+29999.4	B-Exposition	"Jack eagerly accepts a job as a winter caretaker at the Overlook Hotel, an isolated resort in the Colorado Rockies."
+29999.5	I-Exposition	Jack hopes that the seclusion will help him reconnect with his family and give him inspiration and the peace and quiet to help him write a new play.
+29999.6	B-Inciting Incident	"Jack, his wife Wendy, and their five-year-old son, Danny&mdash;who has telepathic abilities unknown to his parents&mdash;move into the Overlook."
+29999.7	I-Inciting Incident	Danny's abilities make him immediately sensitive to supernatural forces within the hotel.
+29999.8	B-Rising Action	"Shortly after the family's arrival at the Overlook, Danny and the hotel's chef, Dick Hallorann, talk privately to discuss Danny's talent and the hotel's sinister nature."
+29999.9	I-Rising Action	"Dick informs Danny that he shares Danny's abilities (though to a lesser degree), as did Dick's grandmother, who called it ""shining""."
+29999.10	I-Rising Action	"Dick warns Danny to avoid Room 217, but assures him that the things he may see are merely pictures which cannot harm him."
+29999.11	I-Rising Action	Dick urges Danny to contact him through the shining should trouble arise.
+29999.12	B-Rising Action	"As the Torrances settle in at the Overlook, Danny sees frightening ghosts and visions."
+29999.13	I-Rising Action	"Although Danny is close to Jack, he does not tell either of his parents about his visions because he senses that the caretaking job is important to his father and the family's future."
+29999.14	B-Rising Action	"Wendy considers leaving Jack at the Overlook to finish the job on his own; Danny refuses, thinking his father will be happier if they stay."
+29999.15	B-Rising Action	However Danny soon realizes his presence in the hotel makes the supernatural activity more powerful enabling it to make what Hallorann described as 'pictures' dangerous.
+29999.16	B-Rising Action	Apparitions take form and the garden's topiary animals come to life.
+29999.17	I-Rising Action	"Objects, such as a party hat in the elevator, mysteriously appear ."
+29999.18	B-Rising Action	"The Overlook has difficulty possessing Danny, so it begins to possess Jack, frustrating his need and desire to work."
+29999.19	B-Rising Action	"Jack becomes susceptible to cabin fever, and the sinister ghosts of the hotel gradually begin to overtake him, making him increasingly unstable."
+29999.20	B-Climax	"One day, after a fight with Wendy, Jack finds the hotel's bar fully stocked with alcohol despite being previously empty."
+29999.21	I-Climax	"As he gets drunk, the hotel urges Jack to kill his wife and son."
+29999.22	B-Falling Action	"Wendy and Danny get the better of Jack, locking him into the walk-in pantry, but the ghost of Delbert Grady, a former caretaker who murdered his family and then committed suicide, releases him."
+29999.23	B-Falling Action	"Wendy discovers that they are completely isolated at the Overlook, as Jack has sabotaged the hotel's snowcat and smashed the CB radio in the office."
+29999.24	B-Falling Action	"Jack strikes Wendy with one of the hotel's mallets, breaking two ribs, a kneecap, and one vertebra in her back."
+29999.25	I-Falling Action	"Wendy stabs Jack in the small of his back with a large butcher knife, then crawls away to the caretaker's suite and locks herself in the bathroom, with Jack in pursuit."
+29999.26	B-Falling Action	"Jack tries to break the door with the mallet, but before he unlocks the door she keeps him back by cutting him with some razor blades."
+29999.27	B-Falling Action	"Hallorann, working at a winter resort in Florida, has heard Danny's psychic call for help and rushes back to the Overlook."
+29999.28	B-Falling Action	"Jack leaves Wendy in the bathroom and ambushes Hallorann, shattering his jaw and giving him a concussion with the mallet, before setting off after Danny."
+29999.29	B-Falling Action	"Danny distracts Jack by saying ""You're not my daddy,"" having realized that the Overlook has completely taken over Jack by playing on his alcoholism."
+29999.30	I-Falling Action	"Jack temporarily regains control of himself and tells Danny, ""Run away."
+29999.31	I-Falling Action	Quick.
+29999.32	I-Falling Action	"And remember how much I love you""."
+29999.33	B-Falling Action	"Soon after, Jack is quickly possessed by the hotel again."
+29999.34	I-Falling Action	He violently bashes his own face and skull in with his mallet so Danny can no longer recognize him as his father.
+29999.35	B-Falling Action	"Danny, realizing that his father is now gone forever, tells Jack that the unstable boiler is going to explode."
+29999.36	I-Falling Action	"In response, Jack rushes to the basement."
+29999.37	B-Falling Action	"Danny and Wendy reunite in the lobby, and they flee the Overlook with Hallorann."
+29999.38	B-Falling Action	"Though Jack tries to relieve the boiler pressure, it explodes, destroying the hotel."
+29999.39	B-Falling Action	"The building's spirit makes one last desperate attempt to possess Hallorann and make him kill Danny and Wendy, but he shakes it off and brings them to safety."
+29999.40	B-Resolution	"The novel ends with Danny and Wendy summering at a resort in Maine where Hallorann, the head chef, talks with Danny and comforts him over the loss of his father."
+
+198494.1	B-Exposition	" The first-person narrative is told from the point of view of Alexei Ivanovich, a tutor working for a Russian family living in a suite at a German hotel."
+198494.2	B-Exposition	"The patriarch of the family, The General, is indebted to the Frenchman De Grieux and has mortgaged his property in Russia to pay only a small amount of his debt."
+198494.3	B-Inciting Incident	"Upon learning of the illness of his wealthy aunt, ""Grandmother"", he sends streams of telegrams to Moscow and awaits the news of her demise."
+198494.4	B-Inciting Incident	His expected inheritance will pay his debts and gain Madamoiselle De Cominges's hand in marriage.
+198494.5	B-Rising Action	Alexei is hopelessly in love with Polina and swears an oath of servitude to her.
+198494.6	I-Rising Action	He told her while on a walk on the Schlangenberg (a mountain in the German town) that all she had to do was give the word and he would gladly walk off the edge and plummet to his death.
+198494.7	I-Rising Action	This leads to her asking him to go to the town's casino and place a bet for her.
+198494.8	I-Rising Action	"He refuses at first but, when goaded and reminded of his oath of undying love and servility, he succumbs and ends up winning at the roulette table (this was his first experience with the narcotic bliss of gambling)."
+198494.9	I-Rising Action	He returns to her the winnings but she will not tell him the reason she needs money.
+198494.10	I-Rising Action	"She only laughs in his face (as she does when he professes his love) and treats him with cold indifference, if not downright malice."
+198494.11	B-Rising Action	"He only learns the details of The General's and Polina's financial state later in the story through his long-time acquaintance, Mr. Astley."
+198494.12	I-Rising Action	Astley is a shy Englishman who seems to share Alexei's fondness of Polina.
+198494.13	I-Rising Action	He comes from English nobility and has a good deal of money.
+198494.14	B-Rising Action	One day while Polina and Alexei are on a walk they see a Baron and Baroness.
+198494.15	B-Rising Action	Polina dares him to insult the Aristocratic couple and he does so with little hesitation.
+198494.16	I-Rising Action	This sets off a chain of events that details Madame de Cominges's interest in the General and gets Alexei fired as tutor of the General's children.
+198494.17	B-Rising Action	Shortly after this Grandmother shows up and surprises the whole party of debtors and indebted.
+198494.18	I-Rising Action	She tells them all that she knows all about the General's debt and why the French man and woman are waiting around the suite day after day.
+198494.19	I-Rising Action	She leaves the party of death-profiteers by saying that none of them are getting any of her money.
+198494.20	I-Rising Action	She then asks Alexei to be her guide around the town famous for its healing waters and infamous for its casino where the tables are stacked with piles of gold; she wants to gamble.
+198494.21	B-Rising Action	"After being ushered to the roulette table, she plays and wins a significant amount of money."
+198494.22	B-Rising Action	After a short return to the Hotel she comes back to roulette tables and she starts to get the bug; before she leaves the town she's lost almost a hundred thousand roubles.
+198494.23	B-Climax	When Alexei gets back to his room after sending Grandmother off at the railway station he's greeted by Polina.
+198494.24	I-Climax	She tells him that De Grieux had left town but not before he absolved the General from a certain moiety of the mortgages on his property.
+198494.25	I-Climax	She then explains that because she was indebted to him she couldn't return Alexei's love.
+198494.26	B-Falling Action	Upon hearing this Alexei runs out of the room and to the casino where he wins over two hundred thousand roubles and becomes a rich man.
+198494.27	B-Falling Action	When he gets back to his room and the waiting Polina he empties his pockets full of gold and bank notes onto the bed.
+198494.28	I-Falling Action	They fall asleep on the couch and the next day she tells Alexei that she hates him and wants to be with Mr. Astley (they had been secretly meeting and exchanging notes and she was supposed to meet him but had fallen asleep in his room).
+198494.29	I-Falling Action	She runs out of the hotel and he doesn't see her again.
+198494.30	B-Falling Action	After learning that the general wouldn't be getting his inheritance Madame de Cominges leaves the hotel with her mother for Paris.
+198494.31	I-Falling Action	"Alexei goes with them having won a significant amount and they stay together for a month, he allowing them to spend his entire fortune on horses and frivolous balls."
+198494.32	I-Falling Action	Alexei starts to gamble to survive.
+198494.33	B-Resolution	One day he passes Mr. Astley on a park bench in Bad Homburg and has a talk with him.
+198494.34	I-Resolution	He finds out from Astley that Polina is in Switzerland and actually does love him.
+198494.35	I-Resolution	Astley gives him some money but shows little hope that he will not use it for gambling.
+198494.36	I-Resolution	Alexei goes home dreaming of going to Switzerland the next day and recollects what made him win at the roulette tables in the past.
+
+24965.1	B-Exposition	" ;Act I Conceived as a sort of Japanese playwright's version of an American musical about American influences on Japan, Pacific Overtures begins its journey to the present day in July 1853."
+24965.2	B-Exposition	"Since the foreigners were driven from the island empire, explains the Reciter, there has been nothing to threaten the changeless cycle of their days."
+24965.3	B-Exposition	"Elsewhere, wars are fought and machines are rumbling but in Nippon they plant rice, exchange bows and enjoy peace and serenity."
+24965.4	B-Inciting Incident	"But President Millard Fillmore, determined to open up trade with Japan, has sent Commodore Matthew C. Perry across the Pacific, and, to the consternation of Lord Abe and the Shogun's other Councillors, the stirrings of trouble begin with the appearance of Manjiro, a fisherman who was lost at sea and rescued by Americans."
+24965.5	B-Inciting Incident	"He returns to Japan and attempts to warn Abe of the presence of warships in the waters around Okinawa, but is instead arrested for consorting with foreigners."
+24965.6	B-Inciting Incident	"A minor samurai, Kayama is appointed Prefect of the Police at Uraga to drive the Americans away - news which leaves Tamate, his wife, grief-stricken since it will result in certain failure and shame."
+24965.7	I-Inciting Incident	"As he leaves, she expresses her feelings in dance as two Observers describe the scene and reveal her thoughts in ""There Is No Other Way""."
+24965.8	B-Rising Action	"As a Fisherman, a Thief and other locals relate the sight of the ""Four Black Dragons"" roaring through the sea, an extravagant Oriental caricature of the USS Powhatan pulls into harbor."
+24965.9	B-Rising Action	Kayama is sent to meet with the Americans but he is rejected as not important enough.
+24965.10	B-Rising Action	"He enlists the aid of Manjiro, the only man in Japan who has dealt with Americans, and disguised as a great lord, Manjiro gets an answer from them: Commodore Perry announces that he must meet the Shogun within six days or else he will shell the city."
+24965.11	I-Rising Action	Faced with this ultimatum the Shogun takes to his bed.
+24965.12	B-Rising Action	"Exasperated by his indecision, his Mother with elaborate courtesy, poisons him with ""Chrysanthemum Tea."""
+24965.13	B-Rising Action	"With the Shogun dead, Kayama devises a plan by which the Americans, thanks to a covering of tatami mats and a raised Treaty House, can be received without having, technically, to set foot on Japanese soil."
+24965.14	B-Rising Action	"He and Manjiro set off for Uraga, forging a band of friendship through the exchange of ""Poems""."
+24965.15	B-Rising Action	"Kayama has saved Japan, but it is too late to save Tamate."
+24965.16	I-Rising Action	He returns home to find her dead from seppuku.
+24965.17	B-Rising Action	"Already events are moving beyond the control of the old order: the two men pass a Madam instructing her inexperienced Girls in the art of seduction as they prepare to ""Welcome to Kanagawa"" the foreign devils."
+24965.18	B-Rising Action	"Commodore Perry and his men come ashore and, on their ""March to the Treaty House"", demonstrate their goodwill by offering such gifts as two bags of Irish potatoes and a copy of Owen's ""Geology of Minnesota""."
+24965.19	I-Rising Action	"The negotiations themselves are seen through the memory of three who were there: a warrior who could hear the debates but not see it from his hiding place in the floor of the house, a young boy who could see the action but not hear it from his perch in the tree outside, and the boy as an old man recalling that without ""Someone In a Tree"", a silent watcher, history may have been incomplete."
+24965.20	B-Rising Action	"Initially, it seems as if Kayama has won: the Americans depart in peace."
+24965.21	B-Rising Action	"But then the barbarian figure of Commodore Perry leaps out to perform a traditional Kabuki ""Lion Dance"", which ends as a strutting, triumphalist, all-American cakewalk."
+24965.22	B-Rising Action	";Act II The child emperor (portrayed by a puppet manipulated by his advisors) reacts with pleasure to the departure of the Americans, promoting Lord Abe to Shogun, Kayama to Governor of Uraga and Manjiro to the rank of Samurai."
+24965.23	B-Climax	"The crisis appears to have passed, but to the surprise of Lord Abe the Americans return to request formal trading arrangements."
+24965.24	B-Climax	"To the tune of a Sousa march, they bid Japan ""Please Hello"" and are followed by a Gilbertian British Admiral, a clog-dancing Dutch Admiral, a gloomy Russian and a dandified Frenchman all vying for access to Japan's markets."
+24965.25	B-Climax	"With this new western threat, the faction of the Lords of the South grow restless."
+24965.26	B-Falling Action	"They send a politically charged gift to the Emperor, a storyteller who tells a vivid, allegorical tale of a brave young emperor who frees himself from his cowardly Shogun."
+24965.27	B-Falling Action	The years pass as Kayama and Manjiro dress themselves for tea.
+24965.28	B-Falling Action	"As Manjiro continues to dress with painstaking slowness into ceremonial robes for the tea ritual, Kayama slowly adopts the manners and dress of the newcomers, proudly displaying his new pocket watch, cutaway coat and ""A Bowler Hat""."
+24965.29	B-Falling Action	But there are other less pleasant changes prompted by westernization.
+24965.30	B-Falling Action	"Three British Sailors mistake a ""Pretty Lady"" for a geisha."
+24965.31	I-Falling Action	"Though their approach is gentle, the girl cries for help and her father kills the confused Tars."
+24965.32	B-Falling Action	"Reporting on the situation to the Shogun, Kayama witnesses Lord Abe's murder by cloaked assassins and himself is killed by one of their number - his former friend, Manjiro."
+24965.33	B-Falling Action	In the ensuing turmoil the puppet Emperor seizes real power and vows that Japan will modernize itself.
+24965.34	B-Resolution	"As the country moves from one innovation to the ""Next!"
+24965.35	I-Resolution	""", the Imperial robes are removed layer by layer to show the Reciter in T-shirt and black trousers."
+24965.36	B-Resolution	"Contemporary Japan - the world of Toyota and Seiko, air pollution and contaminated beaches -assembles itself around him."
+24965.37	B-Resolution	"""There was a time when foreigners were not welcome here."
+24965.38	I-Resolution	"But that was long ago,"" he says."
+24965.39	I-Resolution	"""Welcome to Japan."""
+
+179860.1	B-Exposition	Pongo and Missis Pongo (or simply Missis) are a pair of Dalmatians who live with the newly married Mr. and Mrs.
+179860.2	B-Exposition	"Dearly and their two nannies, Nanny Cook and Nanny Butler."
+179860.3	B-Exposition	Mr.
+179860.4	I-Exposition	"Dearly is a ""financial wizard"" who has been granted lifelong tax exemption and lent a house on the Outer Circle in Regent's Park in return for wiping out the government debt."
+179860.5	I-Exposition	"The dogs consider the humans their pets, but allow the humans to think that they are the owners."
+179860.6	B-Inciting Incident	Missis gives birth to a litter of 15 puppies.
+179860.7	I-Inciting Incident	"Concerned that Missis will not be able to feed them all, the humans join in to help."
+179860.8	B-Rising Action	Mrs.
+179860.9	B-Rising Action	"Dearly looks for a canine wet nurse, and finds an abandoned Dalmatian in the middle of the road in the pouring rain."
+179860.10	B-Rising Action	"She has the dog treated by a vet and names her Perdita (""lost"")."
+179860.11	B-Rising Action	Perdita later tells Pongo about her lost love and the circumstances that led to her abandonment.
+179860.12	B-Rising Action	Mr. and Mrs.
+179860.13	B-Rising Action	"Dearly attend a dinner party hosted by Cruella de Vil, an intimidating and very wealthy woman fixated on fur clothing."
+179860.14	I-Rising Action	The Dearlys are disconcerted by her belief that all animals are worthless and should be drowned.
+179860.15	B-Rising Action	"Shortly after the dinner party, the puppies disappear."
+179860.16	I-Rising Action	"The humans fail to trace them but through the ""Twilight Barking"", a forum of communication in which dogs can relay messages to each other across the country, the dogs manage to track them down to ""Hell Hall"", the ancestral home of the de Vil family in Suffolk."
+179860.17	I-Rising Action	Pongo and Missis try to relate the puppies' location to the Dearlys but fail.
+179860.18	B-Climax	"The dogs decide to run away and find them themselves, leaving Perdita to look after the Dearlys."
+179860.19	B-Climax	"After a journey across the countryside, they meet the Colonel, an Old English Sheepdog who shows them Hell Hall and tells them its history."
+179860.20	I-Climax	"They learn that there are 97 puppies in Hell Hall, including Pongo and Missis' own 15."
+179860.21	I-Climax	Cruella de Vil appears and tells the crooks in charge of Hell Hall to slaughter and skin the dogs as soon as possible because of the publicity surrounding the theft of the Dearlys' puppies.
+179860.22	B-Falling Action	Pongo and Missis devise a plan to rescue all of the puppies and escape the day before Christmas Eve.
+179860.23	B-Falling Action	"One puppy, Cadpig, is too weak to walk the long distance from Suffolk to London so Tommy, the Colonel's two year old pet, lends her a toy carriage."
+179860.24	I-Falling Action	"When the carriage loses a wheel, they rest on the hassocks of a country church."
+179860.25	I-Falling Action	"Cruella almost finds them, but the dogs manage to escape in a removal van."
+179860.26	I-Falling Action	"Having rolled in soot to disguise themselves, they hide in the darkness of the van with the help of a Staffordshire terrier whose pets are the drivers of the van."
+179860.27	B-Falling Action	"Upon arriving in London, the dogs destroy Cruella's collection of animal skins and fur coats with the aid of Cruella's abused cat."
+179860.28	B-Resolution	The Dalmatians then return home.
+179860.29	B-Resolution	"Once the dogs roll around to remove the soot from their coats, the Dearlys recognise them and send out for steaks to feed them."
+179860.30	I-Resolution	Cruella's cat visits to say Cruella has fled from Hell Hall.
+179860.31	I-Resolution	It has been put up for sale and Mr Dearly buys it with money he has been given by the government for sorting out another tax problem.
+179860.32	I-Resolution	"He proposes to use it to start a ""dynasty of Dalmatians"" (and a ""dynasty of Dearlys"" to take care of them)."
+179860.33	B-Resolution	"Finally, Perdita's lost love, Prince, returns."
+179860.34	I-Resolution	His pets see his love for Perdita and allow him to stay with the Dearlys and become their 101st Dalmatian.
+
+256075.1	B-Exposition	" The young, immature and carefree Effi, still practically a child, but attracted by notions of social honour, consents to live in the small Baltic town of Kessin, where she ends up in the throes of an emotional crisis."
+256075.2	I-Exposition	Her husband is away for weeks at a time and leaves her to her own devices in their home.
+256075.3	B-Inciting Incident	"Alienated from the local aristocracy and therefore miserably unhappy, Effi finds but one companion in the whole town."
+256075.4	I-Inciting Incident	She suspects that their house may be haunted.
+256075.5	I-Inciting Incident	"Innstetten reassures her, but, perhaps on purpose, does not completely lay her fears to rest."
+256075.6	B-Inciting Incident	"When she voices her disquiet about the possible presence of a ghost, her husband angrily responds that her fears are insignificant when compared with the importance of his political career."
+256075.7	B-Inciting Incident	His reply shows his worry that people may learn about Effi’s discomfort and subsequently censure them publicly.
+256075.8	B-Rising Action	"The mercurial and debonair Major Crampas finally announces his arrival in Kessin, and although he is married and notorious for his overt womanising, Effi cannot help but rejoice in the attention he shows to her."
+256075.9	B-Rising Action	"As the reader is only delicately told, a full extramarital relationship is consummated."
+256075.10	B-Rising Action	"Despite this, later in the novel Effi is relieved to move to Berlin, away from Crampas, and expresses shame at her adultery, although she also expresses shame at not feeling guilty enough."
+256075.11	I-Rising Action	"Innstetten, however, inwardly scorns Crampas and perceives him as a lecherous womanizer with a cavalier attitude to the laws, whereas Crampas is persuaded that Innstetten has a habit of educating and ""edifying"" his fellows in a slightly patronising way."
+256075.12	B-Rising Action	"Years later, Effi’s young daughter Annie is growing up and the family has relocated to Berlin as Innstetten has ascended the political hierarchy."
+256075.13	I-Rising Action	All things appear to have turned out well for Effi.
+256075.14	B-Climax	"However, Instetten discovers her old correspondence with Crampas, and learns that his wife had become enamored of Crampas while they were living in Kessin."
+256075.15	B-Climax	Innstetten challenges Crampas to a duel.
+256075.16	I-Climax	Crampas agrees to the plan and is killed by Innstetten.
+256075.17	I-Climax	Innstetten resolves to divorce Effi immediately.
+256075.18	B-Falling Action	"He is given custody of their daughter, in whom he successfully develops a feeling of disdain for her mother."
+256075.19	B-Falling Action	"Indeed, when Effi and Annie arrange a brief encounter a couple of years later, the tense atmosphere which dominates the reunion shows that they have grown further apart."
+256075.20	I-Falling Action	"In the aftermath of this meeting, Effi ceases to make any more endeavors to strike up an untroubled relationship with her daughter."
+256075.21	B-Falling Action	"Forlorn and disowned by her fellows, Effi adjusts to a reclusive life and suffers from ostracism for years, during which she plumbs the depths of despair."
+256075.22	B-Falling Action	"Since public opprobrium has been heaped upon her, her parents refuse to take her back, believing that it is not right for them to accept her in the midst of their family."
+256075.23	I-Falling Action	"(According to the prevailing values of the late nineteenth century, one's reputation would be besmirched by the acquaintance of someone whose marriage was annulled because of their own adultery.)"
+256075.24	B-Falling Action	"In the meantime, Innstetten has second thoughts about his action."
+256075.25	I-Falling Action	He finally has to acknowledge that the brighter days of his marriage are long past: he does not even delight in his gradual ascent within the country’s political hierarchy.
+256075.26	B-Resolution	"Effi is eventually taken in by her parents, and temporarily seems to recover from the nervous disorder she has come down with."
+256075.27	I-Resolution	"Her recovery is nonetheless temporary, as feelings of sorrow and repentance are deeply embedded in her soul."
+256075.28	B-Resolution	"Shortly before she passes away, she summons her mother and pleads with her to inform Innstetten about her regrets about her actions, with which she has been bedevilled over the course of her declining years."
+256075.29	B-Resolution	"The novel closes with Effi dying serenely at the parental estate of Hohen-Cremmen, in a very symmetrical ending that matches the beginning of the novel."
+256075.30	B-Resolution	"In the novel’s final scene, her parents vaguely realise their responsibility for her intractable hardships, but ultimately they do not dare question the social constructs which caused the tragedy."
+
+233097.1	B-Exposition	" In this novel, the characters of Plantagenet Palliser, his wife Lady Glencora and their uncle the ailing Duke of Omnium are in the background."
+233097.2	B-Exposition	"The plot centres on Lizzie Greystock, a fortune-hunter who ensnares the sickly, dissipated Sir Florian Eustace and is soon left a very wealthy widow and mother."
+233097.3	I-Exposition	"While clever and beautiful, Lizzie has several character flaws; the greatest of these is an almost pathological delight in lying, even when it cannot benefit her."
+233097.4	I-Exposition	"(Trollope comments that Lizzie sees lies as ""more beautiful than the truth."")"
+233097.5	B-Exposition	"Before he dies, the disillusioned Sir Florian discovers all this, but does not think to change the generous terms of his will."
+233097.6	B-Inciting Incident	"The diamonds of the book's title are a necklace, a family heirloom that Sir Florian gave to Lizzie to wear."
+233097.7	I-Inciting Incident	"Though they belong to her husband's estate (and thus eventually will be the property of her son), Lizzie refuses to relinquish them."
+233097.8	I-Inciting Incident	"She lies about the terms under which they were given to her, leaving their ownership unclear."
+233097.9	B-Rising Action	"The indignant Eustace family lawyer, Mr Camperdown, strives to retrieve the necklace, putting the Eustaces in an awkward position."
+233097.10	I-Rising Action	"On the one hand, the diamonds are valuable and Lizzie may not have a legal claim to them, but on the other, they do not want to antagonize the mother of the heir to the family estate (Lizzie having only a life interest)."
+233097.11	B-Rising Action	"Meanwhile, after a respectable period of mourning, Lizzie searches for another husband, a dashing ""Corsair"" more in keeping with her extravagantly romantic fantasies."
+233097.12	B-Rising Action	"She becomes engaged to a dull, but honourable politician, Lord Fawn, but they have a falling out when her character becomes better known, especially her determination to keep the diamonds."
+233097.13	I-Rising Action	"She then considers her cousin, Frank Greystock, even though he is already engaged to Lucy Morris, a poor but much beloved governess of the Fawn daughters."
+233097.14	I-Rising Action	"Greystock is a successful lawyer and Member of Parliament, but his income is inadequate to his position and spendthrift lifestyle."
+233097.15	I-Rising Action	Lizzie believes he can shield her from the legal proceedings being initiated by Mr Camperdown.
+233097.16	B-Rising Action	"Another more Corsair-like possibility is one of the guests at her Scottish home, the older Lord George de Bruce Carruthers, a man who supports himself in a somewhat mysterious manner."
+233097.17	B-Rising Action	"Among the other guests is a young woman named Lucinda Roanoke, whose financially straitened aunt, Mrs Carbuncle, is desperate to marry her off."
+233097.18	B-Rising Action	"Despite Lucinda's deep detestation of the brutish Sir Griffin Tewett, the aunt has her way and the mismatched couple become engaged."
+233097.19	B-Climax	Things take a dramatic turn on a trip to London.
+233097.20	B-Climax	"Lizzie, out of fear of Mr Camperdown, keeps her diamonds with her in a conspicuous strongbox."
+233097.21	I-Climax	"One night, at an inn, the strongbox is stolen and everybody assumes the jewellery is lost."
+233097.22	B-Falling Action	"As it turns out, Lizzie had taken the gems out and put them under her pillow, but acting on her first instincts, she perjures herself when she has to report the theft to the magistrate, thinking that she can sell the diamonds and let the robbers take the blame."
+233097.23	I-Falling Action	"Suspicion falls on both Lizzie and Lord George, acting either together or separately."
+233097.24	B-Falling Action	"In any case, the thieves, aided by Lizzie's disloyal maid, Patience Crabstick, try again and succeed in their second attempt."
+233097.25	I-Falling Action	Lizzie feigns illness and takes to her bed.
+233097.26	I-Falling Action	Lady Glencora Palliser pays Lizzie a visit to offer her sympathy.
+233097.27	B-Falling Action	"The police begin to unravel the mystery, putting Lizzie in a very uncomfortable position."
+233097.28	B-Resolution	"In the end, the diamonds are lost, the police discover the truth, and Lizzie is forced to confess her lies, though she escapes legal retribution since her testimony is needed to convict the criminals."
+233097.29	B-Resolution	Both Frank Greystock and Lord George become disgusted by her conduct and desert her.
+233097.30	B-Resolution	"Lucinda Roanoke grows to loathe Sir Griffin more and more intensely until, on what would have been the day of their wedding, she loses her sanity."
+233097.31	B-Resolution	Frank Greystock returns to Fawn Court to marry Lucy Morris.
+233097.32	B-Resolution	"Mr Emilius, a foreign crypto-Jewish clergyman, woos Lizzie while she is in a vulnerable state and succeeds in marrying her (though it is hinted earlier in the book and is later confirmed in Phineas Redux that he is already married)."
+
+31342.1	B-Exposition	" The novel begins on a beautiful summer day with Lord Henry Wotton, a strongly-opinionated man, observing the sensitive artist Basil Hallward painting the portrait of a handsome young man named Dorian Gray, who is Basil's ultimate muse."
+31342.2	I-Exposition	"After hearing Lord Henry's world view, Dorian begins to think beauty is the only worthwhile aspect of life."
+31342.3	I-Exposition	He wishes that the portrait Basil painted would grow old in his place.
+31342.4	B-Inciting Incident	"Under the influence of Lord Henry (who relishes the hedonic lifestyle and is a major exponent thereof), Dorian begins to explore his senses."
+31342.5	B-Rising Action	"He discovers amazing actress Sibyl Vane, who performs Shakespeare plays in a dingy theatre."
+31342.6	B-Rising Action	Dorian approaches her and soon proposes marriage.
+31342.7	I-Rising Action	"Sibyl, who refers to him as ""Prince Charming"", swoons with happiness, but her protective brother James tells her that if ""Prince Charming"" harms her, he will certainly kill him."
+31342.8	B-Rising Action	Dorian invites Basil and Lord Henry to see Sibyl perform in Romeo and Juliet.
+31342.9	I-Rising Action	"Sibyl, whose only knowledge of love was love of theatre, casts aside her acting abilities through the experience of true love with Dorian."
+31342.10	I-Rising Action	"Disheartened, Dorian rejects her, saying her beauty was in her acting, and he is no longer interested in her."
+31342.11	B-Rising Action	"When he returns home, he notices that his portrait has changed."
+31342.12	I-Rising Action	"Dorian realizes his wish has come true – the portrait now bears a subtle sneer and will age with each sin he commits, while his own appearance remains unchanged."
+31342.13	B-Rising Action	"He decides to reconcile with Sibyl, but Lord Henry later informs him that she has killed herself by swallowing prussic acid."
+31342.14	I-Rising Action	Dorian realizes that lust and looks are where his life is headed and he needs nothing else.
+31342.15	B-Rising Action	"Over the next 18 years, he experiments with every vice, mostly under the influence of a ""poisonous"" French decadence novel, a present from Lord Henry."
+31342.16	I-Rising Action	"The title is never revealed in the novel, but at Oscar Wilde's trial he admitted that he had 'had in mind' Joris-Karl Huysmans's À Rebours ('Against Nature')."
+31342.17	B-Rising Action	"One night, before he leaves for Paris, Basil arrives to question Dorian about rumours of his indulgences."
+31342.18	I-Rising Action	Dorian does not deny his debauchery.
+31342.19	B-Rising Action	"He takes Basil to the portrait, which is as hideous as Dorian's sins."
+31342.20	I-Rising Action	"In anger, Dorian blames Basil for his fate and stabs Basil to death."
+31342.21	I-Rising Action	"He then blackmails an old friend named Alan Campbell, a chemist, into destroying Basil's body."
+31342.22	B-Climax	"Wishing to escape the guilt of his crime, Dorian travels to an opium den."
+31342.23	I-Climax	"James Vane is present there and attempts to shoot Dorian after he hears someone refer to Dorian as ""Prince Charming""."
+31342.24	B-Climax	"However, he is deceived when Dorian fools James into thinking he is too young to have been involved with Sibyl 18 years earlier."
+31342.25	B-Climax	"James releases Dorian but is approached by a woman from the opium den who chastises him for not killing Dorian, revealing Dorian has not aged for 18 years."
+31342.26	B-Climax	"James attempts to run after him, only to find Dorian long gone."
+31342.27	B-Climax	"While at dinner, Dorian sees James stalking the grounds and fears for his life."
+31342.28	B-Climax	"However, during a game-shooting party a few days later, a lurking James is accidentally shot and killed by one of the hunters during this game-shooting party Dorian develops feelings for Lord Henry."
+31342.29	B-Falling Action	"After returning to London, Dorian tells Lord Henry that he will be good from now on, and has started by not breaking the heart of his latest innocent conquest named Hetty Merton."
+31342.30	B-Falling Action	"Dorian wonders if the portrait has begun to change back, now that he has given up his immoral ways."
+31342.31	I-Falling Action	He unveils the portrait to find it has become worse.
+31342.32	I-Falling Action	"Seeing this, he realizes that the motives behind his ""self-sacrifice"" were merely vanity, curiosity, and the quest for new emotional experiences."
+31342.33	I-Falling Action	"Deciding that only full confession will absolve him, he decides to destroy the last vestige of his conscience."
+31342.34	I-Falling Action	"In a rage, he picks up the knife that killed Basil Hallward and plunges it into the painting."
+31342.35	B-Resolution	"His servants wake hearing a cry from inside the locked room, and passers by on the street fetch the police."
+31342.36	I-Resolution	"The servants find Dorian's body, stabbed in the heart and suddenly aged, withered and horrible."
+31342.37	I-Resolution	It is only through the rings on his hand that the corpse can be identified.
+31342.38	I-Resolution	"Beside him, however, the portrait has reverted to its original form."
+
+45918.1	B-Exposition	A young man named Don Harvey leaves his dude ranch high school on Earth to go to his scientist parents on Mars.
+45918.2	B-Exposition	"He visits an old family friend who asks him to deliver a ring to his father, but they are both later arrested by security forces."
+45918.3	I-Exposition	"Harvey is released and given his ring back, after it has been examined; he is told that his friend has died of ""heart failure."""
+45918.4	I-Exposition	It is only later that he realizes that all deaths can be described that way.
+45918.5	B-Exposition	Harvey boards a shuttle to a space station orbiting the Earth.
+45918.6	I-Exposition	"The station doubles as a transshipment terminus and a military base, armed with missiles to keep restive nations in check."
+45918.7	B-Inciting Incident	"On the trip up, he befriends one of his fellow passengers, a Venusian ""dragon"" named Sir Isaac Newton."
+45918.8	I-Inciting Incident	Sir Isaac is a renowned physicist who can speak English using a portable device.
+45918.9	B-Inciting Incident	Harvey gets caught up in the Venusian war of independence when the station is captured by the colonials in a surprise raid.
+45918.10	I-Inciting Incident	"Most of the other travelers are sent back to Earth, while a few decide to join the rebels."
+45918.11	B-Rising Action	Harvey is in a quandary.
+45918.12	I-Rising Action	"The spaceship to Mars has been confiscated, but he remains determined to get there, by way of Venus if necessary."
+45918.13	B-Rising Action	"Because he was born in space, with one parent from Venus and the other from Earth, he claims Venusian citizenship; more importantly, Sir Isaac vouches for him."
+45918.14	I-Rising Action	"He is allowed to tag along, which turns out to be very fortunate for Harvey."
+45918.15	B-Rising Action	The rebels blow up the station to stir up trouble for the Earth government.
+45918.16	B-Rising Action	"When the shuttle returns to Earth with its radios disabled, the military assumes it has been booby-trapped and destroys it, killing all aboard."
+45918.17	B-Rising Action	"On his arrival on Venus, Harvey finds that his Earth-backed money is now worthless."
+45918.18	B-Rising Action	"A banker lends him money, telling him to pay it forward."
+45918.19	B-Rising Action	"He gets a job washing dishes for his keep for Charlie, a Chinese immigrant who runs a small restaurant."
+45918.20	B-Rising Action	"He befriends a young woman, Isobel, when he tries to send a message to his parents."
+45918.21	I-Rising Action	"However, communication with Mars has been cut due to the hostilities."
+45918.22	B-Rising Action	"Harvey settles in to wait out the war, when the war comes to him."
+45918.23	I-Rising Action	Earth sends a military force to put down the rebellion.
+45918.24	I-Rising Action	The Venusian ships are destroyed in orbit and the ground forces are routed.
+45918.25	I-Rising Action	Charlie is killed resisting the occupying soldiers.
+45918.26	B-Climax	"Harvey is rounded up and questioned by a senior security officer, who is very eager to get his hands on Harvey's ring."
+45918.27	I-Climax	"Luckily, Harvey had given it to Isobel for safekeeping and he does not know where she is or whether she is even alive."
+45918.28	B-Falling Action	"Before he can be interrogated with drugs, he escapes and joins the Venusian guerrilla forces."
+45918.29	I-Falling Action	Harvey becomes an effective commando.
+45918.30	B-Falling Action	"In time, he is tracked down by the leaders of the resistance, who turn out to also be looking for the ring."
+45918.31	B-Falling Action	Isobel and her father (who is an important member of the rebels) are safe at the very base where Harvey is taken.
+45918.32	I-Falling Action	The seemingly valueless ring turns out to be carrying the secret of scientific breakthroughs resulting from archeological studies of an extict alien civilization on Mars.
+45918.33	B-Falling Action	"With Sir Isaac's assistance, it is used to secretly build an advanced spaceship that is much faster than any other vessel in existence, with revolutionary weapons and defenses also derived from the new technology."
+45918.34	B-Falling Action	"As the only combat veteran with knowledge of the ship, christened Little David, Harvey is recruited for its maiden voyage, manning a self-destruct mechanism, with strict orders to blow up the ship if it is in danger of being captured."
+45918.35	B-Falling Action	Little David intercepts and defeats a group of warships on their way to Mars to crush the revolt there.
+45918.36	B-Resolution	"Afterwards, Harvey is probably reunited with his parents, although the story ends before then."
+
+242128.1	B-Exposition	" While standing on a British railway station, awaiting their train to school after the summer holidays, Peter, Susan, Edmund, and Lucy Pevensie are magically whisked away to a beach near an old and ruined castle."
+242128.2	B-Inciting Incident	"They come to realize the ruin is Cair Paravel, where they once ruled as the Kings and Queens of Narnia, and discover the treasure vault where Peter's sword and shield, Susan's bow and arrows, and Lucy's bottle of magical cordial and dagger are stored."
+242128.3	B-Rising Action	"Susan's horn for summoning help is missing, however, as she left it in the woods the day they returned to England after their first visit to Narnia."
+242128.4	B-Rising Action	"Although only a year has passed in England, many centuries have passed in Narnia."
+242128.5	I-Rising Action	"That same day, they intervene to rescue Trumpkin the dwarf from soldiers who have brought him to the ruins to drown him."
+242128.6	B-Rising Action	"Trumpkin tells the children that since their disappearance, a race of men called Telmarines have invaded Narnia, driving the Talking Beasts into the wilderness and pushing even their memory underground."
+242128.7	B-Rising Action	"Narnia is now ruled by King Miraz and his wife Queen Prunaprismia, but the rightful king is Miraz's young nephew, Prince Caspian, who has gained the support of the Old Narnians."
+242128.8	B-Rising Action	"Miraz had usurped the throne by killing his own brother, Caspian's father King Caspian IX."
+242128.9	I-Rising Action	Miraz tolerated Caspian as heir until his own son was born.
+242128.10	B-Rising Action	"Prince Caspian, until that point ignorant of his uncle's evil deeds, escaped from Miraz's Castle with the aid of his tutor Doctor Cornelius, who had schooled him in the lore of Old Narnia, and who gives him in parting Queen Susan's horn."
+242128.11	B-Climax	Caspian flees into the forest but is knocked unconscious when his horse bolts.
+242128.12	B-Climax	"He awakes in the den of a talking badger, Trufflehunter, and two dwarfs, Nikabrik and Trumpkin, who accept Caspian as their king."
+242128.13	I-Climax	The badger and dwarves take Caspian to meet many creatures of Old Narnia.
+242128.14	B-Falling Action	They gather for a council at midnight on Dancing Lawn.
+242128.15	B-Falling Action	Doctor Cornelius arrives to warn them of the approach of King Miraz and his army; he urges them to flee to Aslan's How in the great woods near Cair Paravel.
+242128.16	B-Falling Action	"But the Telmarines follow the Narnians to the How, and after several skirmishes the Narnians appear close to defeat."
+242128.17	B-Falling Action	"At a second war council, they discuss whether to use Queen Susan's horn, and whether it will bring Aslan or the Kings and Queens of the golden age."
+242128.18	B-Falling Action	"Not knowing where help will arrive, they dispatch Pattertwig the Squirrel to Lantern Waste and Trumpkin to Cair Paravel, and it is then that Trumpkin is captured by the Telmarines and rescued by the Pevensies."
+242128.19	I-Falling Action	Trumpkin and the Pevensies make their way to Caspian.
+242128.20	I-Falling Action	"They try to save time by travelling up Glasswater Creek, but lose their way."
+242128.21	B-Falling Action	"Lucy sees Aslan and wants to follow where he leads, but the others do not believe her and follow their original course, which becomes increasingly difficult."
+242128.22	B-Falling Action	"In the night, Aslan calls Lucy and tells her that she must awaken the others and insist that they follow her on Aslan's path."
+242128.23	I-Falling Action	In the cold early hours of morning the others eventually obey.
+242128.24	B-Falling Action	"They begin to see Aslan's shadow, then Aslan himself."
+242128.25	B-Falling Action	"Aslan sends Peter, Edmund, and Trumpkin ahead to Aslan's How to deal with the treachery brewing there, and follows with Susan and Lucy, who see the wood come alive."
+242128.26	B-Falling Action	"Peter, Edmund, and Trumpkin enter Aslan's How; they overhear Nikabrik and his confederates, a Hag and a Wer-Wolf, trying to convince Caspian, Cornelius, and Trufflehunter to help them resurrect the White Witch in hopes of using her power to defeat Miraz."
+242128.27	B-Falling Action	"A fight ensues, and Nikabrik and his two friends are slain."
+242128.28	I-Falling Action	Peter challenges Miraz to single combat; the army of the victor in this duel will be considered the victor in the war.
+242128.29	I-Falling Action	"Even though he has a stronger army and thus has more to lose by a duel, Miraz accepts the challenge, goaded by his two lords, Glozelle and Sopespian."
+242128.30	B-Falling Action	"After a stiff fight, Miraz falls."
+242128.31	I-Falling Action	Glozelle and Sopespian cry that the Narnians have cheated and stabbed the King in the back while he was down.
+242128.32	B-Falling Action	"They command the Telmarine army to attack, and in the commotion that follows, Glozelle stabs Miraz in the back."
+242128.33	I-Falling Action	"The Living Wood is wakened by Aslan's arrival, and the Telmarines flee."
+242128.34	B-Falling Action	"Discovering themselves trapped at the Great River, where their bridge has been destroyed by forces of Narnia, the Telmarines surrender."
+242128.35	B-Resolution	"Aslan gives the Telmarines a choice of staying in Narnia under Caspian or returning to Earth, their original home."
+242128.36	B-Resolution	"After one volunteer disappears through the magic door created by Aslan, the Pevensies go through to reassure the other Telmarines, though Peter and Susan reveal to Edmund and Lucy that they are too old to return furthermore to Narnia."
+242128.37	B-Resolution	"The Pevensies find themselves back at the railway station where the adventure began, just as the train to Susan and Lucy's boarding school pulls up into the station."
+
+249745.1	B-Exposition	Vincent Dungarvan is a history teacher at a Catholic school for boys.
+249745.2	B-Exposition	"Whereas his two brothers Matthew and Paul have been married with children for many years, Vincent is still single and living at home with his widowed mother, who is also a teacher."
+249745.3	I-Exposition	At 30 he is still a virgin.
+249745.4	I-Exposition	He has gone out with one or two nice Catholic girls but has rejected them when he found them too superficial and boring.
+249745.5	B-Inciting Incident	"One day, in the local library, he encounters Laura, a new librarian."
+249745.6	I-Inciting Incident	"Fascinated by her good looks and driven by, as he sees it, sinful desire, he is for once able to overcome his shyness and asks her out."
+249745.7	I-Inciting Incident	"Laura accepts, they immediately fall in love with each other and start dating on a regular basis."
+249745.8	I-Inciting Incident	"However, he prefers not to tell his possessive mother about her let alone invite her home."
+249745.9	B-Rising Action	In the course of the following weeks Vincent's life is shattered by a number of revelations concerning Laura.
+249745.10	I-Rising Action	"He is disappointed when she tells him that she is a and that, on top of that, she has stopped going to church altogether."
+249745.11	B-Rising Action	"What is more, through a deliberate indiscretion by Laura's flatmate Ruth, he learns that Laura is divorced."
+249745.12	I-Rising Action	"For him as a Catholic, this means that he is seeing a married woman, and both his guilt and his helplessness about the situation increase enormously."
+249745.13	I-Rising Action	"Accordingly, they break up their relationship."
+249745.14	B-Climax	"Surprisingly, soon afterwards Vincent loses his virginity with Maureen, his sister-in-law, while his brother Matthew has gone out and the children are asleep."
+249745.15	B-Falling Action	"On the following morning, back at his mother's, he recollects what happened the previous evening: […] He had deliberately denied himself the one pleasure that had the power to transform his very notion of pleasure; he had committed all the other sins because of indolence or indifference, never stopping to calculate the price."
+249745.16	I-Falling Action	He smiled; it was the same for the sin you enjoyed as the sin that you didn't.
+249745.17	I-Falling Action	"To spend the day talking to schoolboys about James I was, he reflected over his scrambled eggs, an anticlimax […]."
+249745.18	I-Falling Action	He smiled to himself: if he had been a savage he'd have been entitled to wear some special insignia […].
+249745.19	I-Falling Action	"""I'm glad you're so cheerful,"" his mother said."
+249745.20	I-Falling Action	"""It was something in the Guardian,"" he said."
+249745.21	B-Falling Action	"That very day, Vincent has an appointment with a senior clergyman about his vocation and once and for all makes up his mind not to become a priest."
+249745.22	I-Falling Action	He also decides to see Laura again.
+249745.23	B-Falling Action	"In the meantime she has settled down in a flat of her own, and this is where they have sex for the first time, without Vincent confessing to Laura that he has recently made love to his own sister-in-law."
+249745.24	B-Falling Action	"When, some weeks later, Maureen announces that she is pregnant again, he is of course afraid that he might be the father of her baby."
+249745.25	I-Falling Action	"Out of jealousy, Maureen writes Laura&#39;s ex-husband Robert an anonymous letter, urging him to make up with his wife again."
+249745.26	B-Falling Action	Vincent and Laura split up again as Laura is not certain about her husband&#39;s intentions.
+249745.27	B-Resolution	In the end two instances of deus ex machina resolve the complicated situation.
+249745.28	B-Resolution	"First, Maureen has a miscarriage, freeing Vincent of any doubt that he might have fathered an illegitimate child."
+249745.29	B-Resolution	"Then Robert commits suicide, paving the way for a Catholic wedding between Vincent and Laura, who are planning to leave the past behind and start a new life somewhere else."
+249745.30	I-Resolution	*&#34;Muyah!
+249745.31	I-Resolution	"There&#39;s no friendship between grown men and grown women, and no one can tell me different.&#34; (See also When Harry Met Sally....)"
+
+45492.1	B-Exposition	" The main character is Robert Neville, apparently the sole survivor of a pandemic whose symptoms resemble vampirism."
+45492.2	I-Exposition	"It is implied that the pandemic was caused by a war, and that it was spread by dust storms in the cities and an explosion in the mosquito population."
+45492.3	B-Exposition	"The narrative details Neville's daily life in Los Angeles as he attempts to comprehend, research, and possibly cure the disease, to which he is immune."
+45492.4	B-Exposition	Neville's past is revealed through flashbacks.
+45492.5	I-Exposition	"The vampires only come out at night and become comatose by day, though they also sometimes come out earlier during cloudy weather."
+45492.6	I-Exposition	"Neville survives by barricading himself by sunset inside his house, further protected by garlic, mirrors, and crosses."
+45492.7	I-Exposition	"Swarms of vampires would regularly surround his house, trying to find ways to get inside."
+45492.8	I-Exposition	"During the day, he scavenges for supplies and methodically searches out the inactive vampires, driving stakes into their hearts to kill them."
+45492.9	B-Inciting Incident	"After bouts of depression and alcoholism, Neville decides to find out the scientific cause of the pandemic."
+45492.10	B-Rising Action	"He obtains books and other research materials from a library, and through painstaking research discovers the root of the vampiric disease in a strain of bacteria capable of infecting both deceased and living hosts."
+45492.11	B-Rising Action	"He also discovers that much of the efficacy of the garlic, mirrors, and crosses were actually ""hysterical blindess"", the result of previous psychological conditioning of the infected (particularly the religious) who believed that they were effective against vampires."
+45492.12	I-Rising Action	"Driven to insanity by the disease, the vampires now reacted as they believed they should react when confronted with these items."
+45492.13	I-Rising Action	"Even then, it was constrained to the beliefs of the particular person, such that a vampire who was Christian would fear the cross, but a vampire who was Jewish would not."
+45492.14	B-Rising Action	"Neville also discovers more efficient means of killing the infected, other than just driving a stake into their hearts."
+45492.15	I-Rising Action	"This included exposing them to direct sunlight (which killed the bacteria) or inflicting deep wounds on their bodies so that the bacteria switch from being anaerobic symbionts to aerobic parasites, rapidly consuming their hosts when exposed to air."
+45492.16	B-Rising Action	He is now killing such large numbers of vampires in his daily forays that his nightly visitors have diminished significantly.
+45492.17	B-Rising Action	"After three years, Neville sees an apparently uninfected woman, Ruth, abroad in the daylight, and captures her."
+45492.18	B-Rising Action	"After some convincing, Ruth tells him her story of how she and her husband survived the pandemic (though her husband was killed two weeks earlier)."
+45492.19	I-Rising Action	"Neville is puzzled by the fact that she is upset when he speaks of killing vampires, on grounds that if her story of survival was true, she would have become hardened to the act."
+45492.20	B-Climax	One night Neville is startled awake and finds Ruth about to leave.
+45492.21	I-Climax	"Suspicious, he questions her motives, but relates the trauma of his past, whereupon they comfort each other."
+45492.22	I-Climax	Ruth reluctantly allows him a blood sample but knocks him senseless when he realizes she is infected.
+45492.23	B-Climax	"When he wakes, Neville discovers a note from Ruth confessing that she is actually infected and that Neville was responsible for her husband's death."
+45492.24	I-Climax	Ruth admits that she was sent to spy on him.
+45492.25	I-Climax	The infected have slowly overcome their disease until they can spend short periods of time in sunlight and are attempting to rebuild society; but they fear and hate Neville who has destroyed some of their people along with the true vampires (dead bodies animated by the germ) during his daytime excursions against the latter.
+45492.26	B-Falling Action	"Ruth warns Neville that her people will attempt to capture him, and that he should leave his house and escape; but Neville disregards Ruth's warning and is captured."
+45492.27	B-Falling Action	"Neville wakes in a prison where he is visited by Ruth, who informs him that she is a ranking member of the new society but, unlike the others, does not resent him."
+45492.28	I-Falling Action	"She acknowledges the need for Neville's execution, and gives him pills, claiming they will ""make it easier""."
+45492.29	I-Falling Action	"Badly injured, Neville accepts his fate and asks Ruth not to let this society become heartless."
+45492.30	I-Falling Action	Ruth kisses him and leaves.
+45492.31	B-Resolution	Neville goes to his prison window and sees all the infected waiting for his execution.
+45492.32	I-Resolution	"Judging by their reactions to the sight of him, he now recognizes their point of view."
+45492.33	I-Resolution	"Having hitherto seen the destruction of the infected survivors as a moral imperative to be pursued for his own and mankind's survival, he failed to realize that the infected have come to view him in fear and awe."
+45492.34	I-Resolution	"To them, he was an invisible killer who moved by day, killing their loved ones as they hibernated."
+45492.35	I-Resolution	"He realizes that even as vampires were legend in pre-infection times, he, a remnant of old humanity, is now a legend to the new race born of the infection."
+45492.36	I-Resolution	"He therefore remarks to himself as he dies: ""[I am] a new superstition entering the unassailable fortress of forever."
+45492.37	I-Resolution	"I am legend""."
+
+221479.1	B-Exposition	" ""Let sleeping murder lie"": this is the proverb (a variation on ""Let sleeping dogs lie"") which is not obeyed by twenty-one year old New Zealander Gwenda Reed (née Halliday), who has recently married and now comes to England to settle down there."
+221479.2	I-Exposition	She believes that her father took her directly from India to New Zealand when she was a two year-old girl and that she has never been in England before.
+221479.3	B-Inciting Incident	"While her husband Giles is still abroad on business, she drives around the countryside looking for a suitable house."
+221479.4	B-Inciting Incident	"She finds an old house in the small seaside resort of Dillmouth, in Devon, which instantly appeals to her, and she buys it."
+221479.5	B-Rising Action	"After moving in, Gwenda begins to believe that she must be psychic, as she seems to know things about the house which she could not possibly know: the location of a connecting door that had been walled over, the pattern of a previous wallpaper, a set of steps in the garden that are not where they should be, and so on."
+221479.6	B-Rising Action	"Becoming increasingly uneasy, she accepts an invitation to stay for a few days in London with Miss Marple's somewhat pretentious nephew Raymond West and his wife Joan (who appear also in other stories with Miss Marple)."
+221479.7	I-Rising Action	"Miss Marple's interest is piqued when, at a performance of John Webster's The Duchess of Malfi, Gwenda screams and flees the theatre &mdash; for no reason that even she understands &mdash; when she hears the actor speaking the famous line, ""Cover her face; mine eyes dazzle; she died young."""
+221479.8	B-Rising Action	"Gwenda tells Miss Marple later that as she heard those words, she felt she was looking down through the banisters at the dead, blue face of someone named Helen, strangled by a man uttering the same line."
+221479.9	I-Rising Action	"She insists that she does not know anyone named Helen, and she believes she is going mad."
+221479.10	B-Rising Action	"Miss Marple suggests that she may be remembering something she witnessed as a small child (looking through rather than over the banisters), and that it may have happened in the house she has just bought, despite her belief that she has never been in England before."
+221479.11	B-Climax	"The Reeds and Miss Marple do a bit of research, and they discover that Gwenda is not psychic at all, but in fact she did spend a year during early childhood in the house she was later to buy."
+221479.12	I-Climax	"Her young stepmother, Helen, disappeared, having presumably run off with a man."
+221479.13	I-Climax	"Her father, devastated by his wife's disappearance and convinced he murdered her, sent Gwenda to New Zealand to be raised by an aunt and died soon afterward in an asylum."
+221479.14	B-Falling Action	The young couple realize that there may be an unsolved crime to investigate.
+221479.15	I-Falling Action	"Miss Marple, who first advises the young couple to ""let sleeping murder lie"", later suggests to her own doctor that he prescribe her some sea air, and she travels to Dillmouth."
+221479.16	I-Falling Action	The investigation that now sets in is completely in the hands of amateurs: Giles and Gwenda Reed and Miss Marple.
+221479.17	I-Falling Action	"The police are absent, as it has not even been established that a crime has been committed; officially, Helen Halliday ran off with one of her lovers and either died sometime later or made a clean break with her brother and never contacted anyone at home."
+221479.18	I-Falling Action	The amateur sleuths find two old gardeners who remember the Halliday family and some of the former household staff.
+221479.19	B-Falling Action	"The young couple talk to many witnesses, including Dr Kennedy, Helen's much older half-brother, who seems still heartbroken over the disappearance of his wild younger sister."
+221479.20	I-Falling Action	"He presents two letters posted abroad which he says he got from his half-sister after her disappearance, and which seem to prove that she did not die that night."
+221479.21	I-Falling Action	"But the amateur detectives still believe that Gwenda's memory is fundamentally reliable, and that Helen was murdered."
+221479.22	B-Falling Action	It is later revealed that Dr Kennedy forged the two letters.
+221479.23	B-Falling Action	"The three other men in Helen's life at the time of her disappearance were Walter Fane, a local lawyer; JJ Afflick, a local tour guide; and Richard Erskine, who resides in the far north of England."
+221479.24	I-Falling Action	"It seems very likely to Giles and Gwenda that one of them must be the murderer: they were all ""on the spot"" when Helen disappeared eighteen years earlier."
+221479.25	B-Falling Action	"When Lily Kimble, who used to be in Halliday's employ, reads an advertisement, placed by Gwenda, seeking information about Helen, she senses there could be money in it; and after a second advertisement appears looking for her personally, she writes to Dr Kennedy asking for his advice."
+221479.26	I-Falling Action	Kennedy interprets her letter to him as a blackmail attempt.
+221479.27	I-Falling Action	"He writes back to her, inviting her to see him at his house and including a train timetable and exact instructions on how to get to his house."
+221479.28	I-Falling Action	"He misdirects her to a deserted stretch of woodland, where he meets and strangles her."
+221479.29	I-Falling Action	"He then replaces his original letter with a fake one and is back at his house in time to ""wait"", together with Giles and Gwenda Reed, for her arrival."
+221479.30	B-Falling Action	"When Lily Kimble's body is found, the police start investigating."
+221479.31	B-Falling Action	"(When the police inspector sees Miss Marple he comments on a case of poison pen near Lymstock; thus Sleeping Murder is set after the happenings in The Moving Finger, which was published in 1942.)"
+221479.32	B-Falling Action	"Now it dawns upon the Reeds that with a murderer still at large, their lives are in danger."
+221479.33	B-Resolution	"This proves true: after Dr Kennedy unsuccessfully tries to poison them (it is Mrs Cocker, the cook, who takes a sip of the poisoned brandy instead and who consequently has to be hospitalised), Dr Kennedy tries to strangle Gwenda when she is alone in the house."
+221479.34	I-Resolution	"But Miss Marple has foreseen this: she remained hidden in the garden, and when Gwenda screams she runs upstairs and disables Dr Kennedy by spraying soapy liquid into his eyes."
+221479.35	I-Resolution	"Miss Marple explains that she believes that Helen was an ordinary, decent young woman, trying to escape from Kennedy, who was unhealthily and pathologically obsessed with her, and that the only evidence of her being ""man-mad"" came from him."
+221479.36	I-Resolution	"He strangled her to prevent her moving to Norfolk in the east of England to live an ordinary, happy life away from him with her husband."
+
+214301.1	B-Exposition	" The novel is about a lonely young man, Frederick Clegg, who works as a clerk in a city hall, and collects butterflies in his spare time."
+214301.2	B-Resolution	The first part of the novel tells the story from his point of view.
+214301.3	B-Inciting Incident	"Clegg is obsessed with Miranda Grey, a middle-class art student at the Slade School of Fine Art."
+214301.4	I-Inciting Incident	"He admires her from a distance, but is unable to make any contact with her because of his nonexistent social skills."
+214301.5	I-Inciting Incident	"One day, he wins a large prize in the football pools."
+214301.6	I-Inciting Incident	This makes it possible for him to stop working and buy an isolated house in the countryside.
+214301.7	I-Inciting Incident	"He feels lonely, however, and wants to be with Miranda."
+214301.8	B-Rising Action	"Unable to make any normal contact, Clegg decides to add her to his ""collection"" of pretty, petrified objects, in the hope that if he keeps her captive long enough, she will grow to love him."
+214301.9	B-Rising Action	"After careful preparations, he kidnaps Miranda by drugging her with chloroform and locks her up in the cellar of his house."
+214301.10	I-Rising Action	He is convinced that Miranda will start to love him after some time.
+214301.11	B-Rising Action	"However, when she wakes up, she confronts him with his actions."
+214301.12	I-Rising Action	"Clegg is embarrassed, and promises to let her go after a month."
+214301.13	I-Rising Action	"He promises to show her ""every respect"", pledging not to sexually molest her and to shower her with gifts and the comforts of home, on one condition: she can't leave the cellar."
+214301.14	I-Rising Action	"Clegg rationalizes every step of his plan in cold, emotionless language; he seems truly incapable of relating to other human beings and sharing real intimacy with them."
+214301.15	I-Rising Action	"He takes great pains to appear normal, however, and is greatly offended at the suggestion that his motives are anything but reasonable and genuine."
+214301.16	B-Rising Action	The second part of the novel is narrated by Miranda in the form of fragments from a diary that she keeps during her captivity.
+214301.17	I-Rising Action	"Clegg scares her, and she does not understand him in the beginning."
+214301.18	B-Rising Action	"Miranda reminisces over her previous life throughout this section of the novel, and many of her diary entries are written either to her sister, or to a man named G.P., whom she respected and admired as an artist."
+214301.19	I-Rising Action	Miranda reveals that G.P.
+214301.20	I-Rising Action	"ultimately fell in love with her, and subsequently severed all contact with her."
+214301.21	B-Rising Action	"Through Miranda's confined reflections, Fowles discusses a number of philosophical issues, such as the nature of art, humanity and God."
+214301.22	I-Rising Action	"At first, Miranda thinks that Clegg has sexual motives for abducting her, but as his true character begins to be revealed, she realises that this is not true."
+214301.23	B-Rising Action	"She starts to have some pity for her captor, comparing him to Caliban in Shakespeare's play The Tempest because of his hopeless obsession with her."
+214301.24	B-Rising Action	Clegg tells Miranda that his first name is Ferdinand (eventual winner of Miranda's affections in The Tempest).
+214301.25	I-Rising Action	"Miranda tries to escape several times, but Clegg is always able to stop her."
+214301.26	I-Rising Action	She also tries to seduce him in order to convince him to let her go.
+214301.27	I-Rising Action	The only result is that he becomes confused and angry.
+214301.28	B-Rising Action	"When Clegg keeps refusing to let her go, she starts to fantasize about killing him."
+214301.29	B-Rising Action	"After a failed attempt at doing so, Miranda passes through a phase of self-loathing, and decides that to kill Clegg would lower her to his level."
+214301.30	I-Rising Action	"As such, she then refrains from any further attempts to do so."
+214301.31	B-Climax	"Before she can try to escape again, she becomes seriously ill and dies."
+214301.33	B-Falling Action	"At first, he wants to commit suicide after he learns of Miranda's death, but after he reads in her diary that she never loved him, he decides that he is not responsible and is better off without her."
+214301.34	B-Resolution	The books ends with his announcement he plans to kidnap another girl.
+
+30761.1	B-Exposition	" Marko Alexandrovich Ramius, a Lithuanian submarine commander in the Soviet Navy, intends to defect to the United States with his officers on board the experimental nuclear submarine Red October, a Typhoon-class vessel equipped with a revolutionary stealth propulsion system, described as an arrangement of pump-jets nicknamed the ""Caterpillar Drive."""
+30761.2	I-Exposition	The system makes sonar detection extremely difficult.
+30761.3	I-Exposition	"The result, immediately apparent to Jack Ryan and the Joint Chiefs of Staff, is a strategic weapon platform that is capable of sneaking its way into American waters and launching nuclear missiles with little or no warning."
+30761.4	B-Inciting Incident	The strategic value of Red October was not lost upon Ramius.
+30761.5	I-Inciting Incident	"Several other factors have spurred his decision to defect, in particular his disillusionment by the death of his wife, Natalia, at the hands of an incompetent doctor who went unpunished because he was the son of a Politburo member."
+30761.6	I-Inciting Incident	"Her untimely death, combined with Ramius' long-standing dissatisfaction with the callousness of Soviet rule and his fear of the Red Octobers destabilizing effect on world affairs, ultimately exhausts his tolerance for the failings of the Soviet system."
+30761.7	B-Inciting Incident	"Ramius kills the Red Octobers political officer to ensure that he will not interfere with the defection, and writes a letter to Admiral Yuri Padorin, Natalia's uncle, brazenly stating his intention to defect."
+30761.8	B-Rising Action	The Soviet Northern Fleet sails out to sink the Red October under the pretext of a search and rescue mission.
+30761.9	B-Rising Action	"Meanwhile, Ryan, a high-level Central Intelligence Agency analyst, flies from London to Langley, Virginia, to deliver British Intelligence's photographs of Red October to the Deputy Director of Intelligence."
+30761.10	B-Rising Action	Ryan consults a friend at the U.S.
+30761.11	I-Rising Action	Naval Academy and finds out that the new construction variations house the Caterpillar Drive.
+30761.12	B-Rising Action	"When the Red Octobers silent drive is engaged, she disappears off the sonar of the USS Dallas, a Los Angeles class submarine that is tracking her."
+30761.13	I-Rising Action	"Putting this information together with the subsequent launch of the entire Northern Fleet, Ryan deduces Ramius' plans."
+30761.14	I-Rising Action	"The U.S. military command reluctantly agrees, while planning for contingencies in case the Soviet Fleet has intentions other than those stated."
+30761.15	B-Rising Action	"As tensions rise between the U.S. and Soviet fleets, the crew of the Dallas discover a way to detect Red October."
+30761.16	I-Rising Action	Ryan must contact Ramius to prevent the loss of the submarine and her decisive technology.
+30761.17	B-Rising Action	"Through a combination of circumstances, Ryan becomes responsible for shepherding Ramius and his vessel away from the pursuing Soviet fleet."
+30761.18	B-Rising Action	"In order to convince the Soviets that the Red October has been destroyed, the U.S. Navy rescues her crew after Ramius fakes a shipboard emergency."
+30761.19	B-Climax	"Ramius and his officers heroically stay behind, claiming they are about to scuttle the submarine to prevent it getting into the hands of the Americans."
+30761.20	B-Climax	"A decommissioned U.S. ballistic missile submarine, the USS Ethan Allen, is blown up underwater as a deception ploy."
+30761.21	B-Climax	A depth gauge taken from the main instrument panel of the Red October (with the appropriate serial number) is made to appear as if it was salvaged from the wreckage.
+30761.22	I-Climax	These events succeed in convincing Soviet observers that the Red October has been lost.
+30761.23	B-Falling Action	"However, GRU intelligence officer Viktor Loginov, masquerading as the Red Octobers cook, realizes what is happening."
+30761.24	I-Falling Action	"Loginov attempts to ignite a missile rocket motor inside a launch tube so as to destroy the Red October, wounding both Ramius and a British agent while killing one of Ramius' top officers."
+30761.25	B-Falling Action	"Ryan attempts to persuade the fiercely patriotic Loginov to surrender rather than die in the explosion, but he refuses."
+30761.26	I-Falling Action	He manages to fatally shoot Loginov in the submarine's missile compartment.
+30761.27	B-Falling Action	"Ramius orders the missile jettisoned in case Loginov had managed to arm it, an action which adds to the deception of the Soviets."
+30761.28	B-Falling Action	"Captain Viktor Tupolev, a former student of Ramius' and commander of a Soviet Alfa-class attack submarine, has been trailing what he initially believes is an vessel."
+30761.29	I-Falling Action	"Based on acoustical signature information, Tupolev and his political officer realize that it is the Red October, and proceed to pursue and engage it."
+30761.30	I-Falling Action	"The two U.S. submarines escorting the Red October are unable to fire due to rules of engagement, and the Red October is damaged by a torpedo from the Alfa."
+30761.31	B-Falling Action	"After a tense standoff, the Red October rams Tupolev's submarine broadside and sinks it."
+30761.32	B-Resolution	"The Americans escort Red October safely into the eight-ten dry dock in Norfolk, Virginia, where Ramius and his crew are taken to a CIA safehouse to begin their Americanization."
+30761.33	B-Resolution	Ryan is commended by his superiors and flies back to his posting in London.
+
+254464.1	B-Exposition	" The play starts in the town square of a small, unnamed French village."
+254464.2	B-Exposition	"Two friends; the eloquent, intellectual but incredibly prideful Jean and the simplistic, shy, kind-hearted drunkard Berenger; meet up in a coffee house to talk about an unspecified urgent matter."
+254464.3	B-Inciting Incident	"Instead of talking about what they were supposed to, Jean becomes furious at Berenger's tardiness and drunken state and berates him until a rhinoceros rampages across the square, considerably startling the people there."
+254464.4	B-Climax	The people there begin to discuss what has happened when another rhinoceros appears and crushes a woman's cat.
+254464.5	I-Climax	This generates incredible outrage and people begin to band together to argue that the presence of these rhinos should not be allowed.
+254464.6	I-Climax	The beginning of a mass movement is seen onstage.
+254464.7	B-Climax	"Berenger arrives late for work at the local newspaper office, but the newspaper's receptionist Daisy (with whom Berenger is in love), covers for him."
+254464.8	B-Climax	"At the office, an argument has broken out between the sensitive and logical Dudard and the violent, temperamental Botard; since Botard does not believe a rhinoceros could actually appear in France despite all the claims by eyewitnesses that one did."
+254464.9	B-Climax	"Suddenly, Mrs. Bœuf (the wife of a fellow employee) appears to say that her husband has turned into a rhinoceros and that streets are plagued with people who have turned into them."
+254464.10	I-Climax	"Botard argues against the existence of the so called rhinoceritis movement that Mrs. Bœuf claims is occurring, saying that the local people are too intelligent to be tricked by the empty rhetorics of a mass movement."
+254464.11	B-Climax	"Despite this, Mr. Bœuf (turned into a rhinoceros) arrives and destroys the staircase that leads out of the office, trapping all the workers and their boss, Mr. Papillion, inside."
+254464.12	I-Climax	Mrs. Bœuf joins her husband by jumping down the stairwell while the office-workers escape through a window.
+254464.13	B-Climax	"Berenger goes to visit Jean in order to apologize for the previous day's argument they had, but finds him in bed, heavy with a sickness he has never had."
+254464.14	I-Climax	"The two friends begin to argue again, initially about the possibility of people actually turning into rhinos and then about the morality of the transformations."
+254464.15	B-Climax	"Jean is initially staunchly against the rhinos, but gradually grows lenient."
+254464.16	I-Climax	"As the scene progresses, Jean's skin turns greener and greener, the bumps in his head grow into a horn, his voice grows hoarse and he begins to pace around his apartment like a caged beast."
+254464.17	I-Climax	"Finally, he proclaims that rhinoceros have just as much of a right to life as humans and that ""Humanism is dead, those who follow it are just old sentimentalists"" before he turns into a rhino himself and chases Berenger out of his apartment."
+254464.18	I-Climax	"Everyone in town has succumbed to rhinoceritis save for Berenger, Dudard and Daisy."
+254464.19	B-Falling Action	"Berenger is locked up in his apartment, yelling at the rhinos that rush by for having destroyed civilization until Dudard arrives to check on him."
+254464.20	I-Falling Action	"Dudard trivializes the transformations by saying that people have the right to choose what they do, even transform; but Berenger insists that the transformations couldn't be voluntary since his friend Jean had initially hated the rhinos and that he was probably brainwashed."
+254464.21	I-Falling Action	"Dudard counterargues that people can change their minds and gradually grows more accepting until he concludes that he must ""follow [his] peers and [his] leaders"" before departing and turning into a rhino."
+254464.22	I-Falling Action	"Just before he departs, Daisy arrives."
+254464.23	I-Falling Action	She and Berenger realize that they are left completely alone - the only humans left in a world of monsters.
+254464.24	I-Falling Action	Berenger professes his love for Daisy and she seems to reciprocate.
+254464.25	B-Falling Action	"They attempt, albeit briefly, to have a normal life amongst the rhinoceroses."
+254464.26	B-Falling Action	"After Berenger suggests that they attempt to re-populate the human race, Daisy begins to move away from him, suggesting that Berenger doesn't understand love."
+254464.27	I-Falling Action	She comes to believe the rhinoceroses are in the right - they who are truly passionate.
+254464.28	B-Falling Action	"Berenger slaps Daisy without thinking, immediately recanting his action."
+254464.29	I-Falling Action	"They consider their state with Berenger exclaiming that, ""in just a few minutes we have gone through twenty-five years of married life!"""
+254464.30	B-Falling Action	"They attempt to reconcile, but fail."
+254464.31	B-Resolution	"As Berenger examines himself in a mirror for any evidence of transformation, Daisy quietly leaves to join the rhinoceroses."
+254464.32	I-Resolution	"Discovering he is completely alone, Berenger laments his behavior with Daisy."
+254464.33	I-Resolution	"In his solitude he begins to doubt his existence - his language, his appearance, and his mind."
+254464.34	B-Resolution	"Alone, he finds himself in the wrong and attempts to change into a rhinoceros."
+254464.35	I-Resolution	He struggles and fails.
+254464.36	I-Resolution	"He returns to the mirror, face-to-face with his fate and breaks down as he struggles to accept the place he has given himself."
+254464.37	I-Resolution	"Suddenly, he snaps out of it and renews his vow to take on the rhinos."
+254464.38	I-Resolution	"Berenger valiantly shouts ""I'm not capitulating!"""
+254464.39	I-Resolution	to the audience before returning to the window to hurl abuse at the passing rhinoceros.
+
+186347.1	B-Exposition	" In the drawing room at Trenchard Manor, the servants remark on their employer's poor financial circumstances."
+186347.2	B-Exposition	"Florence Trenchard, an aristocratic young beauty, loves Lieutenant Harry Vernon of the Royal Navy, but she is unable to marry him until he progresses to a higher rank."
+186347.3	B-Inciting Incident	"She receives a letter from her brother Ned, who is currently in the United States."
+186347.4	I-Inciting Incident	Ned has met some rustic cousins from a branch of the family that had emigrated to Vermont in America two centuries earlier.
+186347.5	I-Inciting Incident	"They related to Ned that great uncle Mark Trenchard had, after angrily disinheriting his children and leaving England years ago, found these Vermont cousins."
+186347.6	B-Inciting Incident	"He had moved in with them and eventually made Asa, one of the sons, heir to his property in England."
+186347.7	B-Rising Action	Asa is now sailing to England to claim the estate.
+186347.8	I-Rising Action	"Asa is noisy coarse and vulgar, but honestly forthright and colourful."
+186347.9	I-Rising Action	The English Trenchards are alternately amused and appalled by this Vermont cousin.
+186347.10	B-Rising Action	"Richard Coyle, agent of the estate, meets with Sir Edward Trenchard (Florence's father) and tells the baronet that the family faces bankruptcy unless they can repay a debt to Coyle."
+186347.11	I-Rising Action	Coyle is concealing the evidence that the loan had been repaid long ago by Sir Edward's late father.
+186347.12	I-Rising Action	"Coyle suggests that the loan would be satisfied if he may marry Florence, who detests him."
+186347.13	B-Rising Action	"Meanwhile, Asa and the butler, Binny, try to understand each others' unfamiliar ways, as Asa tries to understand what the purpose of a shower might be, dousing himself while fully clothed."
+186347.14	B-Rising Action	Mrs. Mountchessington is staying at Trenchard Manor.
+186347.15	B-Rising Action	"She advises Augusta, her daughter, to be attentive to the presumably wealthy Vermont ""savage""."
+186347.16	B-Rising Action	"Meanwhile, her other daughter, Georgina, is courting an imbecilic nobleman named Dundreary, by pretending to be ill. Florence's old tutor, the unhappy alcoholic Abel Murcott, warns her that Coyle intends to marry her."
+186347.17	B-Climax	Asa overhears this and offers Florence his help.
+186347.18	B-Climax	Murcott is Coyle's clerk and has found proof that Florence's late grandfather paid off the loan to Coyle.
+186347.19	B-Climax	"Florence and Asa visit her cousin, Mary Meredith."
+186347.20	B-Climax	"Mary is the granddaughter of old Mark Trenchard, who left his estate to Asa."
+186347.21	I-Climax	Mary is very poor and has been raised as a humble dairy maid.
+186347.22	I-Climax	Asa doesn't care about her social status and is attracted to her.
+186347.23	B-Falling Action	Florence has not been able to bring herself to tell Mary that her grandfather's fortune had been left to Asa.
+186347.24	I-Falling Action	"Florence tells Asa that she loves Harry, who needs a good assignment to a ship."
+186347.25	I-Falling Action	Asa uses his country wile to persuade Dundreary to help Harry get a ship.
+186347.26	B-Falling Action	"Meanwhile, Coyle has been up to no good, and the bailiffs arrive at Trenchard Manor."
+186347.27	B-Falling Action	"At her dairy, Asa tells Mary about her grandfather in America, but he fibs about the end of the tale: He says that old Mark Trenchard changed his mind about disinheriting his English children and burned his Will."
+186347.28	I-Falling Action	Asa promptly burns the Will himself.
+186347.29	I-Falling Action	"Florence discovers this and points it out to Mary, saying: ""It means that he is a true hero, and he loves you, you little rogue."""
+186347.30	B-Falling Action	"Meanwhile, Mrs. Mountchessington still hopes that Asa will propose to Augusta."
+186347.31	I-Falling Action	"When Asa tells them that Mark Trenchard had left Mary his fortune, Augusta and Mrs. Mountchessington are quite rude, but Asa stands up for himself."
+186347.32	I-Falling Action	Asa proposes to Mary and is happily accepted.
+186347.33	B-Falling Action	He then sneaks into Coyle's office with Murcott and retrieves the paper that shows that the debt was paid.
+186347.34	B-Resolution	"Asa confronts Coyle and insists that Coyle must pay off Sir Edward's other debts, with his doubtless ill-gotten gains, and also apologize to Florence for trying to force her into marriage."
+186347.35	I-Resolution	"Moreover, he demands Coyle's resignation as the steward of Trenchard Manor, making Murcott steward instead."
+186347.36	I-Resolution	Murcott is so pleased that he vows to stop drinking.
+186347.37	I-Resolution	Coyle has no choice but to do all this.
+186347.38	I-Resolution	"Florence marries Harry, Dundreary marries Georgina, and Augusta marries an old beau."
+186347.39	I-Resolution	Even the servants marry.
+
+42572.1	B-Exposition	" The Eye of the World revolves around the lives of a group of young people from Emond's Field in The Two Rivers district: Rand al'Thor, Matrim (Mat) Cauthon, Perrin Aybara, Egwene al'Vere, and Nynaeve al'Meara."
+42572.2	B-Inciting Incident	"Emond's Field is unexpectedly attacked by Dark forces—bestial Trollocs and a Myrddraal who seem to specifically target Rand, Mat and Perrin."
+42572.3	B-Rising Action	"Hoping to save their village from further attacks, the young men and Egwene flee the village accompanied by an Aes Sedai named Moiraine Damodred, her WarderAl'Lan Mandragoran and a Gleeman Thom Merrilin."
+42572.4	I-Rising Action	"They are later joined by Nynaeve al'Meara, the Wisdom of Emond's Field."
+42572.5	B-Rising Action	"Pursued by ever-increasing numbers of Trollocs and Myrddraal, the travellers are forced to take refuge in the abandoned city of Shadar Logoth, a place even the dark forces are reluctant to enter because of the evil Mashadar that resides there."
+42572.6	I-Rising Action	While escaping the city the travelers are separated.
+42572.7	B-Rising Action	"Rand, Mat and Thom make their way by boat to Whitebridge where Thom is apparently killed while allowing Rand and Mat to escape a Myrddraal."
+42572.8	B-Rising Action	In Caemlyn Rand befriends an Ogier named Loial.
+42572.9	B-Rising Action	"While exploring the city and trying to catch a glimpse of the recently captured False Dragon, Rand falls into the palace gardens."
+42572.10	I-Rising Action	"Once there he meets Elayne Trakand, heir apparent to the throne of Andor and her brothers Gawyn and Galad Damodred."
+42572.11	B-Rising Action	"Rand is taken before Queen Morgase and her Aes Sedai advisor, Elaida who foretells that Rand is dangerous."
+42572.12	I-Rising Action	"Queen Morgase, however, decides to let Rand go free."
+42572.13	B-Rising Action	"Meanwhile Egwene and Perrin travel separately to Caemlyn in the company of Elyas Machera, a man who can communicate with wolves and who claims that Perrin can do the same."
+42572.14	B-Rising Action	The three run afoul of a legion of the Children of the Light.
+42572.15	I-Rising Action	Perrin kills two Whitecloaks after witnessing the death of a wolf at their hands and is sentenced to death.
+42572.16	B-Rising Action	"Moiraine, Lan and Nynaeve rescue Egwene and Perrin from the Whitecloaks in time to escape their fate."
+42572.17	B-Rising Action	Together they travel to Caemlyn where they are reunited with Rand and Mat.
+42572.18	I-Rising Action	"Rand tells Moiraine that Mat has been suspicious and withdrawn, and Moiraine diagnoses Mat's ""sickness"" as the corrupting influence of a ruby dagger Mat took from Shadar Logoth."
+42572.19	I-Rising Action	Moiraine says that Mat must travel to Tar Valon in order to be healed.
+42572.20	B-Climax	"Loial warns Moiraine of a threat to the Eye of the World, which is confirmed by vivid and disturbing dreams Mat, Rand and Perrin have had."
+42572.21	I-Climax	"The Eye of the World was created by Aes Sedai who sacrificed themselves to create a pool of Saidin untouched by the Dark One's taint, and is hidden in the Blight."
+42572.22	I-Climax	"The Eye of the World is protected by Someshta (the Green Man) and contains one of the seven seals on the Dark One's prison, the Dragon banner of Lews Therin Telamon and the Horn of Valere."
+42572.23	B-Falling Action	"Loial guides the group through the Ways (passageways built by the male Aes Sedai during the Breaking of the World, which are now tainted by the same evil that tainted Saidin) in order to reach the Eye of the World."
+42572.24	B-Falling Action	"The group enters the Blight, in search of the Eye of the World guided by The Green Man."
+42572.25	I-Falling Action	"The Eye is revealed to be a pool of Saidin, pure and untainted."
+42572.26	B-Falling Action	The companions are confronted by the Forsaken Aginor and Balthamel.
+42572.27	I-Falling Action	Balthamel dies at the hand of the Green Man and Aginor and Rand battle for control of the Eye of the World.
+42572.28	I-Falling Action	Rand defeats Aginor and guided by blind luck uses the pure Saidin to decimate the Trolloc army and defeat Ba'alzamon.
+42572.29	B-Resolution	Afterwards Rand realizes to his own horror that he has channeled the One Power and is therefore condemned to a fate of insanity and horrific death.
+42572.30	I-Resolution	It is revealed that Moiraine believes Rand is the Dragon Reborn.
+
+168729.1	B-Exposition	" The narrator is Fanny, whose mother (called ""The Bolter"" for her habit of serial monogamy) and father have left her to be brought up by her Aunt Emily and the valetudinarian Davey, whom Emily marries early in the novel."
+168729.2	I-Exposition	"Fanny also spends holidays with her Uncle Matthew Radlett, Aunt Sadie, and numerous cousins at Alconleigh."
+168729.3	I-Exposition	"Linda, the second Radlett daughter, is Fanny's best friend and the main character of the novel."
+168729.4	B-Exposition	"The early chapters recount the Radlett children's bizarre upbringing, including their contrasting obsessions with hunting and preventing cruelty to animals, and the activities of their secret society, ""the Hons."""
+168729.5	I-Exposition	"The Radlett daughters receive little in the way of formal education, and as Linda grows older she is increasingly consumed by a desire for romantic love and marriage."
+168729.6	B-Inciting Incident	"Louisa, the eldest Radlett child, makes her début and quickly becomes engaged to John Fort William, a Scottish peer more than twenty years her senior."
+168729.7	I-Inciting Incident	"Linda finds Lord Fort William an unromantic choice of husband, but is deeply jealous that Louisa is getting married."
+168729.8	B-Inciting Incident	"Linda becomes bored and depressed, awaiting her own coming-out party."
+168729.9	B-Rising Action	"During this time she makes friends with Lord Merlin, a neighbouring landlord who is a wealthy, charming aesthete with many fashionable friends."
+168729.10	B-Rising Action	"Merlin brings Tony Kroesig, heir to a wealthy banking family, as a last-minute guest to Linda's coming-out ball."
+168729.11	I-Rising Action	"Linda falls in love with Tony, but their relationship is rocky from the start."
+168729.12	I-Rising Action	"Uncle Matthew disapproves of Tony's German ancestry (he believes that all foreigners are fiends), and is furious when Linda and Fanny sneak away to Oxford to have luncheon with Tony."
+168729.13	B-Rising Action	Linda and Tony eventually marry despite the strong disapproval of their families.
+168729.14	I-Rising Action	"Linda very quickly realizes that she has made a serious mistake, but she keeps up a pretence of having a happy marriage."
+168729.15	B-Climax	"Linda and Tony have one child, Moira, to whom Linda takes an instant dislike."
+168729.16	I-Climax	"Linda almost dies during Moira's birth, and her doctors strongly advise her to have no more children."
+168729.17	B-Falling Action	Moira is soon abandoned to the care of her paternal grandparents.
+168729.18	B-Falling Action	"During this time, Fanny marries a young man called Alfred and begins a family of her own; she therefore sees Linda less frequently."
+168729.19	B-Falling Action	"After nine years of marriage, Linda leaves Tony for Christian Talbot, an ardent Communist."
+168729.20	I-Falling Action	"Christian is kind but vague, and ultimately uninterested in individuals, preferring to focus on the plight of the working class."
+168729.21	B-Falling Action	"Linda's divorce and remarriage cause a rift between her and her parents, but after some months they reconcile."
+168729.22	B-Falling Action	"Linda and Christian go to France to work with Spanish refugees in Perpignan during the Spanish Civil War, where they meet Linda's old friend Lavender Davis, an efficient young woman also volunteering to help the refugees."
+168729.23	I-Falling Action	Linda realizes that Christian and Lavender are falling in love with one another and that they would be a better pairing.
+168729.24	I-Falling Action	Linda decides to leave Christian and leave France.
+168729.25	B-Falling Action	"On the way back to England, Linda runs out of money in Paris and meets Fabrice de Sauveterre, a wealthy French duke."
+168729.26	I-Falling Action	Linda becomes his mistress and lives with him in Paris for eleven months.
+168729.27	I-Falling Action	"During this time she cultivates a great interest in clothes, which Fabrice encourages and finances, but most of her happiness is the result of the fact that she has finally found the love of her life."
+168729.28	B-Falling Action	"When World War II breaks out, Fabrice persuades Linda to return to England alone, for he has work to do in the French Resistance."
+168729.29	I-Falling Action	"During the war, he is able to visit Linda in England once."
+168729.30	B-Falling Action	She becomes pregnant.
+168729.31	B-Falling Action	"Meanwhile, for safety during the London Blitz, Fanny, Louisa, and their children are living at Alconleigh, along with Matthew, Sadie, Emily, Davey, ""the Bolter,"" and her new lover Juan (whom Uncle Matthew calls ""Gewan"")."
+168729.32	B-Falling Action	"When Linda's house is bombed, she also goes to stay at Alconleigh."
+168729.33	I-Falling Action	"The Bolter sees Linda as a younger version of herself, which Linda resents, because she is certain that she has found the love of her life in Fabrice and will not run off from any more husbands."
+168729.34	B-Falling Action	"Fanny is also expecting a baby, and she and Linda give birth to their sons on the same day."
+168729.35	B-Resolution	"Linda dies in childbirth, as the doctors had warned; around this same time, Fabrice is killed in the war."
+168729.36	I-Resolution	Fanny and her husband adopt Linda's child and name him Fabrice.
+168729.37	I-Resolution	"Mitford wrote sequels to the novel, Love in a Cold Climate (1949) and Don't Tell Alfred (1960)."
+
+170003.1	B-Exposition	" British Secret Service agent James Bond is asked by his superior, M, to join him for the evening at M's club, Blades, where one of the members, the multi-millionaire businessman Sir Hugo Drax, is winning a lot of money playing bridge, seemingly against the odds."
+170003.2	I-Exposition	"M suspects Drax of cheating, but although claiming indifference, he is concerned why a multi-millionaire and national hero, such as Sir Hugo, would cheat at a card game."
+170003.3	B-Inciting Incident	"Bond confirms Drax's deception and manages to ""cheat the cheater""—aided by a cocktail of powdered Benzedrine mixed with non-vintage champagne and a deck of stacked cards—winning £15,000 and infuriating the out-smarted Drax."
+170003.4	I-Inciting Incident	"Drax is the product of a mysterious background, unknown even to himself (allegedly)."
+170003.5	I-Inciting Incident	"As a supposed British soldier in World War II, he was badly injured and stricken with amnesia in the explosion of a bomb planted by a German saboteur at a British field headquarters."
+170003.6	I-Inciting Incident	"After extensive rehabilitation in an army hospital, however, he eventually returned home to become a major aerospace industrialist."
+170003.7	B-Rising Action	"After building his fortune and establishing himself in business and society, Drax started building the ""Moonraker"", Britain's first nuclear missile project, intended to defend the United Kingdom against its Cold War enemies (c.f."
+170003.8	I-Rising Action	the real Blue Streak missile).
+170003.9	B-Rising Action	"The Moonraker rocket was to be an upgraded V-2 rocket using liquid hydrogen and fluorine as propellants; to withstand the ultra-high combustion temperatures of its engine, it used columbite, in which Drax had a monopoly."
+170003.10	I-Rising Action	"Because the rocket's engine could withstand higher heat, the Moonraker was able to use more powerful fuels, greatly expanding its effective range."
+170003.11	B-Rising Action	"After a Ministry of Supply security officer working at the project is shot dead, M assigns Bond to replace him and also to investigate what has been going on at the missile-building base, located between Dover and Deal on the south coast of England."
+170003.12	I-Rising Action	All of the rocket scientists working on the project were German.
+170003.13	B-Rising Action	"At his post on the complex, Bond meets Gala Brand, a beautiful Special Branch agent working undercover as Personal Assistant to Drax."
+170003.14	B-Rising Action	"He also uncovers clues concerning his predecessor's death, concluding that the former Security Chief may have been killed for witnessing a submarine off the coast."
+170003.15	B-Rising Action	Drax's henchman Krebs is caught by Bond snooping through his room.
+170003.16	B-Rising Action	"Later, an attempted assassination nearly kills Bond and Gala under a landslide, as they swim beneath the Dover cliffs."
+170003.17	B-Climax	"Drax takes Gala to London where she discovers the truth about the Moonraker (by comparing her own launch trajectory figures with those in a notebook picked from Drax's pocket), but she is caught."
+170003.18	B-Climax	She soon finds herself captive at a secret radio station (intended to serve as a beacon for the missile's guidance system) in the heart of London.
+170003.19	B-Falling Action	"While attempting to rescue her in a car chase, Bond is also captured."
+170003.20	I-Falling Action	Drax tells Bond that he was never a British soldier and has never suffered from amnesia.
+170003.21	I-Falling Action	"In fact, he was a German commander of a Skorzeny commando unit and the saboteur (in British uniform) Graf Hugo von der Drache, whose unit had placed the car bomb at the army field headquarters, only to be injured himself in the detonation."
+170003.22	I-Falling Action	"The amnesia story was simply a cover he used while recovering in hospital, in order to avoid allied retribution, although it would lead to a whole new British identity."
+170003.23	B-Falling Action	"Drax, however, remained a dedicated Nazi, bent on revenge against England for the wartime defeat of his Fatherland and his prior history of social slights suffered as a youth growing up in an English boarding school before the war."
+170003.24	I-Falling Action	"He now means to destroy London with the very missile he has constructed for Britain, by means of a Soviet-supplied nuclear warhead that has been secretly fitted to the Moonraker."
+170003.25	I-Falling Action	He also plans to play the stock market the day before to make a huge profit from the imminent disaster.
+170003.26	B-Falling Action	Brand and Bond are imprisoned under the Moonraker's booster engines so as to leave no trace of them once the Moonraker is launched.
+170003.27	B-Resolution	"Before this first (supposedly un-armed) test firing, Bond and Gala escape."
+170003.28	I-Resolution	Gala gives Bond the proper coordinates to redirect the gyros and send the Moonraker into the sea.
+170003.29	B-Resolution	"Having been in collaboration with Soviet Intelligence all along, Drax and his henchman attempt to escape by Russian submarine—only to be killed as the vessel flees through the very waters onto which the Moonraker has been re-targeted."
+170003.30	B-Resolution	"After their de-briefing at headquarters, Bond meets up with Gala, expecting her company—but they part ways after Gala reveals that she is engaged to be married to a fellow Special Branch officer."
+
+194869.1	B-Exposition	The novel is divided into three volumes.
+194869.2	B-Exposition	"Part One (Chapters 1 to 15): Gilbert Markham narrates how a mysterious widow, Mrs. Helen Graham arrives at Wildfell Hall, a nearby old mansion."
+194869.3	I-Exposition	"A source of curiosity for the small community, the reticent Mrs Graham and her young son Arthur are slowly drawn into the social circles of the village."
+194869.4	B-Inciting Incident	"Initially, Gilbert Markham casually courts Eliza Millward, despite his mother's belief that he can do better."
+194869.5	B-Rising Action	His interest in Eliza wanes as he comes to know Mrs. Graham.
+194869.6	I-Rising Action	"In retribution, Eliza spreads (and perhaps creates) scandalous rumours about Helen."
+194869.7	B-Rising Action	"With gossip flying, Gilbert is led to believe that his friend, Mr. Lawrence is courting Mrs. Graham."
+194869.8	I-Rising Action	"At a chance meeting in a road, a jealous Gilbert strikes (with a whip) the mounted Lawrence, who falls from his horse."
+194869.9	I-Rising Action	"Unaware of this, Helen refuses to marry Gilbert, but gives him her diaries when he accuses her of loving Lawrence."
+194869.10	B-Rising Action	Part two (Chapters 16 to 44) is taken from Helen's diaries and describes her marriage to Arthur Huntingdon.
+194869.11	I-Rising Action	"The handsome, witty Huntingdon is also spoilt, selfish, and self-indulgent."
+194869.12	B-Rising Action	"Before marrying Helen, Arthur Huntingdon flirts with Annabella and uses this to manipulate Helen and convince her to marry him."
+194869.13	I-Rising Action	Helen marries him blinded by love and resolves to reform Arthur with gentle persuasion and good example.
+194869.14	B-Climax	"Upon the birth of their child, Huntingdon becomes increasingly jealous of their son (also called Arthur) and his claims on Helen's attentions and affections."
+194869.15	I-Climax	"Huntingdon's pack of dissolute friends frequently engage in drunken revels at the family's home, Grassdale, oppressing those of finer character."
+194869.16	B-Falling Action	"Both men and women are portrayed as degraded, with Lady Annabella Lowborough shown to be an unfaithful spouse to her melancholy but devoted husband."
+194869.17	B-Falling Action	"Walter Hargrave, the brother of Helen's friend Milicent Hargrave, vies for Helen's affections."
+194869.18	I-Falling Action	"While not as wild as his peers, Walter is an unwelcome admirer: Helen senses his predatory nature, something revealed when they play chess."
+194869.19	B-Falling Action	Walter tells Helen of Arthur's affair with Lady Lowborough.
+194869.20	I-Falling Action	"When his friends depart, Arthur pines openly for his paramour and derides his wife."
+194869.21	I-Falling Action	Arthur's corruption of their son &mdash; encouraging him to drink and swear at his tender age &mdash; is the last straw for Helen.
+194869.22	B-Falling Action	"She plans to flee to save her son, but her husband learns of her plans from her journal, and burns her artist's tools (by which she had hoped to support herself)."
+194869.23	B-Falling Action	"Eventually, with help from her brother, Mr. Lawrence, Helen finds a secret refuge at Wildfell Hall."
+194869.24	B-Falling Action	Part Three (Chapters 45 to 53) begins after the reading of the diaries when Helen bids Gilbert to leave her because she is not free to marry.
+194869.25	I-Falling Action	He complies and soon learns that she has returned to Grassdale upon learning that Arthur is gravely ill. Helen's ministrations are in vain.
+194869.26	I-Falling Action	"Huntingdon's death is painful, fraught with terror at what awaits him."
+194869.27	I-Falling Action	"Helen cannot comfort him, for he rejects responsibility for his actions and wishes instead for her to 'come with him', to plead for his salvation."
+194869.28	B-Falling Action	A year passes.
+194869.29	B-Resolution	"Gilbert pursues a rumour of Helen's impending wedding, only to find that Mr. Lawrence (with whom he has reconciled) is marrying Helen's friend, Esther Hargrave."
+194869.30	I-Resolution	"He goes to Grassdale, and discovers that Helen is now wealthy and lives at her estate in Staningley."
+194869.31	I-Resolution	"He travels there, but is plagued by worries that she is now far above his station."
+194869.32	I-Resolution	He hesitates at the entry-gate.
+194869.33	I-Resolution	"By chance, he encounters Helen, her aunt, and young Arthur."
+194869.34	B-Resolution	The two lovers reconcile and marry.
+
+29821.1	B-Exposition	" After a brief overview of research into mescaline, Huxley recounts that he was given 4/10 of a gram at 11:00 am one day in May 1953."
+29821.2	I-Exposition	Huxley writes that he hoped to gain insight into extraordinary states of mind and expected to see brightly colored visionary landscapes.
+29821.3	I-Exposition	"When he only sees lights and shapes, he puts this down to being a bad visualiser, however, he experiences a great change in his perception of the external world."
+29821.4	B-Exposition	"By 12:30 pm, a vase of flowers becomes the ""miracle, moment by moment, of naked existence""."
+29821.5	I-Exposition	"The experience, he asserts, is neither agreeable nor disagreeable, but simply ""is""."
+29821.6	I-Exposition	"He likens it to Meister Eckhart’s ‘istigheit’ or ‘is-ness’, and Plato’s ‘Being’ but not separated from ‘Becoming’."
+29821.7	B-Exposition	"He feels he understands the Hindu concept of Satchitananda, as well as the Zen koan that ‘the dharma body of the Buddha is in the hedge’ and Buddhist suchness."
+29821.8	B-Exposition	"In this state, Huxley explains he didn’t have an ‘I’, but instead a ‘not-I’."
+29821.9	I-Exposition	"Meaning and existence, pattern and colour become more significant than spatial relationships and time."
+29821.10	I-Exposition	Duration is replaced by a perpetual present.
+29821.11	B-Exposition	"Reflecting on the experience afterwards, Huxley finds himself in agreement with philosopher C.D."
+29821.12	I-Exposition	"Broad that to enable us to live, the brain and nervous system eliminate unessential information from the totality of the Mind at Large."
+29821.13	B-Exposition	"In summary, Huxley writes that the ability to think straight is not reduced while under the influence of mescaline, visual impressions are intensified, and the human experimenter will see no reason for action because the experience is so fascinating."
+29821.14	B-Exposition	"Temporarily leaving the chronological flow, he mentions that four or five hours into the experience he was taken to the World’s Biggest Drug Store (WBDS) where he was presented with books on art."
+29821.15	B-Exposition	"In one book, the dress in Botticelli’s Judith provokes a reflection on drapery as a major artistic theme as it allows painters to include the abstract in representational art, to create mood, and also to represent the mystery of pure being."
+29821.16	B-Inciting Incident	Huxley feels that human affairs are somewhat irrelevant whilst on mescaline and attempts to shed light on this by reflecting on paintings featuring people.
+29821.17	I-Inciting Incident	"Cézanne’s Self portrait with a straw hat seems to him as incredibly pretentious, while Vermeer’s human still lives (also, the Le Nain Brothers and Vuillard) are the nearest to reflecting this not-self state."
+29821.18	B-Rising Action	"For Huxley, the reconciliation of these cleansed perceptions with humanity reflects the age old debate between active and contemplative life, known as the way of Martha and the way of Mary."
+29821.19	I-Rising Action	"As Huxley believes that contemplation should also include action and charity, he concludes that the experience represents contemplation at its height, but not its fullness."
+29821.20	I-Rising Action	Correct behaviour and alertness are needed.
+29821.21	B-Rising Action	"Nonetheless, Huxley maintains that even quietistic contemplation has an ethical value, because it is concerned with negative virtues and acts to channel the transcendent into the world."
+29821.22	B-Rising Action	"After listening to Mozart’s C- Minor Piano Concerto, Gesualdo’s madrigals and Alban Berg’s Lyric Suite, Huxley heads into the garden."
+29821.23	I-Rising Action	"Outside, the garden chairs take on such an immense intensity that he fears being overwhelmed; this gives him an insight into madness."
+29821.24	B-Rising Action	"He reflects that spiritual literature, including the works of Jacob Boehme, William Law and the Tibetan Book of the Dead, talk of these pains and terrors."
+29821.25	I-Rising Action	Huxley speculates that schizophrenia is the inability to escape from this reality into the world of common sense and thus help would be essential.
+29821.26	B-Rising Action	After lunch and the drive to the WBDS he returns home and to his ordinary state of mind.
+29821.27	B-Rising Action	"His final insight is taken from Buddhist scripture: that within sameness there is difference, although that difference is not different from sameness."
+29821.28	B-Climax	The book finishes with Huxley’s final reflections on the meaning of his experience.
+29821.29	I-Climax	"Firstly, the urge to transcend one’s self is universal through times and cultures (and was characterized by H.G."
+29821.30	I-Climax	Wells as The Door in the Wall).
+29821.31	I-Climax	"He reasons that better, healthier ‘doors’ are needed than alcohol and tobacco."
+29821.32	I-Climax	"Mescaline has the advantage of not provoking violence in takers, but its effects last an inconveniently long time and some users can have negative reactions."
+29821.33	I-Climax	"Ideally, self-transcendence would be found in religion, but Huxley feels that it is unlikely that this will ever happen."
+29821.34	I-Climax	"Christianity and mescaline seem well-suited for each other; the Native American Church for instance uses the drug as a sacrament, where its use combines religious feeling with decorum."
+29821.35	I-Climax	"Huxley concludes that mescaline is not enlightenment or the Beatific Vision, but a 'gratuitous grace' (a term taken from St Thomas Aquinas’ Summa Theologica)."
+29821.36	I-Climax	"It is not necessary but helpful, especially so for the intellectual, who can become the victim of words and symbols."
+29821.37	B-Falling Action	"Although systematic reasoning is important, direct perception has intrinsic value too."
+29821.38	B-Resolution	"Finally, Huxley maintains that the person who has this experience will be transformed for the better."
+
+191173.1	B-Exposition	" After being stranded on pre-historic Earth after the events in The Restaurant at the End of the Universe, Arthur Dent is met by his old friend Ford Prefect, who drags him into a space-time eddy, represented by an anachronistic sofa."
+191173.2	B-Exposition	The two end up at Lord's Cricket Ground two days before the Earth's destruction by the Vogons.
+191173.3	B-Inciting Incident	"Shortly after they arrive, a squad of robots land in a spaceship in the middle of the field and attack the assembled crowd, stealing The Ashes before departing."
+191173.4	B-Inciting Incident	"Another spaceship, the Starship Bistromath, arrives, helmed by Slartibartfast, who discovers he is too late and requests Arthur and Ford's help."
+191173.5	I-Inciting Incident	"As they travel to their next destination, Slartibartfast explains that he is trying to stop the robots from collecting all the components of the Wikkit Gate."
+191173.6	B-Rising Action	"Long ago, the peaceful population of the planet of Krikkit, unaware of the rest of the Universe due to a dust cloud that surrounded its solar system, were surprised to find the wreckage of a spacecraft on their planet."
+191173.7	I-Rising Action	"Reverse engineering their own vessel, they explored past the dust cloud and saw the rest of the Universe, immediately taking a disliking to it and determining it must go."
+191173.8	I-Rising Action	"They built a fleet of ships and robots to attack the rest of the Universe in a brutal onslaught known as the Krikkit Wars, but were eventually defeated."
+191173.9	I-Rising Action	"Realising that the Krikkit population would not be satisfied alongside the existence of the rest of the Universe, it was decided to envelop the system in a Slo-Time envelope, allowing Krikkit to survive long after the rest of the universe has ended; the Wikkit Gate was the key to the envelope."
+191173.10	I-Rising Action	"However, just before it was activated, one ship, that had been presumably lost, carrying a troop of robots appeared and began to retrieve the pieces of the Gate after they were dispersed about space and time."
+191173.11	B-Rising Action	"The three transport to an airborne party that has lasted numerous generations where another Gate component, the Silver Bail, is to be found, but Arthur finds himself separated from the others and ends up at a Cathedral of Hate created by a being called Agrajag."
+191173.12	B-Rising Action	"Agrajag reveals that Arthur has killed him countless times before, each time reincarnating into a new form that is soon killed by Arthur, and now plans to kill Arthur in revenge."
+191173.13	B-Rising Action	"However, when he realises that Arthur has yet to cause his death at a place called Stavromula Beta, Agrajag discovered he took Arthur out of his relative timeline too soon, and that killing him now would cause a paradox but attempts to kill Arthur anyway."
+191173.14	I-Rising Action	"In his insanity, Agrajag brings the Cathedral down around them."
+191173.15	I-Rising Action	"Arthur manages to escape unharmed, partially due to learning how to fly after falling and missing the ground while catching sight of a piece of luggage he had lost at a Greek airport years before."
+191173.16	I-Rising Action	"After collecting the suitcase, Arthur inadvertently comes across the flying party and rejoins his friends."
+191173.17	B-Rising Action	"Inside, they find Trillian, but they are too late to stop the robots from stealing the Bail."
+191173.18	I-Rising Action	"Arthur, Ford, Trillian, and Slartibartfast return to the Bistromath and try to head off the robots activating the Wikkit Gate."
+191173.19	I-Rising Action	"Meanwhile, the Krikkit robots steal the last piece, the Infinite Improbability Drive core from the spaceship Heart of Gold, capturing Zaphod Beeblebrox and Marvin the Paranoid Android at the same time."
+191173.20	I-Rising Action	"The Bistromath arrives too late at the gate to stop the robots, and transport to the planet to attempt to negotiate with the Krikkit people."
+191173.21	B-Climax	"To their surprise, they find that the people seem to lack any desire to continue the war, and are directed to the robot and spaceship facilities in orbit about the planet."
+191173.22	B-Climax	"With Zaphod and Marvin's help, the group is able to infiltrate the facilities and discover that the true force behind the war has been the supercomputer Hactar (Due to the obvious flaw in the idea that the people of Krikkit are simultaneously smart enough to develop their ultimate weapon- a bomb that could destroy every star in the universe- while also being stupid enough not to realise that this weapon would destroy them too)."
+191173.23	B-Climax	"Previously built to serve a war-faring species, he was tasked to build a supernova-bomb that would link the cores of every sun in the Universe together at the press of a button and cause the end of the Universe."
+191173.24	I-Climax	"Hactar purposely created a dud version of the weapon instead, causing his creators to pulverise him into dust, which thus became the dust cloud around Krikkit, still able to function but at a much weaker level."
+191173.25	I-Climax	Trillian and Arthur speak to Hactar in a virtual space that he creates for them to explain himself.
+191173.26	I-Climax	"Hactar reveals that he spent eons creating the spaceship that crashed on Krikkit in order to inspire their xenophobia and incite them to go to war, also influencing their thoughts."
+191173.27	I-Climax	"However, when the Slo-Time envelope was activated, his control on the population waned."
+191173.28	I-Climax	"As he struggles to remain functional, Hactar apologises to Trillian and Arthur for his actions before they leave for their ship."
+191173.29	B-Falling Action	"With the war over, the group collects the core of the Heart of Gold and the Ashes, the only two components of the Wikkit Gate not destroyed by the robots, and returns Zaphod and Marvin to the Heart of Gold."
+191173.30	B-Falling Action	"Returning only moments after the robots' attack at the Lord's Cricket Grounds, Arthur attempts to return the Ashes, but is suddenly inspired to bowl one shot at a wicket that is being defended using a cricket ball in his bag."
+191173.31	I-Falling Action	"However, in mid-throw, Arthur suddenly realises that the ball he had was created and placed in his bag by Hactar and is actually the working version of the cosmic-supernova-bomb, and that the defender of the wicket is one of the Krikkit robots, ready to detonate the bomb once thrown, all this causing him to trip, miss the ground, and allow him to fly."
+191173.32	I-Falling Action	Arthur is able to throw the ball aside and disable the robot in mid-throw.
+191173.33	B-Resolution	In the epilogue the characters are taking Arthur to a 'quiet and idyllic planet' when the come across a half-mad journalist.
+191173.34	I-Resolution	"He tells them that he was at a court case and a witness there was given too much of a truth drug and started to tell all truth, which was driving everybody there mad."
+191173.35	I-Resolution	"They go to the courtroom in the hope of learning the question of Life, the Universe and everything is from him."
+191173.36	I-Resolution	They discover he is finished and he has forgotten it all.
+191173.37	B-Resolution	In the end Arthur goes to live on the planet Krikkit where he becomes a more skillful flier and learns bird language.
+
+8757.1	B-Exposition	" ""Starting in the Middle"", Part I of Darwin's Dangerous Idea, gets its name from a quote by Willard Van Orman Quine: ""Analyze theory-building how we will, we all must start in the middle."
+8757.2	I-Exposition	"Our conceptual firsts are middle-sized, middle-distance objects, and our introduction to them and to everything comes midway in the cultural evolution of the race."""
+8757.3	B-Exposition	"The first chapter ""Tell Me Why"" is named after a song."
+8757.4	B-Exposition	"Before Charles Darwin, God was seen as the ultimate cause of all design, or the ultimate answer to 'why?'"
+8757.5	I-Exposition	questions.
+8757.6	B-Exposition	"John Locke argued for the primacy of mind before matter, and David Hume, while exposing problems with Locke's view, could not see any alternative."
+8757.7	B-Inciting Incident	Darwin provided just such an alternative: evolution.
+8757.8	B-Inciting Incident	"Besides providing evidence of common descent, he introduced a mechanism to explain it: natural selection."
+8757.9	B-Inciting Incident	"According to Dennett, natural selection is a mindless, mechanical and algorithmic process&mdash;Darwin's dangerous idea."
+8757.10	B-Rising Action	"The third chapter introduces the concept of ""skyhooks"" and ""cranes"" (see below)."
+8757.11	I-Rising Action	"He suggests that resistance to Darwinism is based on a desire for skyhooks, which do not really exist."
+8757.12	B-Rising Action	"According to Dennett, good reductionists explain apparent design without skyhooks; greedy reductionists try to explain it without cranes."
+8757.13	B-Rising Action	"Chapter 4 looks at the tree of life, such as how it can be visualized and some crucial events in life's history."
+8757.14	B-Rising Action	"The next chapter concerns the possible and the actual, using the 'Library of Mendel' (the space of all logically possible genomes) as a conceptual aid."
+8757.15	B-Rising Action	"In the last chapter of part I, Dennett treats human artifacts and culture as a branch of a unified Design Space."
+8757.16	B-Rising Action	Descent or homology can be detected by shared design features that would be unlikely to appear independently.
+8757.17	I-Rising Action	"However, there are also ""Forced Moves"" or ""Good Tricks"" that will be discovered repeatedly, either by natural selection (see convergent evolution) or human investigation."
+8757.18	B-Rising Action	"The first chapter of part II, ""Darwinian Thinking in Biology"", asserts that life originated without any skyhooks, and the orderly world we know is the result of a blind and undirected shuffle through chaos."
+8757.19	B-Rising Action	"The eighth chapter's message is conveyed by its title, ""Biology is Engineering""; biology is the study of design, function, construction and operation."
+8757.20	I-Rising Action	"However, there are some important differences between biology and engineering."
+8757.21	B-Rising Action	"Related to the engineering concept of optimization, the next chapter deals with adaptationism, which Dennett endorses, calling Gould and Lewontin's ""refutation"" of it an illusion."
+8757.22	I-Rising Action	"Dennett thinks adaptationism is, in fact, the best way of uncovering constraints."
+8757.23	B-Rising Action	"The tenth chapter, entitled ""Bully for Brontosaurus"", is an extended critique of Stephen Jay Gould, who Dennett feels has created a distorted view of evolution with his popular writings; his ""self-styled revolutions"" against adaptationism, gradualism and other orthodox Darwinism all being false alarms."
+8757.24	B-Rising Action	"The final chapter of part II dismisses directed mutation, the inheritance of acquired traits and Teilhard's ""Omega Point"", and insists that other controversies and hypotheses (like the unit of selection and Panspermia) have no dire consequences for orthodox Darwinism."
+8757.25	B-Rising Action	"""Mind, Meaning, Mathematics and Morality"" is the name of Part III, which begins with a quote from Nietzsche."
+8757.26	B-Climax	"Chapter 12, ""The Cranes of Culture"", discusses cultural evolution."
+8757.27	I-Climax	"It asserts that the meme has a role to play in our understanding of culture, and that it allows humans, alone among animals, to ""transcend"" our selfish genes."
+8757.28	B-Climax	"""Losing Our Minds to Darwin"" follows, a chapter about the evolution of brains, minds and language."
+8757.29	B-Climax	"Dennett criticizes Noam Chomsky's perceived resistance to the evolution of language, its modeling by artificial intelligence, and reverse engineering."
+8757.30	B-Climax	"The evolution of meaning is then discussed, and Dennett uses a series of thought experiments to persuade the reader that meaning is the product of meaningless, algorithmic processes."
+8757.31	B-Climax	Chapter 15 asserts that Gödel's Theorem does not make certain sorts of artificial intelligence impossible.
+8757.32	B-Climax	Dennett extends his criticism to Roger Penrose.
+8757.33	B-Climax	"The subject then moves on to the origin and evolution of morality, beginning with Thomas Hobbes (who Dennett calls ""the first sociobiologist"") and Friedrich Nietzsche."
+8757.34	B-Falling Action	"He concludes that only an evolutionary analysis of ethics makes sense, though he cautions against some varieties of 'greedy ethical reductionism'."
+8757.35	B-Falling Action	"Before moving to the next chapter, he discusses some sociobiology controversies."
+8757.36	B-Falling Action	"The penultimate chapter, entitled ""Redesigning Morality"", begins by asking if ethics can be 'naturalized'."
+8757.37	I-Falling Action	"Dennett does not believe there is much hope of discovering an algorithm for doing the right thing, but expresses optimism in our ability to design and redesign our approach to moral problems."
+8757.38	B-Falling Action	"In ""The Future of an Idea"", the book's last chapter, Dennett praises biodiversity, including cultural diversity."
+8757.39	B-Resolution	"In closing, he uses Beauty and the Beast as an analogy; although Darwin's idea may seem dangerous, it is actually quite beautiful."
+
+37737.1	B-Exposition	" A mysterious stranger, Griffin, arrives at the local inn of the English village of Iping, West Sussex, during a snowstorm."
+37737.2	I-Exposition	"The stranger wears a long-sleeved, thick coat and gloves, his face hidden entirely by bandages except for a fake pink nose, large goggles and a wide-brimmed hat."
+37737.3	I-Exposition	"He is excessively reclusive, irascible, and unfriendly."
+37737.4	I-Exposition	"He demands to be left alone and spends most of his time in his rooms working with a set of chemicals and laboratory apparatus, only venturing out at night."
+37737.5	B-Exposition	"While staying at the inn, hundreds of strange glass bottles arrive that Griffin calls his luggage."
+37737.6	I-Exposition	Many local townspeople believe this to be very strange.
+37737.7	I-Exposition	"He becomes the talk of the village (one of the novel's most charming aspects is its portrayal of small-town life in southern England, which the author knew from first-hand experience)."
+37737.8	B-Inciting Incident	"Meanwhile, a mysterious burglary occurs in the village."
+37737.9	B-Inciting Incident	Griffin has run out of money and is trying to find a way to pay for his board and lodging.
+37737.10	B-Rising Action	"When his landlady demands he pay his bill and quit the premises, he reveals part of his invisibility to her in a fit of pique."
+37737.11	I-Rising Action	"An attempt to apprehend the stranger is frustrated when he undresses to take advantage of his invisibility, fights off his would-be captors, and flees to the downs."
+37737.12	B-Rising Action	"There Griffin coerces a tramp, Thomas Marvel, into becoming his assistant."
+37737.13	B-Rising Action	"With Marvel, he returns to the village to recover three notebooks that contain his records of his experiments."
+37737.14	B-Rising Action	"When Marvel soon attempts to betray the Invisible Man to the police, Griffin chases him to the seaside town of Port Burdock, threatening to kill him."
+37737.15	B-Rising Action	"Marvel escapes to a local inn, and is saved by the people at the inn, but Griffin escapes."
+37737.16	B-Rising Action	"Marvel later goes to the police and tells them of this ""invisible man,"" then requests to be locked up in a high security jail cell."
+37737.17	I-Rising Action	His furious attempt to avenge his betrayal leads to his being shot.
+37737.18	B-Rising Action	"Griffin takes shelter in a nearby house that turns out to belong to Dr. Kemp, a former acquaintance from medical school."
+37737.19	I-Rising Action	"To Kemp, he reveals his true identity: the Invisible Man is Griffin, a former medical student who left medicine to devote himself to optics."
+37737.20	I-Rising Action	"Griffin recounts how he invented medicine capable of rendering bodies invisible and, on an impulse, performed the procedure on himself."
+37737.21	I-Rising Action	Griffin tells Kemp of his story of how he turned invisible.
+37737.22	I-Rising Action	"He tells of how he tries the invisibility on a cat, then himself."
+37737.23	B-Rising Action	"Griffin burns down the boarding house he is staying in along with all his equipment he used to turn invisible to cover his tracks, but soon realizes he is ill-equipped to survive in the open."
+37737.24	I-Rising Action	"He attempts to steal food and clothes from a large store, but eventually he steals some clothing from a theatrical supply shop and heads to Iping to attempt to reverse the effect."
+37737.25	B-Climax	"But now that he imagines he can make Kemp his secret confederate, describing his plan to begin a ""Reign of Terror"" by using his invisibility to terrorize the nation."
+37737.26	I-Climax	Kemp has already denounced Griffin to the local authorities and is on the watch for help to arrive as he listens to this wild proposal.
+37737.27	I-Climax	"When the authorities arrive at Kemp's house, Griffin fights his way out and the next day leaves a note announcing that Kemp himself will be the first man to be killed in the ""Reign of Terror""."
+37737.28	B-Falling Action	"Kemp, a cool-headed character, tries to organize a plan to use himself as bait to trap the Invisible Man, but a note he sends is stolen from his servant by Griffin."
+37737.29	B-Falling Action	"Griffin shoots and kills a local policeman who comes to Kemp's aid, then breaks into Kemp's house."
+37737.30	B-Resolution	"Kemp bolts for the town, where the local citizenry comes to his aid."
+37737.31	I-Resolution	"Griffin is seized, assaulted, and killed by a mob."
+37737.32	I-Resolution	"The Invisible Man's naked, battered body gradually becomes visible as he dies."
+37737.33	I-Resolution	"A local policeman shouts to cover his face with a sheet, then the book concludes."
+37737.34	B-Resolution	"In the final chapter, it is revealed that Marvel has secretly kept Griffin's notes."
+37737.35	O	Griffin's name is not known by anyone (including the reader) until he meets Kemp whom he reveals his identity to.
+37737.36	O	"Until then, he is referred to as the stranger or the Invisible Man."
+

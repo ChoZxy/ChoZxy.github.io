@@ -1,0 +1,1017 @@
+3822	O	Sarah knows that she herself is to blame and attempts to stand up for Maragaret.
+3823	O	By this point in time, Sarah has began to appropriate the alcohol which is delivered to the house.
+3824	O	Although Sarah exhibits symptoms of shame as a result of her drinking, she begins to consume alcohol at school.
+3825	O	Matters become even more complex for Sarah when the school counsellor speaks to JoAnne and Sarah about the fact that Sarah has not attended classes.
+3826	O	JoAnne also realises that Sarah has forged notes in JoAnne's name excusing her daughter from her classes.
+3827	O	The counsellor is adamant that something is wrong in Sarah's life.
+3828	O	JoAnne takes offence to this statement.
+3829	O	The counsellor characterises Sarah as a student with a high I.Q.
+3830	O	who once took a diligent approach to her schoolwork.
+3831	O	JoAnne resents the counsellor's interventions and feels that she is being targeted because Sarah's parents are divorced.
+3832	O	When Ken confronts Sarah about her binge drinking, she confesses that she drinks because the alcohol makes life a little bit easier.
+3833	O	As the film progresses, Sarah endeavours to be regarded as mature.
+3834	O	Her Daffy Duck hat, however, belies her attempts.
+3835	O	She dons the hat when she babysits for the Tylers.
+3836	O	When she does so, Ken  gently rebuffs her when she tells him that she loves him.
+3837	O	To make matters worse, Sarah is unable to contact with her father when she attempts to do so by telephone.
+3838	O	Sarah drinks when she is supposed to be babysitting and then passes out.
+3839	O	When her mother discovers what Sarah has been up to, her only concern is that Sarah will be the focus of neighbourhood gossip.
+3840	O	In a confrontation with Matt and JoAnne, Sarah states that she has been drinking almost everyday for two years.
+3841	O	As she drinks more, however, things begin to get out of control.
+3842	O	When Sarah and her mother see a doctor, her mother proves her inadequacy as a parent because she refuses to believe that Sarah has a problem and is only concerned what other people will think.
+3843	O	Despite her mother's criticism, Sarah attends an Alcoholics Anonymous meeting where she meets Bobby, who is even younger than Sarah.
+3844	O	What Bobby tells the group resonates with Sarah.
+3845	O	She recognises herself in what Bobby says, such as the lying to other people as well as to oneself.
+3846	O	During her family therapy sessions, Sarah expresses a desire for her family to be complete once again and for her parents to stop fighting.
+3847	O	When Matt reveals that he is unable to have full custody of Sarah because of the nature of his job, Sarah once again feels the irresistible urge to drink.
+3848	O	She is unable to purchase liquor because of her young age.
+3849	O	She then asks a group of rough-looking teenagers to purchase a fifth of vodka for her.
+3850	O	Sarah attempts to seal the bargain by inviting the youths to do anything that they would like to Sarah.
+3851	O	They oblige, but tease her by devouring most of the bottle themselves.
+3852	O	After she devours a bottle of vodka, she decides to take Daisy for a ride.
+3853	B	Sarah's actions have fatal consequences for Daisy.
+3854	O	Sarah spends time in a hospital, where she expresses extreme remorse for the way she has acted.
+3855	O	She does not understand why she has been placed in a world where the only feelings she possesses are rotten and dismay.
+3856	O	Sarah realises how much she has loved when not only her Mother and Father are willing to assist, but also her friends whom she has met when she attended the Alcoholics Anonymous meeting.
+3857	O	Dorothy Willard, an Amerasian product of the Vietnam War, is tired of living with her abusive foster parents in Kansas.
+3858	O	Dorothy decides that "there's no horror like home" and accepts a dream mission that takes her deep into the desert to hunt down and "terminate with extreme prejudice" an insane, renegade US Army colonel - codenamed 'The Wizard'.
+3859	O	Set in 1998, six years after an apocalyptic nuclear war, a group of army deserters take refuge from acid rain in a seemingly abandoned laboratory complex.
+3860	B	They soon discover that the lab was a top-secret government research center, where a hideous  genetically-engineered monster still lurks.
+3861	O	The film opens with a television documentary about a missing United States film crew, who disappeared on an expedition to the Amazon Basin to make a documentary about indigenous cannibal tribes.
+3862	O	The team was Alan Yates, the director; Faye Daniels, his girlfriend and script girl; and two cameramen, Jack Anders and Mark Tomaso.
+3863	O	Harold Monroe, a New York University anthropologist, has agreed to lead a rescue team and flies to the Amazon to meet his guides, Chaco and his assistant Miguel.
+3864	O	The group has a hostage captured by the military from a local tribe called the Yacumo, and they use him to help negotiate with the natives.
+3865	O	The team arranges his release in exchange for being taken to the Yacumo village.
+3866	O	There the team initially meets hostility and learns that the film group had caused great unrest among the people.
+3867	O	The next day, Monroe and his guides head deeper into the rainforest to locate two warring tribes, the Ya̧nomamö and the Shamatari.
+3868	B	Following a group of Shamatari warriors to a riverbank, they intervene and save a smaller group of Ya̧nomamö from death in a conflict between the groups.
+3869	I	The Ya̧nomamö invite Monroe and his team back to their village, where they are treated with suspicion.
+3870	O	To gain the villagers' trust, Monroe bathes naked in a river.
+3871	B	A group of Ya̧nomamö women emerge to take him to a shrine, which he learns holds the bones of the missing American filmmakers.
+3872	O	Angry, Monroe confronts the Ya̧nomamö, during which time he plays a tape recorder for them.
+3873	O	Intrigued, the natives agree to trade it for the first team’s surviving reels of film during a cannibalistic ceremony, in which Monroe has to take part.
+3874	O	Back in New York, executives of the Pan American Broadcast Company invite Monroe to host a broadcast of a documentary to be made from the recovered film.
+3875	O	Monroe wants to see the raw footage first.
+3876	O	The executives introduce him to Yates' work by showing an excerpt from his previous documentary, The Last Road to Hell.
+3877	O	One of the executives tells Monroe that Yates staged the scene to get more exciting footage.
+3878	O	Monroe reviews the footage, which first follows the group’s trek through the jungle.
+3879	O	They promptly spot a large turtle which they butcher and eat.
+3880	O	Their guide, Felipe, is then bitten by a venomous snake.
+3881	O	The group amputates Felipe's leg with a machete in an attempt to save his life, but he quickly dies and is left behind.
+3882	O	The remaining four succeed in locating the Yacumo.
+3883	O	Jack shoots one in the leg so they can easily follow him to the village.
+3884	O	The second reel starts with the group's arrival at the Yacumo village.
+3885	O	They force the entire tribe into a hut and burn it down in order to stage a scene for the film.
+3886	O	Monroe expresses concerns over the staged scenes and poor treatment of the natives, but his worries are ignored.
+3887	O	Monroe expresses his disgust to station executives about their decision to air the documentary.
+3888	O	To convince them of his view, he shows the remaining, unedited footage, which only he has seen.
+3889	O	The final two reels begin with the team locating a young Ya̧nomamö girl, whom the men gang-rape as Faye tries to stop them.
+3890	O	Later, the team films the girl impaled on a wooden pole, where they claim the natives killed her.
+3891	O	After they move on, the Ya̧nomamö attack the team in revenge for the girl's rape and death.
+3892	O	Jack is hit by a spear, and Alan shoots him so the team can film how the natives mutilate his corpse.
+3893	O	As the three try to escape the scene, Faye is captured.
+3894	O	Alan insists they try to rescue her.
+3895	O	Mark continues to film as she is raped and beheaded.
+3896	O	The Ya̧nomamö immediately locate the last two as the footage ends with Alan's bloody face.
+3897	O	Disturbed by what they just saw, the executives order the footage destroyed, and Monroe leaves the station and declares: "I wonder who the real cannibals are?"
+3898	O	The film opens with a documentary-like scene in which white and black students argue about an impending student strike.
+3899	O	Mark  says he is "willing to die, but not of boredom" for the cause, which draws criticism from the young white radicals.
+3900	O	Following a mass arrest at the campus protest, Mark visits a police station hoping to bail his roommate out of jail.
+3901	O	He is told to wait but goes to the lock-up area, asks further about bail for his roommate, is rebuffed, calls out to the arrested students and faculty and is arrested himself.
+3902	O	He gives his name as Karl Marx, which a duty officer types as "Carl Marx."
+3903	O	After he is released from jail, Mark and another friend buy firearms from a Los Angeles gun shop, saying they need them for "self defense" to "protect our women."
+3904	O	In a downtown Los Angeles office building, successful real estate executive Lee Allen  reviews a television commercial for Sunny Dunes, a new resort-like real estate development in the desert.
+3905	O	Instead of actors or models, the slickly produced commercial features casually dressed, smiling mannequins.
+3906	O	In the next scene Allen talks with his associate  about the greater Los Angeles area's very rapid growth as the two drive through crowded streets.
+3907	O	Mark goes to a bloody campus confrontation between students and police.
+3908	O	Some students are tear-gassed and at least one is shot.
+3909	B	Mark reaches for a gun in his boot and a Los Angeles policeman is seen being fatally shot, although it is unclear by whom.<ref name9E04E2DB1F3FE034BC4852DFB466838B669EDE Screen: Antonioni's 'Zabriskie Point'], The New York Times, 10 February 1970, retrieved 2 February 2010 Mark flees the campus and rides a city bus to suburban Hawthorne where, after failing to buy a sandwich on credit from a local blue collar delicatessen, he walks to Hawthorne Municipal Airport, steals a small plane and flies into the desert.
+3910	O	Meanwhile Daria , "a sweet, pot-smoking post-teenybopper of decent inclinations,"moviecrazed.com, Out of the past, retrieved 2 February 2010 Later a California highway patrolman suspiciously questions Daria.
+3911	B	Hidden behind a portable toilet meant for tourists, Mark takes aim and almost shoots the policeman but Daria stands between the two of them to block this, apparently saving the policeman's life before he drives away.
+3912	O	Mark tells Daria the gun is unloaded, then shallowly buries it.
+3913	O	Getting back to the stolen plane, they paint it with politically charged slogans and psychedelic colors.
+3914	O	Daria pleads with Mark to travel with her and leave the plane, but Mark is intent on returning and taking the risks that it involves.
+3915	O	He flies back to Los Angeles and lands the plane at the airport in Hawthorne; however, the police  are waiting for him.
+3916	O	Patrol cars chase the plane down the runway.
+3917	B	Rather than stopping, Mark tries to turn the taxiing plane around across the grass and is shot to death by one of the policemen.
+3918	O	Daria soon learns about Mark's death on the car radio and drives to her boss Lee's lavish desert home, "a desert Berchtesgaden"
+3919	O	The film continues the misadventures of two young executives, Larry Wilson  and Richard Parker , and their deceased boss, Bernie Lomax .
+3920	O	In the first film, Larry and Richard were forced to create the illusion that Bernie was still alive in order to avoid being killed themselves.
+3921	O	In the sequel, Larry and Richard plot to use Bernie to find the embezzled $2 million he had buried at the U.S. Virgin Islands.
+3922	B	Before stuffing the body into a suitcase and heading for fortune, however, Bernie is partially revived in a botched voodoo ceremony and made to walk toward the hidden treasure whenever he hears music.
+3923	O	Larry and Richard are also on the run from the mob, as well as two flunkies of the voodoo lady, and a representative from the insurance company sent to recover the embezzled $2 million, who usually ends up questioning his sanity whenever he sees a walking Bernie, convinced Bernie has died.
+3924	B	Richard is administered poison by the "mobu", and must find the treasure by sundown to get the antidote.
+3925	B	Larry befriends a lovely native girl named Claudia , whose father is a medical doctor who can cure Richard if he can get the blood of a virgin .
+3926	B	The mobsters and voodoo lady are arrested, and Bernie is last seen leading the flunkies in a carnival parade, who have been transformed into goats by voodoo.
+3927	B	Larry returns the $2 million to the insurance company, but not before learning Bernie actually stole $3 million.
+3928	O	Larry and Richard use the remaining million to purchase a yacht with a crew of attractive women.
+3929	O	After the credits roll, one last shot is seen of Bernie wearing numerous gold chains and riding a shark into the sunset.
+3930	O	Early on the morning of September 11, 2001, hijackers Ahmed al-Nami and Ahmed al-Haznawi are praying in their hotel room, United 93's skyjacking ringleader Ziad Jarrah reading the Quran, and Saeed al-Ghamdi shaving.
+3931	O	The four then leave for Newark International Airport.
+3932	O	At the airport, the crew and passengers board United Airlines Flight 93.
+3933	O	Shortly after boarding, and the safety briefing, Flight 93 is delayed for 41 minutes because of the high volume of traffic.
+3934	O	The three other soon to be hijacked flights, American Airlines Flight 11, United Airlines Flight 175, and American Airlines Flight 77 take off at other airports.
+3935	O	Air traffic controllers monitoring all current flights determine that American Airlines Flight 11, a Boeing 767 from Boston's Logan International Airport has taken a turn toward New York City.
+3936	O	Shortly after, Flight 11 crashes into the North Tower of the World Trade Center, although the air traffic controllers do not immediately realize what has happened.
+3937	O	About 20 minutes earlier, a tape recording was made of Mohamed Atta's line "We have some planes, just stay quiet and you'll be okay.
+3938	O	We are returning to the airport."
+3939	O	Meanwhile, United Airlines Flight 175, another Boeing 767, also from Boston, is also hijacked, and begins to descend and turn toward New York City as well.
+3940	O	Air traffic controllers then realize they are dealing with multiple hijackings.
+3941	O	American Airlines Flight 77, a Boeing 757 is also hijacked.
+3942	O	The air traffic controllers and Air Force watch as Flight 175 crashes into the South Tower of the World Trade Center on live television, reported by CNN.
+3943	O	United Airlines Flight 93 reaches its cruising altitude about the same time that Flight 175 crashes.
+3944	O	The pilots of Flight 93 receive a message, Beware cockpit intrusion.
+3945	O	Two a/c hit WTC.
+3946	O	The terrorists on Flight 93 argue about when to begin their operation.
+3947	O	At 9:28 AM, after Ahmed al-Haznawi assembles a fake bomb, the other three hijackers wrestle their way into the cockpit, holding off the flight attendants, herding the passengers to the back of the plane, and then killing the pilots Jason Dahl, and LeRoy Homer, Jr..
+3948	O	The hijacker Ziad Jarrah tries to tell the passengers to Keep remaining[sic] sitting, we have a bomb on board.
+3949	O	So sit.
+3950	B	He accidentally transmits this and another message to Cleveland Air Traffic Control, which he realises later, turning off Flight 93's transponder.
+3951	O	Flight 93 turns towards D.C. while Ben Sliney ultimately decides to shut down all airspace in the United States and ground every flight.
+3952	O	By this time, Flight 77 has crashed into the Pentagon.
+3953	O	The passengers on Flight 93 begin making phone calls to family through the on-board GTE Airfone system.
+3954	O	After hearing that planes have crashed into the WTC and the Pentagon, they realize that if they do nothing they will also die, and eventually elect to storm the cockpit and retake the plane using whatever makeshift weapons they can.
+3955	O	They wait for the right moment, as the hijackers eventually realise the passengers are thinking of taking back the plane.
+3956	O	One of the hijackers asks Jarrah how much time they may have left, and he says 20 minutes.
+3957	O	The hijacker responds with We don't have twenty minutes!
+3958	O	This turns out to be all but false, as the passengers begin the revolt.
+3959	B	After Haznawi is beaten down and killed, Ahmed al-Nami warns Ziad Jarrah and Saeed al-Ghamdi in the cockpit of the passenger's revolt, and attempts to hold off the advancing passengers with a food cart, pepper spray, and a fire extinguisher; he too is soon overwhelmed and is killed by having his neck snapped.
+3960	O	Ziad Jarrah shakes the plane violently but the passengers manage to enter the cockpit; however, as they attempt to gain control, the plane plummets into an upside down nosedive.
+3961	O	Passengers are heard screaming, wind is heard, and hands are seen grappling for the yoke.
+3962	O	The film ends as the plane nears the ground, and the screen blacks out as the plane hits the ground.
+3963	O	Rocky Jones attempts to save the inhabitants of a planet about collide with a moon.
+3964	B	The empress of the planet, however, is suspicious.
+3965	O	The film is set in the end-times, when the earth has been taken over, and the mark of the Beast - an implant in the right hand or forehead - is being imposed upon the global population .
+3966	O	Those who take the mark become part of 'The Community'; those who refuse to bear the mark are imprisoned and, after three weeks, beheaded.
+3967	B	Two non-Christian renegades  steal a car for a friend who has also refused to bear the mark.
+3968	I	They find out when they arrive at his place that he has chosen to mark it, and "feels so much happier".
+3969	B	The renegade two are caught by police, and taken to prison.
+3970	O	Tom Newman , a smuggler, is also captured by a police unit, led by his ex-wife, who has taken the mark.
+3971	B	He is tortured until he agrees to infiltrate a Christian group in prison in order to kill Elijah Cohen, a Christian leader who remains at large.
+3972	I	Tom and the other two renegades meet in prison, and try to escape.
+3973	O	The film consists of three short documentary films that show the faces and give voices to children orphaned by AIDS.
+3974	O	The intentions of the documentary are to focus attention on the dismemberment of families in Mozambique due to AIDS, because it is a harsh reality and too often ignored.
+3975	O	An investigative thriller revolving around the village of Paravathipuram.Kaimaland Parambath raajuare fighting over a number of issues and get involved in the murder of a girl,Bhadra.Two police officers who are alike,S.I.
+3976	O	Rajan and Rajamani IPS,investigate the case.
+3977	O	A nameless priest is a fugitive in an unnamed Latin American country where religion is outlawed.
+3978	O	Another fugitive, a murderous bandit dubbed "El Gringo", comes to town.
+3979	O	He and a beautiful Indian woman conspire to help the priest escape.
+3980	B	Taken to safety, he is then convinced by a police informant to return to the town on the pretense that "El Gringo" is dying and wishes to have last rites.
+3981	I	The priest is captured and sentenced to death, but forgives the informant for betraying him.
+3982	O	The priest's death brings an outpouring of public grief and shows the authorities that it is impossible to stamp out religion as long as it exists in people's hearts and minds.The film gained the prize of the International catholic office for cinema  at the Venice filmfestival in 1948.
+3983	O	According to this jury, this was a film "most capable of contributing to the revival of moral and spiritual values of humanity".
+3984	O	Karen Stone , an actress, and her businessman husband are off on holiday to Rome.
+3985	B	On the plane, her husband suffers a fatal heart attack.
+3986	O	Karen decides to stay in Italy and rent a luxury apartment in Rome.
+3987	O	The Contessa Magda Terribili-Gonzales  soon introduces her to a young Italian man, Paolo .
+3988	O	Karen and Paolo embark on a passionate affair, with disastrous consequences.
+3989	B	A baby is abandoned at the United Nations headquarters in New York by a mother who has heard the UN's Frank Larrimore speak out on behalf of women's rights.
+3990	O	Because the baby is in international territory, his nationality unknown, Frank is willing to take the baby home until a proper home can be determined.
+3991	O	His landlord forbids kids, so Frank smuggles the child into his apartment.
+3992	O	UN guide Lisette likes the idea of marrying Frank and adopting the baby, but is offended by Frank's playboy pal Randy using it as a way to meet beautiful, wedding-minded single women.
+3993	O	Frank finally earns her forgiveness and love, and the baby will be theirs.
+3994	O	Jeremy is an émigré from Manchester who owns a small New York City cafe.
+3995	O	The cafe becomes a haven for Elizabeth as she tries to recover emotionally following the end of an affair.
+3996	O	She finds comfort in the blueberry pie he bakes daily despite the fact that none of his other customers ever order it.
+3997	O	Elizabeth, now calling herself Lizzie, eventually drifts to Memphis, Tennessee, where she takes two jobs, waitress by day and barmaid by night, in order to earn enough money to finance the purchase of a car.
+3998	O	She regularly sends postcards to Jeremy without revealing where she lives or works and, although he tries to locate her by calling all the restaurants in the area, he fails to find her.
+3999	O	Later on, he decides to send out postcards to any restaurants she may be to try to find her.
+4000	O	One of Lizzie's regulars at both jobs is local policeman Arnie Copeland, an alcoholic who cannot accept the fact his wife Sue Lynne has left him and is flaunting her freedom by openly socializing with other men.
+4001	O	He confesses to Lizzie his many attempts at achieving sobriety have ended in failure.
+4002	B	One night, he drunkenly threatens his estranged wife with his gun if she leaves, then crashes his car and is killed.
+4003	O	Lizzie comforts Sue Lynne, who gives her the money towards Arnie's tab at the bar Lizzie works at in the evening, before leaving town.
+4004	O	Heading west, Elizabeth – now calling herself Beth – gets another waitress job at a casino in a small town in Nevada.
+4005	O	Here she meets Leslie, an inveterate poker player who has lost all her money.
+4006	O	Beth agrees to lend her $2200 in exchange for a third of her winnings or her car if she loses.
+4007	O	When she does lose, she fulfills her promise by giving Beth the car, but asks her to drive her to Las Vegas so she can borrow money from her father, whom she has not seen in a long time.
+4008	B	While en route she receives a call from a Vegas hospital, where her father has been admitted and is dying.
+4009	I	Leslie believes the call is simply a ruse to lure her home, but upon arrival in Vegas she discovers her father died the previous night.
+4010	O	Leslie announces she wants to keep the car, which she had stolen from her father, who had sent her the title and registration despite their estrangement.
+4011	O	She confesses she really won the card game and gives Beth her promised share of the winnings, which she uses to finally purchase the car she always wanted.
+4012	B	Elizabeth returns to Manhattan and, discovering her ex-boyfriend has vacated his apartment and moved on with his life, returns to the cafe, where Jeremy has had a stool at the counter reserved for her ever since she left.
+4013	O	As she eats a slice of blueberry pie, Elizabeth realizes her feelings for him are reciprocated.
+4014	O	Kay Bentley , a bored socialite seeks a more fulfilling life and goes on a Greek holiday.
+4015	B	While on vacation, Kay falls for Terry O'Neill , an archaeologist who challenges Kay's beliefs, yet, also falls for her enough to follow her home.
+4016	I	He feels awkward in Kay's flighty, social circles, yet they become engaged to marry.
+4017	O	As Kay and Terry continue to quarrel over their differing lifestyles.
+4018	O	Kay and Terry reach a compromise and do marry in the end.
+4019	O	Racketeer Patsy Gargan is made deputy commissioner of a reform school as a reward from his corrupt political cronies.
+4020	O	Initially, he has no interest in the school, but his sympathy for the boys, who are abused and battered by a brutal, heartless warden and his thuggish guards convince him to take the job seriously.
+4021	O	As does an attractive resident nurse named Dorothy.
+4022	O	Gargan sends Thompson, the superintendent, on vacation and, while he is gone, puts Dorothy's reform ideas into action.
+4023	O	The school is functioning well under a system of self-government when Patsy is called back to the city to take care of some political business.
+4024	B	Patsy shoots another man during a fight and has to go into hiding.
+4025	I	Thompson returns to the school and convinces the boys that Patsy has abandoned them.
+4026	B	He then starts running things the old way and, when Dorothy protests over the poor quality of the food served, he fires her.
+4027	B	Then one of the boys, Johnny "Skinny" Stone, dies while in solitary confinement and the boys rebel.
+4028	I	Thompson is put on trial by the boys, who find him guilty.
+4029	B	Thompson, in a panic, jumps out a window to escape.
+4030	O	Pursued by the boys, many of whom carry torches, he scrambles up onto the roof of a barn.
+4031	B	The boys immediately set fire to the barn.
+4032	O	Dorothy, meanwhile, finds Patsy in his hideout and tells him the whole story.
+4033	O	Patsy races back to the school to restore order, but Thompson is dead, having fallen from the roof of the barn.
+4034	B	At the picture's end, Patsy decides to give up his political career and stay at the school permanently.
+4035	O	When a wealthy businessman gets sent to prison, for non-payment of alimony; his valet falls for the same dame, with the same game.
+4036	O	It's a question of who'll be left standing, at the alter, as the ex-wives and gold-diggers scheme to get the money; and, the ex-husbands, gentlemen, and manservants just want to be loved; and, hang on to their own.
+4037	O	The pen seems mightier than the sword, as the secretary and reporter appear to be the only ones immune to the sling and arrows of outrageous fortune, from Cupid's quiver; or, are they?
+4038	O	In a misguided attempt to enlighten his African-originating slaves, a Count invites twelve of them to a dinner on Maundy Thursday in a re-enactment of the Last Supper with himself as Christ.
+4039	O	Whilst they eat and drink, he also feeds them religious rhetoric and attempts to instruct them in the workings of Christianity.
+4040	O	He promises them a day off for the following Good Friday and commits to freeing one of the slaves.
+4041	B	However, when these promises are not held up the next day, the slaves rebel.
+4042	I	They are then all hunted down and killed by their master, except one who escapes.<ref nameTHE LAST SUPPER , BBC Four: Film & Drama |url2011-05-12}}
+4043	O	After his girlfriend leaves him, lonely horror movie buff Adam Waltz moves to Los Angeles to be closer to her.
+4044	O	There he lands a walk-on role in studio chief Connor Pritchett's latest cinematic schlockfest, Pirate Wench.
+4045	B	One night, a killer starts stalking the set, and before long bodies are piling up.
+4046	O	On the downside, it wreaks havoc with the film's budget.
+4047	O	On the upside, Adam's part keeps getting bigger and bigger.
+4048	O	With ace police detectives Shields and LaRue on the case, everyone hopes the mystery will be solved quickly.
+4049	B	But when Adam begins seeing the ghost of an actress who died fifty years ago, there may be more to this serial killing spree than a psycho with a taste for torture.
+4050	O	A group of ski troopers behind German lines during World War II disrupts Nazi plans and blow up an important bridge.
+4051	O	{{Expand section}} Kei  is the experienced leader of a team of pickpockets..
+4052	O	He enjoys a carefree lifestyle taking photos with his vintage Rolleiflex.
+4053	O	One day a dashing beauty, Chun-Lei , suddenly appears in Kei's viewfinder.
+4054	O	Kei is mesmerized.
+4055	O	Every member of his team has an encounter with her....
+4056	O	But behind Chun-Lei's attractive facade lies a mysterious past and a mission to set herself free.
+4057	O	Benjamin Franklin Gates  is a historian and amateur cryptologist, and the youngest descendant of a long line of treasure hunters.
+4058	O	Though Ben's father, Patrick Henry Gates, tries to discourage Ben from following in the family line, as he had spent over 20 years looking for the national treasure, attracting ridicule on the family name, young Ben is encouraged onward by a clue, "The secret lies with Charlotte", from his grandfather John Adams Gates in 1974, that could lead to the fabled national treasure hidden by the Founding Fathers of the United States and Freemasons during the American Revolutionary War that was entrusted to his family by Charles Carroll of Carrollton in 1832 before his death to find, and protect the family name.
+4059	O	In the present, with an expedition funded and led by Ian Howe, Ben and his friend, a computer expert, Riley Poole track down a Colonial ship that is trapped in Arctic ice, the Charlotte.
+4060	B	Aboard the ship they discover a meerschaum pipe engraved with a Knights Templar riddle that Ben connects to an invisible map written by Timothy Matlack on the back of the Declaration of Independence.
+4061	B	When Ian reveals he will go to any lengths to find this treasure including stealing the Declaration, Ben takes a stand against him.
+4062	I	A fight ensues, during which spilled gunpowder is ignited.
+4063	O	Ian escapes the ship, leaving it to explode before departing with his team.
+4064	O	Ben and Riley are trapped inside but survive the explosion by hiding in a smugglers hold, and return to the United States determined to stop Ian.
+4065	O	When Ben and Riley try to tell various authorities, including the FBI, and Dr. Abigail Chase at the National Archives, they dismiss their claims, considering the Declaration impossible to steal.
+4066	O	Ben and Riley concoct their own plan to steal the Declaration during a gala event, and execute it just before Ian and his own team arrive.
+4067	O	Abigail, suspicious of Ben's presence at the gala, becomes caught up with Ben and Riley as they escape from Ian and the authorities.
+4068	O	Ben's identity is tracked to the theft, and they are forced to go to his father's home, much to Patrick's surprise and dismay.
+4069	O	Ben and Abigail find an Ottendorf cipher on the back of the Declaration which, using the riddle on the pipe from the Charlotte, they connect to the Silence Dogood letters, written by Benjamin Franklin, at the Franklin Institute in Philadelphia.
+4070	O	Decoding the message, it points to where the Liberty Bell was, they then head to the top of Independence Hall at a specific time 2:22 where the trio find a pair of spectacles with multiple colored lenses invented by Franklin that reveal additional clues on the back of the Declaration, "Heere at the Wall."
+4071	B	The group is caught by Ian, and even though they split up, Riley and Abigail and the Declaration are caught by Ian, while Agent Peter Sadusky captures Ben, still with the glasses.
+4072	B	Ian, under the guise of a prisoner exchange, lures the FBI into a trap aboard the USS Intrepid, allowing them to grab Ben.
+4073	O	Holding Riley, Abigail, and Patrick hostage, Ian forces Ben to use the bifocals and find the next clue, which leads the group to Trinity Church in New York City.
+4074	O	Beneath the church through a secret tunnel behind the coffin of Parkington Lane they find an enormous shaft with an elevator system.
+4075	O	When walking down the stairs the shaft began to collapse a little but manage somehow.
+4076	O	At the bottom of the shaft, they find a room lit only by a lantern, which Ben and Patrick trick Ian into thinking that it refers to Paul Revere's Ride, and indicates the treasure to be at the Old North Church in Boston.
+4077	O	Ian and his men strand Ben, Riley, Abigail, and Patrick as they ascend to the surface, unaware that Ben has purposely tricked them.
+4078	B	Ben pushes a button of the unfinished pyramid the all-seeing eye on the wall and opens a secret door to an empty room.
+4079	O	Patrick apologizes to Ben and admits himself that the treasure is real.
+4080	B	Ben believes there’s another way out to the surface and kept searching then found a strange keyhole and uses the pipe from the Charlotte to open yet another secret door to reveal the vast treasure trove, for which he has been searching his entire life, as well as a route to the surface.
+4081	B	When the four ascend back to the church, Ben calls in Agent Sadusky, who reveals he is part of the Freemasons.
+4082	O	Ben and Sadusky arrange a deal: with the safe return of the Declaration and identifying where Ian and his men can be found, Sadusky will clear all of their names; the treasure will be distributed among museums throughout the world, and the Gates family will receive credit for the discovery.
+4083	O	Ian is captured by the FBI at the Old North Church and charged with kidnapping, attempted murder, and trespassing on government property.
+4084	O	The film ends showing that Ben chose to accept from the US government only a 1% finder's fee for himself and his team.
+4085	O	That is still enough to make him and his friends quite wealthy, given that Ben's estimated value of the find is US $10,000,000,000.
+4086	O	In addition, Ben has begun a romantic relationship with Abigail and bought a mansion they will be living in, and Riley bought himself a Ferrari.
+4087	O	Detective Superintendent  Pierre Niemans , an investigator well known in Paris, is sent to the small rural university town of Guernon in the French Alps to investigate a brutal murder.
+4088	O	The victim's body is found bound in the fetal position and suspended high on a cliff face, his eyes removed and his hands cut off.
+4089	O	Niemans learns that the victim was a professor and the University's librarian, Remy Callois, and he seeks out a local ophthalmologist for an explanation to the removal of the eyes.
+4090	O	Dr. Cherneze, once on the University staff, explains that the school's isolation led to in-breeding amongst the professors, with increasingly serious genetic disorders.
+4091	O	Recently the trend has reversed, with the local village children becoming ill and the college babies remaining healthy.
+4092	O	Cherneze hints that the killer is leaving Niemans clues to their motive by removing the body parts that are unique to each individual - the eyes and hands.
+4093	O	Niemans questions the Dean and examines the librarian's apartment, where he finds images of athletic "supermen" juxtaposed with texts on genetic deformities.
+4094	O	The Dean's assistant  Hubert translates the title of Callois' Ph.D. thesis as, "We are the masters.
+4095	O	We are the slaves.
+4096	O	We are everywhere.
+4097	O	We are nowhere.
+4098	O	We control the crimson rivers."
+4099	O	Coincidentally Detective Inspector  {{cite web}} Max Kerkerian  is in the nearby town of Sarzac investigating the desecration of the grave of Judith Herault, a girl who died in 1982, and the theft of her photos from the local primary school.
+4100	O	The girl was killed in a horrific highway accident, witnessed by her mother, who was so traumatized she took a vow of darkness in a nunnery.
+4101	O	The mother tells Kerkerian that when Judith was ten she fell ill, and they went to get help in Guernon where she was born; she claims they were then attacked by "demons" and, when they fled, her daughter was killed in the road accident.
+4102	O	She says the pictures were stolen to erase her daughter from history, and that her face is a threat to the demons who have returned to complete their mission.
+4103	O	She tells him it all began in Guernon.
+4104	O	Niemans questions Fanny Ferreira , a glaciologist and student, who is immediately suspect because of her climbing ability.
+4105	O	Despite her contempt for the school and its arrogant professors, she works for the university to steer away frequent avalanches, and is incensed when Niemans implies she might withhold evidence to protect the school.
+4106	O	She tells him that anyone with good equipment could've hoisted the body up the cliff, and brushes off his obvious attraction.
+4107	O	Soon after, the pathologist reports that it was acid rain in Callois' eye sockets, which has not fallen in the area since the seventies.
+4108	O	Niemans enlists Fanny to take him up the glacier to get ice samples to compare with the acid rain in Callois' eyes.
+4109	O	On a hunch, Niemans follows a glacial melt tunnel to a cave that contains a second body, frozen into the ice.
+4110	O	Kerkerian traces a car from the accident to Phillip Sertys in Guernon and meets Niemans while attempting to break into Sertys' apartment.
+4111	B	Sertys is the body in the ice, a doctor that worked in the maternity ward at the University hospital.
+4112	O	They find Judith's stolen photograph as well as evidence that Sertys was breeding and training fighting dogs - and then they find the dogs, and Niemans the "supercop" is momentarily paralyzed by fear, until Kerkerian coaxes him through.
+4113	O	Sertys was also mutilated, and his eyes replaced with glass prosthetics, "Like you would find at an eye doctor's" remarks the pathologist, leading Niemans to race back to Cherneze's practice.
+4114	B	The doctor is already dead, and they almost catch the killer, who fights off Niemans and races away after deliberately emptying Niemans' gun into the wall but not hitting him.
+4115	O	Kerkerian gives chase but the killer escapes.
+4116	B	Returning to the scene, where the killer has written "I will trace the source of the crimson rivers" in Cherneze's own blood above his body, they learn the prints on Niemans' gun belong to Judith Herault.
+4117	O	Kerkerian goes back to search the grave in Sarzac, which is empty except for a picture, while Niemans goes to Fanny's home.
+4118	O	Niemans tells her that although he sees her as physically capable of committing the crimes he doesn't believe her to be guilty.
+4119	O	When he returns to the university, the local police captain tells him that Callois' thesis is full of Nazi-style eugenics, suggesting perfection can be achieved by breeding athletically gifted and intellectually gifted children together.
+4120	O	Kerkerian returns with the photo which Niemans recognizes as Fanny and, on the way to her house, they narrowly avoid being run off the road by the Dean's son as they piece together the story.
+4121	B	Due to the poor bloodlines and genetic mutations in the faculty's inbred offspring, the doctors at the hospital had been swapping healthy village children with the university children.
+4122	I	Sertys, they deduce, must have swapped Fanny for Judith, and Callois arranged the matches in the college's breeding program.
+4123	B	Once at Fanny's house they find the missing hands and eyes of the victims in her basement, but Fanny is now gone and so are her grenades.
+4124	O	Niemans gives the order to evacuate the university while he and Kerkerian travel up the mountain to find Fanny.
+4125	B	The duo confront Fanny only to be set upon by Judith, who is her identical twin.
+4126	B	Judith tells Fanny to kill Niemans she refuses, and instead turns the gun on her sister.
+4127	B	At the same time Kerkerian fires at Judith but hits Fanny in the shoulder and the gunshots trigger an avalanche.
+4128	O	Judith is swept away and the rest are buried in the snow until a rescue team arrives with search dogs.
+4129	O	Fanny is airlifted to hospital while Kerkerian asks Niemans to explain his fear of dogs.
+4130	O	Sivaji is the loving elder step-brother of Rajinikanth and Vijaybabu.
+4131	O	After his marriage, his wife  sends his brothers out when he goes to Chennai.
+4132	O	Rajni, the older of the two, toils and becomes a taxi driver to educate and treat his brother.
+4133	O	But his brother strays and gets mixed up with some wrong-doers.
+4134	O	He marries a girl  from a rich family.
+4135	B	The girl's uncle , is a smuggler who sells drugs using his brother's lorries, kills him and puts the blame on Rajni.
+4136	B	Sivaji, the presiding judge, realises that its his long-lost brother and returns as a lawyer to save him.
+4137	O	A Grinch-like thief retreats to her hometown in Connecticut after a con goes bad and gets stuck baby-sitting her niece and nephew until their parents can make it home for Christmas.
+4138	O	She spends most of her time devising ways to even the score with Clive, her partner in crime, until the spirit of the holidays can help put her priorities back on track.
+4139	O	Set in the fictional English village of St. Mary Mead, home of Miss Jane Marple , in 1953, a big Hollywood production company arrives to film a costume movie about Mary, Queen of Scots and Elizabeth I with two famous movie stars, Marina Rudd  and Lola Brewster .
+4140	O	The two actresses are old rivals who hate each other.
+4141	O	Marina, who is making a much heralded comeback after a prolonged "illness" and retirement, when she, in reality, has had a nervous breakdown, and her husband, Jason Rudd , who is directing the movie they are making, arrive with their entourage.
+4142	O	When she learns that Lola will be in the movie as well, she becomes enraged and vents her anger.
+4143	O	Lola and her husband, Martin N. "Marty" Fenn , who is producing the movie they are making, then arrive.
+4144	O	Excitement runs high in St. Mary Mead, as the locals have been invited to a reception held by the movie company in a manor house, Gossington Hall, to meet the celebrities.
+4145	O	Lola and Marina come face to face at the reception and exchange some potent and comical insults, nasty one-liners, as they smile and pose for the cameras.
+4146	O	The two square off in a series of hilarious and cleverly written and performed cat-fights throughout the movie.
+4147	O	Marina however, has been receiving anonymous death threats.
+4148	O	After her initial exchange with Lola at the reception, she is cornered by a gushing, devoted fan, Heather Badcock , who bores her with a long and detailed story about having actually met Marina in person during World War II.
+4149	B	After recounting the meeting they had all those years ago, when she arose from her sickbed to go and meet the glamorous star, Babcock drinks a cocktail that was made for Marina and quickly dies from poisoning.
+4150	O	The incident is unfortunate for Marina's mental state, and she is beside herself.
+4151	O	Everyone is certain she was the intended murder victim.
+4152	B	Once filming begins on the movie, she discovers that apart from threatening notes made up of newspaper clippings, her cup of coffee on the set has also been spiked with poison, sending her into fits of terror.
+4153	O	The police detective from Scotland Yard investigating the case, Inspector Dermot Craddock , is baffled as he tries to uncover who is behind the attempt on the life of the actress and the subsequent murder of the innocent woman.
+4154	O	The suspected are Ella Zielinsky , Jason's production assistant who is secretly having an affair with him and would like Marina out of the way, and the hotheaded actress Lola Brewster.
+4155	O	Inspector Craddock asks his aunt, the renowned amateur detective Miss Jane Marple, who injured her foot at the reception and is confined to her home, for assistance.
+4156	B	The main suspect, Zielinsky, is then killed by a lethal nose spray after going to a pay phone in the village, where she called the murderer and threatened to expose him.
+4157	O	Miss Marple, now back on her feet, visits Gossington Hall, where Marina and Jason are staying, and views where Babcock's death occurred.
+4158	O	Working from information received from her cleaning woman, Cherry Baker (played by [[Wendy Morgan , who was working as a waitress the day of the murder, the determined elderly sleuth begins to piece together the events of the fatal reception and solves the mystery.
+4159	B	By the time she has collected all the evidence to indicate who committed the crime, however, another death occurs at Gossington Hall, which sadly closes the case on who the murderer in St. Mary Mead actually is: Marina Rudd, who has apparently committed suicide.
+4160	O	In the film's denouement, Miss Marple explains the murders that have occurred.
+4161	O	Heather Babcock's story was Marina's initial motive.
+4162	O	Ms. Babcock suffered from German measles — a rather harmless disease to most adults, but problematic for a pregnant woman.
+4163	O	Heather Babcock innocently infected Marina when she met her during World War Two.
+4164	O	Marina was pregnant at the time; the disease caused her child to be born with mental retardation.
+4165	B	Upon hearing Heather cheerfully tell this story, Marina was overcome with rage and poisoned her without thinking.
+4166	O	She then spread the idea that she was the intended victim, delivering the death threats and poisoning her own coffee.
+4167	O	Ella, who made phone calls to various suspects from the pay phone, accidentally guessed correctly, prompting Marina to murder her.
+4168	O	As Marina is now dead, she will not be brought to justice.
+4169	B	Jason, her devoted husband, confesses to Miss Marple that he actually administered the dosage of poison to save her from prosecution.
+4170	O	However, Marina didn't touch the hot chocolate he made for her and rather poisoned herself.
+4171	O	Chad  and Howard  are two middle management employees at a corporation, temporarily assigned to a branch office away from home for six weeks.
+4172	O	Howard is assigned to head up the project.
+4173	O	Embittered by bad experiences with women, they form a revenge scheme to find an insecure woman, romance her simultaneously, and then break up with her at the same time.
+4174	O	Chad, who is cruel, manipulative, duplicitous, and abusive to his subordinates, is the originator and driving force behind the scheme, while Howard is the more passive of the two, which leads to a later conflict with the scheme.
+4175	O	Chad decides upon Christine , a deaf coworker who is so self-conscious that she wears headphones so people, thinking that she is listening to music, are compelled to get her attention visually or tactilely without immediately learning that she is deaf.
+4176	O	Chad and Howard decide to each ask her out, and over the course of several weeks, date her simultaneously.
+4177	O	In the meantime, things with the project go wrong; a fax Chad is supposed to have made to the home office is "lost" and a presentation Chad is supposed to deliver to the home office is unable to be carried out successfully after some documents are allegedly printed so lightly that they are illegible.
+4178	O	These mishaps culminate in Howard being demoted and Chad taking his place at the head of the project.
+4179	O	Chad eventually sleeps with Christine, and she falls in love with him.
+4180	B	When Christine eventually breaks this news to Howard, Howard tells Christine the truth about their scheme, and tells her that he loves her.
+4181	O	Christine is shocked by the revelation, and refuses to believe that Chad would do this.
+4182	O	When she confronts Chad, he admits the truth.
+4183	O	Christine angrily slaps Chad, but Chad is unashamed of his behavior, and cruelly taunts Christine, who collapses into tears after he leaves her.
+4184	O	Weeks later, Howard confronts Chad back home at his apartment.
+4185	O	Howard is now apparently in the bad graces of the company, having been moved to a lower floor, while Chad is doing well, and thus offering to say something on Howard's behalf.
+4186	O	Nevertheless, Howard is not worried about work; he confesses to Chad that he really loved Christine.
+4187	B	At this point Chad, despite having previously told Howard that his girlfriend, Suzanne, had left him, shows Howard that she is still there, asleep in his bed.
+4188	O	Chad says that he carried out the plan "because I could," and asks Howard how it feels to have truly hurt someone.
+4189	O	Howard, who had never done anything like that before, leaves, horrified.
+4190	O	Howard later travels back to the city and to a bank where he sees Christine, and tries to speak to her, but she looks away in anger.
+4191	O	He loudly pleads with her to "listen" to him, but his pleas literally fall on deaf ears.
+4192	O	Elena Winters , a mother and a pastor's wife, and Peyton Lombard , a well-known lesbian writer, are two different personalities.
+4193	O	When their paths cross, they feel connected to each other and eventually fall in love.
+4194	O	The movie follows two friends as they attempt to stop an invasion from taking over Alabama and the world by biting rednecks.
+4195	O	Once a photographer by day, spy by night, Matt Helm is now a happily retired secret agent, shooting photos of glamorous models instead of guns and enjoying a close relationship with his assistant, the lovely Lovey Kravezit.
+4196	O	But then his old boss, Macdonald, coaxes him back to the agency ICE to thwart a new threat from the villainous organization Big O.
+4197	B	The sinister Tung-Tze is masterminding a diabolical scheme to drop an atomic bomb on New Mexico and possibly instigate a nuclear war in the process.
+4198	O	Helm's assignment is to stop him, armed with a wide assortment of useful spy gadgets, plus the assistance of the capable femme fatale Tina and the seemingly incapable Gail Hendricks, a beautiful but bumbling agent.
+4199	B	Along the way, Helm is nearly sidetracked by a mysterious knife-wielding seductress.
+4200	O	And he witnesses the murder of a beautiful Big O operative, the sultry striptease artist Sarita.
+4201	O	In the end, Helm prevails, with Gail by his side as he all but single-handedly destroys Tung-Tze's evil enterprise and plot to rule the world.
+4202	O	The movie revolves around three sets of people.
+4203	O	# The Angrez - Two guys who come from the US to serve in an IT company.
+4204	O	{{cite web}} Meanwhile, Ramesh, Pranai’s cousin  colludes with Mama, the typical gangster of the Hyderabadi underbelly, for kidnapping Pranai for ransom.
+4205	O	Mama and his goons take up the assignment and the plan is set in motion.
+4206	O	Ismail bhai is still in rage in his stronghold Charminar, as he believes that the harmless spat is now a matter worth dying for and is a matter of his honor.<ref name http://www.fullhyderabad.com/profile/movies/2094/2/the-angrez-movie-review |title Ghazala Rizvi |date |publisher1 March 2010}} On the other side of the town, on Ramesh’s tip Mama and his gang enter the residence of the NRIs, at the same time the Ismail bhai gang after sniffing out their whereabouts go into the NRI's house at night to seek their revenge and restore Ismail bhai’s image.
+4207	B	Mama and gang mistakenly kidnap Rochak.
+4208	O	Ismail bhai and gang return from their mission failing as usual.
+4209	B	Rochak finds out the mastermind behind the kidnapping and bribes the guard and warns Pranai of his cousin’s intentions.
+4210	O	Mini Mo  is a Hong Kong resident living in Japan.
+4211	O	She suffers from depression, low self-esteem and a binge eating disorder – the result which sees her suffers from extreme obesity.
+4212	O	A failed suicide attempt causes her to meet Fatso , a Hong Kong salesman working in Japan who, too, like her, is obese.
+4213	O	Mini sticks with Fatso everywhere and Fatso, after being vexed by her initially, discovers the reason behind her depression.
+4214	O	Mini cannot forget her former boyfriend, Kurokawa, who is now a world-famous pianist.
+4215	O	Ten years ago, the two had pledged to meet at the foot of Tokyo Tower on the night of their break-up.
+4216	O	Mini is fearful of meeting Kurokawa in her present size.
+4217	O	Touched by her story and her sweet nature, Fatso promises to whip her back into shape.
+4218	O	After trying desperate means of losing weight , Mini finally sheds pounds.
+4219	O	But Fatso finds his funds running low.
+4220	O	To earn enough to finance Mini's weight-loss programs, he opens a boxing gig on the streets allowing on-lookers to punch him to vent their pent-up frustrations.
+4221	O	He next enrolls Mini on an expensive weight-loss program, which proves to be very successful.
+4222	O	Mini regains her former slim and pretty look.
+4223	O	On the night of her reunion with Kurokawa, Fatso drops Mini off at Tokyo Tower and she meets up with former beau under the gazing eyes of the local media.
+4224	O	The pair are interviewed by a local network, but Mini notices another broadcast featuring Fatso's street boxing gig.
+4225	B	She finally realizes how much Fatso has sacrificed himself for her and is moved to tears.
+4226	I	Turning to apologize to Kurokawa, she leaves hastily.
+4227	B	Months later, Mini publishes a bestseller on dieting, and finds a slimmed-down Fatso carrying her book in a park.
+4228	O	The two kiss, promising never to leave each other again.
+4229	O	After a man called Janne living in Lapland in Northern Finland fails to acquire a digital television adapter for his wife from the local utility store due to not reaching it before closure time, he sets out with his two friends in the middle of the night to get one by any means necessary.
+4230	O	He sets up a late rendezvous with his father-in-law who owns an electronics store in Rovaniemi, several hundred kilometers away.
+4231	O	Nothing is naturally ever simple and along the way, the trio end up having several comedic misadventures.
+4232	O	The movie is about the final nine months of Gary Gilmore's life.
+4233	O	In April 1976, Gilmore, 35, was released from prison after serving 12 years for robbery in Indiana.
+4234	O	He was flown to Utah to live with Brenda Nicol, a distant cousin of his who tries to help him find work.
+4235	O	Gilmore soon meets and becomes romantically involved with Nicole Baker, a 19-year-old widow with two young children.
+4236	O	Despite his efforts to reform himself, Gilmore's self-destructive behavior leads to him getting into fights, stealing items from stores and abusing drugs.
+4237	O	After Nicole breaks up with him, he murders two men in two separate robberies.
+4238	O	Gilmore is turned in by his cousin and is sentenced to death.
+4239	O	Gilmore becomes a national media sensation after he fights to have his execution performed as soon as possible.
+4240	O	On January 17, 1977, Gilmore is executed by the method he chose, firing squad, making him the first person to be judicially executed in the United States since Luis Monge died in the Colorado gas chamber June 2, 1967.
+4241	O	The plot revolves around a young man who prefers a lonely life.
+4242	O	He begins to a stalk a television anchor named Pavana and starts interacting with her through his cell phone the number of which changes frequently.
+4243	O	Pavana mysteriously gets help from some unknown person whom she can not identify .
+4244	O	With many incidents like this, Pavana feels that the person who is speaking with her is actually in love with him.
+4245	O	She also decides to meet him and reveal her intentions of marrying him.
+4246	B	The movie takes a sudden turn after the heroine comes to know about a secret of her stalker.
+4247	O	http://www.nowrunning.com/movie/5987/kannada/psycho/1891/review.htm
+4248	O	In 1911, a willful and determined man from peasant stock named Charles Saganne  enlists in the military and is assigned to the Sahara Desert under the aristocratic Colonel Dubreuilh .
+4249	O	Saganne attracts the attentions of Madeline , the daughter of the regional administrator.
+4250	O	In the Sahara, Saganne earns the respect of the Arabs, including Amajan, an independent warrior.
+4251	O	After several campaigns, Saganne travels to Paris on a diplomatic mission.
+4252	O	After having an affair with a journalist in Paris, Saganne returns to Africa, where he leads a valliant defense against Sultan Omar.
+4253	O	He is awarded the Grand Cross of the Legion of Honour, and marries Madeline.
+4254	O	The onset of World War I puts his success and happiness at risk.
+4255	O	{{cite web}} .
+4256	O	An American agent, Carl Steelman  joins a Nazi spy ring to expose the identities of double agents.
+4257	O	He works for the FBI but was born in Germany and speaks fluent German.
+4258	O	In Berlin, Steelman meets and falls in love with Helga Lorenz , a member of the German underground.
+4259	B	He later has to betray the girl to the Gestapo, to avoid exposing himself.
+4260	B	He does, however, later manage to rescue her and see that she arrives in England safely.
+4261	O	Steelman is sent on a mission about a U-boat and sent to the United States to attack it.
+4262	B	His cover is eventually blown but he successfully escapes off the coast of Long Island and later gives testimony in a court trial, bringing the spies to justice.
+4263	O	Henry Creedlow is a man who has always tried to fit in society.
+4264	O	He keeps his mouth shut, follows the rules, and does what he is supposed to do.
+4265	O	But one morning, he wakes up to find his face is gone, and it has been replaced by a white featureless mask.
+4266	O	All the years of acquiescence have cost him the one thing he can't replace: his identity; now he's a blank, outside as well as in, an anonymous, featureless phantom.
+4267	O	Bent on exacting revenge on those who bullied him, he explodes, deciding that he isn't going to follow the rules anymore.
+4268	O	The film follows Kristi Jones  who, along with her gang, take part in Mafia-run street fights to earn money for her sister's college education.
+4269	O	Kristi's sister hopes to become a doctor and pay for Kristi's education.
+4270	O	Meanwhile, an underground fighter by the name of "Stingray"  is left by his wife, Anna, and vows to find her.
+4271	O	Stingray has suffered from abandonment issues since early childhood and this new trauma triggers a psychotic break from reality.
+4272	O	He begins to kidnap women who resemble his ex-wife, and subsequently tortures them and gouges their eyes out before returning their bodies to the crime scene.
+4273	O	Kristi's sister becomes one of the victims, so Kristi tracks down Stingray with the help of police officer Nick DiMarco , who might just be falling for her, alongside her sister's psychiatry tutor Jennifer  and Nick's partner Mike .
+4274	B	They eventually track down Stingray, who has kidnapped Jennifer, and fight in a warehouse where he escapes after shooting and killing Mike.
+4275	B	Jennifer's injuries, though relatively minor, require that she be admitted to the hospital where she is again kidnapped by Stingray who is impersonating a doctor.
+4276	O	Kristi and Nick chase him to a storage area where, in an infamous scene, the three do battle, mostly through hand-to-hand combat.
+4277	O	Stingray is bested by the pair, having both eyes gouged out in the process.
+4278	O	The final scene shows with Kristi and her friends visiting her late sister's resting place to inform her that Stingray has finally been defeated.
+4279	O	It is revealed that Kristi has somehow enrolled her former gang in college to give them a chance at a better life, and that Kristi has also been enrolled in college by Nick.
+4280	O	The film ends with the group engaging in an impassioned four way high-five.
+4281	O	Bloody Mary Killer
+4282	O	After a series of lion dances in the opening minutes, Wong Fei Hung and his once-rival, now friend, find themselves and their martial arts schools pitted against a rival school which uses a kung fu expert Master Shan from the north to do their dirty work, although the expert doesn't realize he is being evil .
+4283	O	After his friend Chu-Ying's brother is beat up in a brothel, Fei Hung goes to the rival school to confront them and Master Shan.
+4284	O	There is also a mass kung fu “war” in a local theater which is the second highlight of the film, the first being an excellent fight in an alley between Fei Hung and Master Shan.
+4285	O	This may be the only role in which Wang Lung Wei as the hero from the north isn't a villain.
+4286	O	He fights Wong Fei Hung but once he discovers that he has been tricked by the bad school, he refuses to help them anymore.
+4287	O	Sven Persson , who owns a textile company in Estonia, hires Nikolaus Lehman  to take care of local gangsters who are attempting to pressure Persson into paying 'protection' money.
+4288	B	To Persson's surprise and shock, Lehman takes care of the problem by killing the gangsters and demands a share of the company's profit.
+4289	O	A threatened Persson seeks out his old friend and police officer Johan Falk , who has been assigned a desk job as a disciplinary action by his superiors.
+4290	O	Falk realizes that the police can't do anything to protect Persson and his family, and seeks out a security company run by Mårtenson  and Pernilla .
+4291	O	They agree to help Persson and Falk is offered a job at the company, which he quickly accepts.
+4292	O	In a village of xaréu  fishermen, whose ancestors came as slaves from Africa, persist old mystic cults connected to candomblé.
+4293	O	The arrival of Firmino, a former inhabitant who moved to Salvador, running away from poverty, transforms the peaceable panorama of the place, and polarizes tensions.
+4294	O	Firmino is attracted to Quota, but he is not able to forget Naína who, on her part, likes Aruã.
+4295	O	Firmino orders dispatch against Aruã, that isn’t attained, in opposite to the village that sees the cut net, impeding the fishing.
+4296	O	Firmino stirs up the fishermen to revolt against the owner of the net, coming to destroy it.
+4297	O	Policemen arrive at the village to control the equipment.
+4298	O	In his fight against exploitation, Firmino argues against the master, mediator between the fishermen and the owner of the net.
+4299	O	A fisherman convinces Aruã of fishing without the net, since his chastity would make him a protected man of Iemanjá.
+4300	O	The fishermen are successful in their piecework, under the leadership of Aruã.
+4301	O	Naína reveals her impossible love for Aruã to an old black woman.
+4302	B	In his defeat against mysticism, Firmino convinces Quota of taking away Aruã’s virginity, and consequently breaking the religious enchantment that makes him a protected man of Iemanjá.
+4303	I	Aruã takes the bait.
+4304	O	A storm announces the “barravento”, the violent moment.
+4305	O	The fishermen leave for the sea, two of them die, Vicente and Chico.
+4306	O	Firmino denounces Aruã’s loss of chastity.
+4307	O	The Master reneges.
+4308	O	The dead bodies are guarded, and Naína accepts to make the ritual, so she can marry Aruã.
+4309	B	He promises the marriage, but before he decides to leave for the city to work and to earn money for the purchase of a new net.
+4310	O	In the same place where Firmino arrived at the village, Aruã leaves for the city.
+4311	O	Robert Syverton , who once dreamed of being a great film director, recalls the events leading to an unstated crime.
+4312	O	In his youth, he saw a horse break its leg, after which it was shot and put out of its misery.
+4313	O	Years later, in 1932, he wanders into a dance marathon about to begin in the shabby La Monica Ballroom, perched over the Pacific Ocean on the Santa Monica Pier, near Los Angeles.
+4314	O	He is recruited by MC  Rocky  as a substitute partner for a cynical malcontent named Gloria , when her original partner is disqualified due to an ominous cough.
+4315	O	Among the other contestants competing for a cash prize of $1500 are Harry Kline , a middle-aged sailor; Alice , a would-be Jean Harlow with delusions of grandeur, and her partner Joel , an aspiring actor; and impoverished farm worker James  and his pregnant wife Ruby .
+4316	O	Early in the marathon the weaker pairs are eliminated quickly, while Rocky observes the vulnerabilities of the stronger contestants and exploits them for the audience's amusement.
+4317	O	Already frayed nerves are exacerbated by the theft of one of Alice's dresses and Gloria's displeasure at the attention Alice receives from Robert.
+4318	O	In retaliation, she takes Joel as her partner, but when he receives a job offer and departs, she aligns herself with Harry.
+4319	O	Weeks into the marathon, in order to spark the paying spectators' enthusiasm, Rocky stages a series of derbies in which the exhausted remaining contestants, clad in track suits, must race around the dance floor, with the last three couples eliminated.
+4320	B	Harry suffers a fatal heart attack during one of these, and an undeterred Gloria lifts him on her back and crosses the finish line.
+4321	I	It is clear that Harry dies as Gloria drags him.
+4322	O	Alice, witnessing this at the end of her rope, suffers a breakdown and is taken away.
+4323	O	Robert and Gloria, now without partners, once again pair up.
+4324	O	Rocky suggests the couple marry during the marathon, a publicity stunt guaranteed to earn them some cash in the form of gifts from supporters such as Mrs. Laydon .
+4325	B	When Gloria refuses, he reveals the contest is not what it appears to be on the surface.
+4326	I	Numerous expenses will be deducted from the prize money, leaving the winner with close to nothing.
+4327	I	Shocked by the revelation, the couple drops out of the competition.
+4328	O	Distraught and despondent, Gloria confesses how empty inside she is.
+4329	O	She tells Robert that she wants to kill herself, but when she takes out a gun and points it at herself, she cannot pull the trigger.
+4330	O	Desperate, she asks Robert, "Help me."
+4331	B	He obliges.
+4332	O	Questioned by the police as to the motive for his action, Robert responds: "They shoot horses, don't they?"
+4333	O	This final line of dialogue, echoing the film's title, is the "coup de grâce": the "blow of mercy."
+4334	O	In committing assisted suicide, Robert is found guilty of murder and sentenced to be executed.
+4335	O	His fate is not explicitly stated or depicted, but it is suggested through the film's use of flash-forwards and symbolism.
+4336	O	The marathon continues with its few remaining couples, including James and Ruby.
+4337	O	The eventual winners are never revealed.
+4338	O	The film centers on a young student who has disappeared in Greece.
+4339	O	When his friends search for him they notice that wherever he has been a number of murders have taken place.
+4340	B	They find their friend under the spell of a beautiful vampire, whose blood-sucking methods include the use of S&M sex.
+4341	B	Believing that they have killed her, the group return to Great Britain, unaware that their friend is now a vampire.
+4342	O	Graeme Willy and Clive Gollings  are two British comic book enthusiasts and best friends who have traveled to the United States to attend the annual San Diego Comic-Con International and to take a road trip in their RV to visit sites of major extraterrestrial importance.
+4343	B	When stopping for something to eat they meet two rednecks and when Graeme laughs with them they start tormenting him.
+4344	O	They leave quickly and dent the rednecks' truck.
+4345	B	At night, along the highway, they notice lights following them.
+4346	B	Wrongly thinking the lights to be from the rednecks' dented truck they speed up, but it's actually a car that passes them and then crashes.
+4347	B	They investigate the damaged car, and discover an alien named Paul , who is in desperate need of help.
+4348	O	Although shocked by the appearance of Paul, Graeme agrees to give Paul a ride, but Clive  is displeased about not being consulted about the idea.
+4349	O	Later, United States Secret Service Agent Lorenzo Zoil  arrives at the site of the crashed car and informs his mysterious female superior, called the "Big Guy", over the radio that he is closing in on Paul, and she recommends using local law enforcement as back-up.
+4350	O	She then recruits two inept rookie agents, Haggard  and O'Reilly , to aid in his mission, without informing them about the nature of their target.
+4351	O	Zoil assures the Big Guy he can handle the problem himself, but the rookies are employed anyway.
+4352	O	Graeme, Clive and Paul pull into an RV park run by Ruth Buggs , a Christian fundamentalist, and her over-bearing father, Moses .
+4353	B	The trio bond around their camp grill and Paul reveals that since he was captured by the government, he had been advising them in all manner of scientific and sociological achievements.
+4354	I	Having divulged everything that he knows, Paul has outlived his usefulness as a receptacle of knowledge, thus his captors intended to surgically remove Paul's brain and harvest his stem cells, in an attempt to harness his physical abilities .
+4355	B	With the help from a friend inside Area&nbsp;51, Paul sent an SOS to his home planet and was escaping to rendezvous with them.
+4356	B	The next morning, Paul intentionally reveals himself to Ruth during a theological discussion which turns into an argument, and the trio are forced to kidnap her and make a hasty escape.
+4357	B	Moses sees Paul while the alien is trying to collect Clive's passport , and, believing him to be a demon, grabs his shotgun and chases after them in his truck.
+4358	B	Paul shatters Ruth's faith by sharing his knowledge of the universe via a telepathic link; at first horrified, Ruth suddenly becomes eager to sin, which her father had raised her to fear doing.
+4359	O	She initially does not trust Paul, but he heals her left eye, in which she was blind from the age of four.
+4360	O	When the foursome stop at a bar to rest, Ruth tries to make a phone call to her dad, but Zoil answers, as part of the operation to capture Paul.
+4361	O	At the end of the phone call, in which Ruth gives no information, she runs into the rednecks, who show an ill-received interest in her.
+4362	O	She evades them, and informs Graeme and Clive they need to leave.
+4363	O	At this point, the rednecks run into the men again, and a fight starts.
+4364	O	Moses is also at the bar, and he sees Ruth, but notices her eye.
+4365	B	As he is so stunned, he fails to react and loses track of the trio as they dash for the RV.
+4366	O	The rednecks chase them down, but Paul appears outside the RV.
+4367	O	The two rednecks faint and they drive away.
+4368	O	Later that night, Paul, Graeme, Ruth and Clive sit down together near an RV park.
+4369	O	Ruth falls asleep but goes back to the RV.
+4370	O	In the morning, Graeme and Clive find it difficult to hide Paul from a busy town.
+4371	O	Paul goes into a comic book store with Clive as Graeme goes to pick up Ruth.
+4372	O	Paul has to pose as a statue there while they wait.
+4373	B	Meanwhile, Ruth was asked questions by Agent Zoil, but lied and said she knew nothing of a one-eyed girl or two British "nerds".
+4374	B	She and Graeme then drive into town to pick up Clive and Paul, but Paul had been exposed after he was caught by O'Reilly.
+4375	O	Clive and Paul jump into the RV and narrowly escape the town; Haggard and O'Reilly report to Zoil.
+4376	O	The rookies are asked to return to the base, but they want to catch the alien themselves.
+4377	O	Moses is also in town, still trying to steal Ruth back, so he chases the RV.
+4378	O	Clive and Graeme stop to buy fireworks at a shop but end up stealing them after Clive realizes they have no more American money.
+4379	B	Paul eventually reveals his intention to return to Tara Walton , a girl whose dog he crashed his ship on in 1947 and who subsequently saved his life, who is now an old woman.
+4380	O	After spending her life being ridiculed for what she said she saw, Tara is grateful to see that Paul exists.
+4381	O	She turns her gas cooker on to make tea, but is interrupted by Haggard and O'Reilly on one side of the house, and Zoil on the other.
+4382	B	As the motley crew escapes and drives off with Paul, O'Reilly shoots at them, and the gas ignites, destroying Tara's house and killing O'Reilly.
+4383	O	A winded Zoil attempts to follow, but Haggard takes off first, shooting at Moses, running him off the road and catching up to the RV.
+4384	B	However, due to an error in judgement, Haggard accidentally drives off a cliff and is killed, leaving Zoil as the last remaining agent in pursuit.
+4385	O	He reassures the Big Guy that he will have Paul within an hour, but she declares herself tired of waiting, and informs Zoil that she has ordered a military response.
+4386	O	When Paul, Graeme, Clive, Ruth and Tara arrive at the rendezvous, they set off a signal and wait.
+4387	B	Eventually, eerie orange lights show up over the surrounding trees, and everyone believes that it is Paul's rescue ship.
+4388	B	However, it is an army helicopter, with the Big Guy  on board.
+4389	B	As she and three troops move to shoot Paul, Zoil arrives, and it is revealed that he was Paul's inside contact who helped him to escape.
+4390	O	Zoil disarms the men, but is shot in the shoulder by the Big Guy.
+4391	O	Tara punches out the Big Guy, but Moses appears with his shotgun and mortally wounds Graeme while aiming at Paul.
+4392	B	Paul heals him and collapses, briefly appearing to be dead before he quickly recovers; Moses proclaims this to be a miracle from God.
+4393	B	The Big Guy regains consciousness, but is immediately crushed by the arriving alien ship.
+4394	B	Paul begins to depart and informs Tara that she is coming with him to live a better life.
+4395	O	He bids farewell to his friends, hoping to meet them again one day.
+4396	B	Two years later, Graeme, Clive, Ruth and O'Reilly, who is revealed to have survived the explosion, are shown again at the Comic-Con convention, where Graeme and Clive are promoting Paul, their new hit novel.
+4397	O	The old Santa Claus  has seven days to find the new Santa Claus  and pass the torch to him.
+4398	O	The only problem is the new Santa Claus is a curmudgeon who lost his wife and his will to live.
+4399	O	He works as a reporter for The Chicago Sun Times, which is a throwback to Yes, Virginia, there is a Santa Claus, and has to rediscover the joy of Christmas.
+4400	O	At the last minute, he realizes what is important and becomes the new Santa Claus.
+4401	O	The film tells the story of Vincent, a middle-aged man who is laid off after having spent more than 11 years working for a prestigious consulting firm.
+4402	O	Unable to admit to his family that he has been fired, the unemployed executive continues to pretend he is going to the office every day.
+4403	O	In reality, Vincent spends his time aimlessly driving the highways of France and Switzerland, reading papers, or sleeping in his car.
+4404	O	As the movie progresses, the protagonist invents more and more elaborate lies, throwing himself into a vicious spiral of deceit.
+4405	O	To sustain his bourgeois lifestyle, Vincent sets up an investment scam and is eventually enlisted into smuggling by career thief Jean-Michel.
+4406	O	The 132-minute long film ends when Murielle , discovering her husband's "life of lies," attempts to bring him back into the realm of reality.
+4407	O	The final ambiguous scene leaves this to the viewer to decide.
+4408	B	Before the church holiday celebrating St. Jorgen, the thief Korkis  escapes from prison and mingles with the gathering celebrants.
+4409	O	He sees the large amounts of money being made by those hosting the celebration, who are mainly clergy.
+4410	O	Korkis cannot refrain from getting involved in this venture.
+4411	O	Together with an accomplice  they conceive and realize a way to fraudulently extract at least a small part of the money flowing into the hosts' coffers.
+4412	O	The film begins in a police station.
+4413	O	Several people, including high school senior Sue Snell and gym teacher Ms. Desjarden, are being interviewed by a detective about the disappearance of high school senior Carrie White.
+4414	O	The film then flashes back to one week before the prom at Ewen High School.
+4415	O	The popular girls at school constantly harass Carrie, with Chris Hargensen being especially vicious.
+4416	B	After gym class, Carrie has her first period in the shower room and panics.
+4417	I	The other girls swarm around the shower and taunt her.
+4418	I	Hearing the commotion, Ms. Desjarden comes into the shower, and finds Carrie lying by the drain in a fetal position as the other girls hound her.
+4419	I	As she comforts the terrified girl, Carrie asks her if she is dying, revealing she had no knowledge about menstruation and thought she was bleeding to death.
+4420	O	Later, the school principal determines that Carrie should go home to calm down after the incident.
+4421	O	When the principal repeatedly mispronounces her name, Carrie snaps and screams out her name.
+4422	B	Suddenly, the principal's desk moves several inches in the opposite direction.
+4423	O	While Carrie is getting her things, she discovers someone spray-painted "Plug it up" on her locker, and it's filled with tampons.
+4424	O	On her way home, Carrie is accosted by a pre-teen boy on a bicycle.
+4425	O	With no warning, his bike smashes into a tree, throwing the boy to the ground and breaking his arm.
+4426	O	When she reaches home, Carrie's fanatically religious mother, Margaret White, receives the phone call from school.
+4427	O	Margaret considers menstruation a sign of sexual sin, and locks Carrie in her "praying closet" as punishment.
+4428	O	The next day, Ms. Desjarden notifies the girls that they are to have 50 minutes' detention in the gym every day for a week for their bullying.
+4429	O	If they skip the detention, they face three days' suspension and banishment from the prom.
+4430	O	Chris storms out in protest, but none of the other girls follow her.
+4431	O	At the same time, Carrie researches "miracles" in the library to understand what has been happening to her.
+4432	O	Eventually, she finds out about telekinesis, an unusual gift that enables the carriers to move or control objects with their minds.
+4433	O	After Chris' father John Hargensen, a lawyer, unsuccessfully attempts to get her prom ban rescinded, Chris enlists her boyfriend Billy Nolan to get revenge on Carrie.
+4434	O	At the same time, Sue, trying to atone for tormenting Carrie in the locker room, asks her popular boyfriend Tommy Ross to take Carrie to the prom instead of her.
+4435	O	After some hesitation, Carrie agrees.
+4436	O	That evening, Carrie tells her mother about the prom invitation; Margaret flies into a rage and forbids her to go.
+4437	O	Carrie uses her powers to finally confront her mother, and Margaret seemingly gives in.
+4438	O	As prom approaches, Sue helps Carrie prepare for the big event.
+4439	B	Chris and one of her cronies, Tina Blake, overhear their plans and plan revenge.
+4440	O	Chris and Billy kill a pig at Irwin Hinti's farm and gather up its blood.
+4441	O	On the day of the prom, Margaret begs Carrie to stay home and ask God for forgiveness, but Carrie uses her powers to throw her mother out of the room.
+4442	O	Tommy comes to pick Carrie up for the prom on a limousine, impressed by her makeover into a beautiful young woman.
+4443	O	As the prom progresses, more people begin to accept Carrie.
+4444	B	Tina manages to switch the ballots for prom king and queen for fraudulent ones that declare Carrie and Tommy the winners.
+4445	B	As Tommy and Carrie take their place on stage, Carrie notices something red dripping on her arm and looks up, seeing a bucket of pig's blood placed above the stage.
+4446	I	Chris, who has been hiding with Billy backstage and has become extremely hesitant, pulls the rope, sending a wave of blood on Carrie, with some hitting Norma and Tommy.
+4447	O	The duo run away, letting go of the rope.
+4448	B	The bucket falls on Tommy's head, killing him.
+4449	B	Carrie goes into a shock-induced trance, and loses control of her telekenesis.
+4450	I	She locks everyone inside the gym and drops several spotlights on the floor.
+4451	I	The sparks set the gym ablaze, causing a mass panic.
+4452	I	As Tina screams in horror, Carrie crushes her to death with a basketball board.
+4453	I	Ms. Desjarden manages to get a few kids into a vent, where they make their escape.
+4454	I	Carrie opens up all the sprinklers, then causes the scoreboard to fall, electrocuting everyone else on the floor.
+4455	I	Carrie leaves the burning gym, locking the doors behind her and leaving almost all of the students and staff to burn to death.
+4456	I	As she makes her way back to town, she brings the destruction with her, nearly obliterating the adjoining neighborhoods.
+4457	I	Chris and Billy, witnessing the destruction from Billy's truck, encounter Carrie.
+4458	I	Billy attempts to run her over, all the while as Chris tries to stop him, but Carrie stops it and sends it slamming into a tree, killing them both.
+4459	O	Once Carrie gets home, she takes a bath to wash off all the blood.
+4460	O	She finally snaps back to herself, and doesn't appear to remember what happened.
+4461	O	Margaret, now completely insane, calls Carrie a witch and attempts to drown her in the tub.
+4462	B	Carrie begins to lose consciousness, but uses her last ounce of strength to mentally stop her mother's heart, killing her.
+4463	O	During the disastrous aftermath of the prom, Sue goes out looking for Carrie and finds her near death in the bathtub with her mother's dead body nearby.
+4464	B	Sue manages to revive Carrie with rescue breathing and hide her in the ruins of the school while the furor quiets down.
+4465	O	About a week later, Sue agrees to sneak Carrie out of town to somewhere in Florida.
+4466	O	As the two drive off into the rainy night, Carrie has a nightmarish vision of her mother, who warns her that "sin never dies".
+4467	O	She wakes up and Sue asks her if she had a bad dream.
+4468	O	When she looks at her she has transformed to Chris and lunges at her.
+4469	O	Carrie wakes up from her nightmare and Sue asks her if she wants to stop for a moment.
+4470	O	Carrie sighs, and tells Sue to keep driving.
+4471	O	The film is set within a harness racing fraternity and explores the conflict between urban and rural values through the medium of an evolving relationship between father and son.
+4472	O	The main character in the film, Hoggy, abandoned his wife and son ten years earlier to establish himself in an alternative lifestyle, living in a caravan and caring for his horses.
+4473	B	The world gets turned upside down by the arrival of his teenage son, who has a prison sentence hanging over him.
+4474	O	Billy has lived his life on an inner-city housing estate, and in his lifestyle theft and drugs are the norm.
+4475	O	Using dramatic seasonal changes within the horse-trainer's environment the film follows the development of this fragile relationship.
+4476	O	Both father’s and son's value systems are tested, with dramatic consequences.
+4477	B	The US Navy nuclear-powered attack submarine USS Jimmy Carter is attacked by a mysterious underwater object that stalks and disables the Seawolf-class super-sub with a powerful electromagnetic pulse.
+4478	I	The underwater Arctic research complex Hubris witnesses the attack and reports a rapid rise in the temperature of the Polaris Trench which threatens to melt the ice cap and flood the world's land surface.
+4479	B	At an emergency United Nations scientific conference, Hubris director Dr. Ann Fletcher is dismissed when she urges caution and her archrival Dr. Chomsky pushes through a far more aggressive plan to deal with the crisis.
+4480	B	When Chomsky's plan fails and contact with the Hubris complex is lost, Dr. Fletcher is asked to participate in a follow-up expedition, which also includes Chomsky, by her ex-husband, Navy Captain Andy Raines.
+4481	B	Once at the North Pole, the expedition finds that the Hubris complex is completely intact, but its personnel have been incinerated.
+4482	O	Based on the book with the same title, Eiffel I'm in Love tells the story about a teenage girl, Tita, who led a perfect life.
+4483	O	she had a lovely family, a patient boyfriend and 2 best friends who are always by her side.
+4484	O	However, her mother was overly protective towards her and she is not allowed to go out.
+4485	O	Her life completely changes when her parents good friend and his son, Adith, came from France to stay with them.
+4486	O	Tita was supposed to pick both of them from the airport.
+4487	O	Adith was very cold to Tita from the start, however, her parents saw him as a reliable man and trust him to take care of their daughter.
+4488	O	The film retells the haunting legend about The Bell Witch of Adams, Tennessee, a historically documented haunting that took place in the early 19th century.
+4489	O	The film is described as a love story turned tragic when entangled with the legendary haunting of the Bell Witch.
+4490	O	After stumbling across an ancient burial , brothers John Jr. and Williams Bell bring a strange curse home to their family causing their father, John, and sister, Betsy, to experience phantom attacks in the night and strange visions during the day.
+4491	O	In 1970, political journalist Richard lives with Penny but is having an affair with actress Dee.
+4492	O	The two woman meet and become friends.
+4493	O	Odile  meets a man named Franz  in an English language class.
+4494	O	She has told him of a large pile of money stashed in the villa where she lives with her aunt, Mme.
+4495	O	Victoria and a man named M. Stoltz in Joinville, a Parisian suburb.
+4496	O	Franz tells his friend Arthur  of the money – and his nascent romance with Odile – and the two hatch a plan to steal it.
+4497	O	Meanwhile, Franz and Arthur try to seduce Odile.
+4498	O	Ultimately, Arthur wins Odile, and they spend the night together.
+4499	B	Arthur's uncle learns of their plot and wants a cut of the money.
+4500	O	Franz, Arthur, and Odile now must commit the robbery the night before they had planned, the night they knew M. Stoltz would be away from home.
+4501	B	Moreover, Mr. Stoltz grows suspicious, and he hides the money and changes the locks.
+4502	O	When they arrive, Franz and Arthur tie up Mme.
+4503	O	Victoria and lock her in an armoire.
+4504	B	They only find a small amount of cash in the house, and when they open the armoire, to interrogate Mme.
+4505	I	Victoria about the rest of the money, they find that she is dead.
+4506	B	Franz, Arthur, and Odile flee the scene at once, until suddenly, Arthur declares he will return to the home, to verify that Mme.
+4507	O	Victoria is in fact dead.
+4508	O	This is a ploy: Arthur knows where the rest of the money is hidden, and he plans take it for himself.
+4509	B	But on the highway, Franz notices Arthur's uncle heading in the direction of the villa; he and Odile turn around to follow.
+4510	I	There, they witness Arthur's being shot by his uncle and with his final breath, Arthur shoots his uncle in return.
+4511	I	Moments later, M. Stoltz arrives, gathers his money strewn on the ground.
+4512	O	Mme.
+4513	B	Victoria – believed dead – suddenly rushes out of the house.
+4514	O	Odile and Franz drive off with a small stack of money from the robbery.
+4515	O	Odile, crestfallen, declares, "I'm disgusted with life."
+4516	O	The two decide to flee to South America, and the narrator declares his story has ended here, "like in a pulp novel," and promises a technicolor sequel chronicling Odile and Franz's tropical adventures.
+4517	O	The film, with a similar plot to High Noon, tells the story of Dan Ballard ([[John Payne  and Rose Evans  who are about to be married when Marshal Fred McCarty  and his deputies ride into town looking for Ballard.
+4518	O	McCarty accuses Ballard of having murdered his brother and has come to arrest him.
+4519	O	At first, the townspeople are on Ballard's side, but gradually they turn against him, especially when they believe that he has killed the town sheriff .
+4520	O	Ballard tries to prove his innocence and expose McCarty .
+4521	O	Kenji is a lonely librarian in the Japan Foundation in Bangkok.
+4522	O	Kenji's most notable obstacle is his self-absorbed brother, Yukio, a yakuza, or Japanese gangster.
+4523	O	Yukio fled from Japan to escape the wrath of his employer, with whose daughter he had had sex.Last Life in the Universe, English Sub, 13:18 Yukio's friend Takashi suggests that if it were his daughter, he would have the despoiler killed, but Kenji's brother laughs this warning off.
+4524	O	Yukio frequents a club where he can enjoy the attention of a bunny-eared hostess, a local girl named Nid.
+4525	O	Nid's sister, Noi, is furious at her sibling for having slept with her boyfriend, Jon.
+4526	O	One day in the library, Kenji spies on Nid, clad in a school girl's uniform.
+4527	O	Soon after, he discovers that his brother has hidden a pistol inside a teddy bear.
+4528	B	He is about to shoot himself when Yukio is slain by Takashi, who was apparently hired by Yukio's employer.
+4529	B	(During the library scene where Kenji first encounters Nid, a hanging poster for the Takashi Miike film [[Ichi the Killer  Takashi sees Kenji, who appears hopeful at his impending death, but suddenly Kenji shoots and kills the assassin.
+4530	O	Not long after that, Kenji is about to jump off a bridge when Noi and Nid, driving past, have an argument.
+4531	O	Noi throws Nid out of the car, then reconsiders.
+4532	B	Nid, distracted by Kenji sitting on the railing of the bridge, is struck by another car and dies.
+4533	O	Kenji and Noi, both having lost a sibling, form a tentative friendship.
+4534	O	The introspective Kenji asks the extroverted Noi if he can stay with her, unwilling to spend time with the two corpses in his apartment.
+4535	O	Noi agrees, and invites the fussy Japanese man into her disastrously unkempt beachside home.
+4536	O	As Kenji begins cleaning, Noi prepares to leave for Japan to further her career.
+4537	B	Surreal elements creep into the film; Noi sees the house magically cleaning itself, while Kenji watches Noi transform into her temptress sister.
+4538	B	Jon is slain, and Kenji apparently escapes out the window.
+4539	B	Released from prison In Illinois after serving 2 years and 3 months for carrying a concealed weapon, professional thief and bank robber Earl Macklin  is told by his girlfriend Bett  of his brother's execution by the Outfit.
+4540	B	After pressing information from a hitman he overpowers, Macklin, while heisting a mob poker game, discovers that a bank in Kansas he and his brother robbed was a "front" for the Outfit, who, having killed his brother, now have a contract out on him.
+4541	O	Macklin teams up with old partner Cody  and starts to hit the Outfit to accrue $250,000 compensation he feels he's due for his brother's murder.
+4542	B	Promised the pay-off, but then double crossed by the Outfit's Godfather figure , Macklin and Cody decide to topple the whole organization by invading his well-guarded home and killing him.
+4543	O	Sarah's  co-worker gets pregnant which means Sarah could have a promotion.
+4544	O	Mean while her boyfriend Matt  is pulling pranks.
+4545	B	Sarah then finds out she too is pregnant.
+4546	O	At the doctor's office, a lady gives her a card and tells her the Lord will give her three visions.
+4547	O	Megan  revels her story about her abortion.
+4548	O	Sarah Collins is considering an abortion.
+4549	O	Before she makes her final decision, she had all three visions causing her to think about the impact on her future.
+4550	O	The Us Now website describes the project as an examination of the role of the internet, and more specifically Web 2.0 in facilitating direct public governance without the need for politicians.
+4551	O	The film tells the stories of the online mass collaboration projects such as Mumsnet, CouchSurfing, Slice the Pie and My Football Club whose self-organising structures may "threaten to change the fabric of government.
+4552	O	"{{Cite web}}
+4553	O	{{Main}} The movie of Rosewood relates the historical events of a January 1923 race riot in Rosewood, Florida, in which whites attacked blacks and burned the town down.
+4554	O	A mentally unstable white woman, Fanny Taylor, claims to have been beaten by a black man.
+4555	O	Historical accounts note that this was never proven.
+4556	O	The movie shows a white man, not Fanny’s husband, in her bedroom where they have sex.
+4557	O	Shortly after he finishes, he prepares to go back to work.
+4558	B	She gets upset and hits him inciting him to beat her.
+4559	O	Some black workers outside heard the events but did nothing.
+4560	O	When they told about it, their account of a white man beating Fanny was not believed.
+4561	O	Singleton presents it as looking as if Fanny was covering up her cheating on her husband by blaming it on a black man.
+4562	O	The white residents readily believe Fanny's account, demonstrating the power of racial stereotyping and fears.
+4563	O	The black residents of Rosewood quickly become targeted by the white males of nearby Sumner, Florida and others who arrive for a fight, including members of the Ku Klux Klan.
+4564	O	Mobs formed swiftly.
+4565	O	The movie features the fictional character of Mann, played by Ving Rhames.
+4566	O	Mann is a WWI veteran who is traveling around in search of land.
+4567	O	He meets and falls in love with a woman in Rosewood named Beulah or "Scrappie" and has stayed there.
+4568	O	After Fanny tells her story of rape, Mann leaves town.
+4569	O	He is afraid of being lynched as a suspected stranger.
+4570	O	After the whites started generally attacking and killing blacks, all of the blacks fled from Rosewood or were killed.
+4571	O	First the women and children fled, followed by men who survived.
+4572	O	People left their homes and land and all of their possessions behind to get away from the murderous white men that raided their town .
+4573	O	Some white men who lived in Rosewood helped black people escape from the mob.
+4574	O	Railroad conductors smuggled people out of town on the rail cars that ran nearby.
+4575	O	In the movie, Voigt as Wright asks the train conductors to pick up the women and children.
+4576	O	Other blacks took refuge in white people’s homes, including Wright's.
+4577	O	Racism was shown by the mob's avoiding Wright's house but burning down those of blacks.
+4578	O	They did not bother with known white houses.
+4579	O	Although it was dangerous for them to do, some white men like Wright protected blacks from death.
+4580	O	In the movie, the mob believed James Carrier held information about the escaped convict Jesse Hunter.
+4581	O	Wright let the Sheriff take Carrier, because the officer said he only wanted to question him.
+4582	B	When Carrier said he didn't have any information, he was shot immediately by one of the mob.
+4583	O	Wright gets upset and the mob accuses him of being soft on blacks.
+4584	O	The scene shows that most of the white men didn't agree with what was going on, but were too afraid to face the mob.
+4585	O	The movie portrayed towns near Sumner trying to prevent the violence from spreading.
+4586	O	At one point the men of Sumner were following the trail of some men.
+4587	B	But when they get to the border between their town and the next one over, white men stopped them.
+4588	I	They protected their black citizens, saying they are law abiding and peaceful, and Singleton demonstrated that not everyone agreed with the riot.
+4589	O	As word spread to the federal government and national newspapers, the media splintered in its portrayal of events.
+4590	O	Some portrayed the murder at Sylvester Carrier's as appropriate to stop the black men from arming.
+4591	O	They relied on rumors and fear.
+4592	O	Southern white newspapers explained mob's actions as the way to avenge the rape of Fanny and keep blacks in their place.
+4593	O	The Afro-American newspapers encouraged blacks and praised them for staying behind to defend their homes and property.
+4594	O	Officially the death toll was eight people total, two whites and six blacks.
+4595	O	Other accounts by survivors and the Afro-American newspapers were of a higher toll.
+4596	O	The movie portrayed the newspapers as contributing to the riot; men came from neighboring towns and even states to put down the riot.
+4597	O	At the end of the movie, a narrative states that some blacks and one white testified as witnesses in court in the a 1990s suit of survivors against the state for its failure to protect the people of Rosewood.
+4598	O	This was followed by a state investigation and report.
+4599	O	Florida was the first state to pay reparations to survivors and their descendants for a racial riot.
+4600	O	The story is that of a conniving countess  coming between a gay sculptor, Claude Zoret , and his bisexual model and lover, Mikaël , ultimately leading to Zoret's death in a raging storm at the base of a statue of Mikaël as the mythological Icarus.
+4601	O	A music video made for the group Hoba Hoba Spirit and set in a psychiatric hospital.
+4602	O	A new arrival is brought into the hospital.
+4603	O	He can think of nothing other than escape.
+4604	O	This Moroccan patient is schizophrenic and is representing the Moroccan youth, who feels disappointed and dreams to leave their country
+4605	O	Ham and Ex have been sent to the fire station by their mother Lizzie so Uncle Beans can babysit them.
+4606	O	Ham and Ex have an ambition of becoming firefighters and play around with their Uncle's fire engine and equipment.
+4607	O	Annoyed by their fiddling around, Beans has them seated on a bench, but when his back is turned, Ham and Ex accidentally set off the fire alarm, waking the other firemen, only to realise on their return it was a false alarm.
+4608	O	Beans has Ham and Ex grounded in the sleeping quarters.
+4609	B	Once he's left, Ham and Ex jump out of their beds and down the fire pole.
+4610	I	Then they get in the fire engine and drive off through the station wall into the street, to Beans' horror.
+4611	O	Beans runs after them as they clumsily crash and bump their way around the city.
+4612	O	Finally they drive back to the station and hop back into bed just as Beans returns.
+4613	O	He notices they appear to be asleep before he can belt them.
+4614	O	As Beans exits the room, Ham and Ex toss a fireman's boot at him.
+4615	O	Entirely fed up with their bad behaviour, Beans drags them to one end of the bed and spanks them.
+4616	O	Joe Davis Sr. owns a big nightclub called the Diamond Horseshoe.
+4617	O	He is visited by his son Joe Jr. who is a medical student.
+4618	B	Joe Jr. tells his father that he wants to be in show business, much to his father's disapproval.
+4619	I	Nevertheless, Joe Sr. gives his son a job at his club where Joe Jr. then becomes smitten with Bonnie Collins; the club's headlining act.
+4620	O	Joe Sr. is spending too much time worrying about his son that he starts to neglect his own girlfriend Claire.
+4621	O	Claire promises to give Bonnie a mink coat if she pretends to like and go out with Joe Jr., so that Joe Sr. will pay more attention to her.
+4622	B	Things take a complicated turn when Bonnie actually does fall in love with Joe Jr. and they get married, again much to his father's disapproval.
+4623	O	Jack Murphy , a hardened, antisocial LAPD detective, frequently escapes the harsh reality that his ex-wife  has become a stripper and his career is going nowhere by drinking.
+4624	B	His world is turned upside down, however, when he is framed by ex-convict Joan Freeman  for putting her in prison earlier in his career.
+4625	I	Freeman murders the detective's ex-wife and begins killing off his associates while framing him for the crimes.
+4626	I	The same police force he works for places him under arrest with Arabella McGee , a petty thief he locked away.
+4627	B	Murphy escapes from jail while still handcuffed to McGee and they pursue the real killer.
+4628	O	In Passaic, New Jersey, the declining "Be Kind Rewind" VHS rental store owned by Mr. Fletcher  is due to be demolished to make way for high-end development  unless he can find the money to renovate his building, despite his claims that jazz pianist Fats Waller was born in that building .
+4629	O	Mr. Fletcher leaves on a trip for several days to join friends and memorialize Waller, leaving his only employee, Mike , to tend to the store.
+4630	O	Before leaving Mr. Fletcher cautions Mike to keep his paranoid and klutzy friend, Jerry , away from the store.
+4631	B	After attempting to sabotage a nearby electrical substation, believing its energy to be melting his brain, Jerry becomes magnetized, and when he enters the store the next day, he inadvertently erases all the VHS tapes in the store .
+4632	O	Mike quickly discovers the disaster, and is further pressed when Miss Falewicz , Mr. Fletcher's friend, wants to rent Ghostbusters.
+4633	O	To prevent her from reporting a problem to Mr. Fletcher, Mike comes up with an idea: as Miss Falewicz has never seen the movie, he proposes to recreate the film using himself and Jerry as the actors and cheap special effects hoping to fool her.
+4634	O	They complete the movie just in time when another customer asks for Rush Hour 2.
+4635	O	Mike and Jerry repeat their filming, enlisting the help of Alma , a local woman, for some of the parts.
+4636	B	Word of mouth spreads through Miss Falewicz's nephew  of the inadvertently hilarious results of Mike and Jerry's filming, and soon the store is seeing more requests for such movies.
+4637	O	Mike, Jerry, and Alma quickly pass off the movies as being "sweded", insisting the films came from Sweden and thus able to demand long wait times and higher costs for the rental.
+4638	O	Soon, to meet demand, Mike and Jerry enlist the locals to help out in making the movies, using them as starring roles in their films.
+4639	O	When Mr. Fletcher returns, intent on converting the store to a DVD rental outlet, he quickly recognizes that they are making more money from the sweded films than from normal rentals, and joins in with the process.
+4640	B	However, the success is put to a halt when two court bailiffs  arrive, insisting the sweded films are copyright violations, and seize the tapes and the store's assets, crushing the tapes with a steamroller.
+4641	O	Without any money to renovate the building, Mr. Fletcher gives up hope, and is forced to reveal to Mike that he made up the character of Fats Waller.
+4642	O	Mr. Fletcher is given a week to evacuate the building before it will be razed.
+4643	O	Jerry, with the help of the local townspeople, convinces Mr. Fletcher and Mike to give one last hurrah and put together a documentary dedicated to the fake life of Fats Waller, and the two quickly warm up to the idea.
+4644	O	On the day the building is scheduled for demolition, Mr. Fletcher invites all the locals to watch the final film.
+4645	O	In his eagerness to start the show due to the presence of the demolition crew waiting to start the job, Jerry accidentally breaks the only TV the store has, but a nearby DVD store owner loans them his video projector, allowing them to show the movie on a white cloth placed in the store's window.
+4646	B	As their film ends, Mr. Fletcher, Mike and Jerry exit the store to find a crowd has gathered to watch the film through the window, including the city official and wrecking crew, and they are given a rousing applause by the gathered crowd.
+4647	O	The final fate of the store is left ambiguous.
+4648	O	Films that were erased and recreated are referred to as having been sweded.
+4649	O	These remakes are unedited with only a single take per scene.
+4650	O	The tapes are described as having come from Sweden as an excuse for higher rental fees and longer wait times.
+4651	O	Jerry fabricated the word "sweded" while arguing with Craig  and his gang.
+4652	O	In light of the theme of sweding, director Michel Gondry sweded a version of the trailer of the film, starring himself.
+4653	O	On the official website, users can engage in sweding, which puts their faces on the VHS cover of a movie.Matheson, Whitney.
+4654	O	USA Today.
+4655	O	Web watch.
+4656	O	Life section, page 3D.
+4657	O	December 11, 2007 The Be Kind Rewind YouTube channel also encourages filmmakers to create sweded versions of popular movies.YouTube - BeKindMovie's Channel The theme of sweding also relates to film history, in that the collectively made remakes represent social memories of films, and memories that arise through films.Retrieved on 2009-07-05 Kerr, John Finlay  "‘Rereading’ Be Kind Rewind : How film history can be remapped through the social memories of popular culture", Screening the past, Issue 24
+4658	O	After thief Alex Cardo  gets caught while stealing an ancient Jian in East Asia, he soon finds himself imprisoned and beaten.
+4659	O	One of the guards, Demon , is particularly upset by Alex's appearance and tortures him whenever he gets the opportunity.
+4660	B	Alex finds one friend and mentor in the jailhouse, Master Sun , who teaches him a superior fighting style called "Iron Hand".
+4661	O	When a "best of the best kumite" is to take place, Demon gets an invitation.
+4662	O	Now Master Sun and Alex need to find a way to let Alex take part in the kumite, too.
+4663	O	The final fight of the movie pits Alex and Demon together.
+4664	O	At first, and for a long time, Demon has the upper hand in terms of strength and fighting ability.
+4665	B	When Alex is down, he takes one last look at Master Sun and uses the "Iron Hand" against his opponent, severely damaging and defeating Demon.
+4666	O	Alex is the winner, and as part of deals previously made in the movie, Master Sun is freed from prison, and so is Alex.
+4667	O	The story starts at a harem , where the elderly overseer bids his young charges to read the story of Haroun al-Rashid  and his wife Sherazade , unfolding the film's plot in the process.
+4668	O	Sherazade, a dancer in a wandering circus owned by Ahmad  - whose troupe also includes Sinbad the Sailor and Aladdin, who have seemingly fallen on hard times -, had captured the attention of Kamar , the brother of caliph Haroun al-Rashid.
+4669	B	In his infatuation with her, and because of a prophecy which names her as the future queen, Kamar had attempted to seize the throne, but was captured and sentenced to slow death by exposure.
+4670	B	As Haroun visits his brother, for whom he feels pity, Kamar's men storm the palace and free their leader; outnumbered, Haroun is forced to flee.
+4671	I	He manages to get near the plaza where Sherazade's circus is performing and is spotted by the young acrobat Ali Ben Ali , who finds out his identity and decides to hide him in the cirus, confiding only in Sherazade .
+4672	O	Upon awakening from the wounds he had received in his flight, Haroun beholds Sherazade and instantly falls in love with her.
+4673	O	Meanwhile, Kamar, thinking that Haroun is dead, assumes the throne of Baghdad, but to his chagrin Sherazade is not to be found, and he orders the captain of his guard  to find her.
+4674	B	But then the scheming Grand Vizier Nadan  approaches the captain with the order to make Sherazade 'disappear', and upon finding them the captain decides to sell the troupe into slavery.
+4675	B	But due to a witness the captain is exposed, and in order to preserve his plans, Nadan first gets him to confess and then murders him.
+4676	O	Haroun, Sherazade, and the acrobats manage to escape the slave pens and flee to the border, where they are found by Kamar's army and taken to a tent city in the desert.
+4677	O	Kamar proposes to Sherazade, but she has in the meantime fallen in love with Haroun.
+4678	O	Also, Nadar recognizes the caliph and his affection for Sherazade, and he uses this knowledge to blackmail Sherazade into helping him in his scheme: in exchange for Haroun's freedom, she is to poison Kamar during the wedding ceremony, upon which Nadar would assume rulership for himself.
+4679	O	In secret, however, he plans to have Haroun killed once he has crossed the border.
+4680	B	Upon learning of this insidious scheme, Ali confides in his fellow performers, and they rush to free Haroun; then Haroun decides to free Sherazade with the help of the acrobats, while Ali is to summon the troops still loyal to him.
+4681	B	Haroun and the others are quickly captured, and Sherazade and the retainers learn of his true identity.
+4682	O	Kamar engages his brother in a sword fight, while Ahmad and the acrobats set the tents on fire; the arrival of Ali and the caliph's army triggers a massive battle with Kamar's men.
+4683	B	Finally, as Kamar prepares to deliver the deathstroke to Haroun, Nadar shows his true allegiance by assassinating Kamar personally.
+4684	B	But as he prepares to finish Haroun, Ahmad and Ali interfere, forcing him to flee.
+4685	B	But a spear thrown into his back stops him, and he dies in a burning tent; Haroun, Sherazade, their friends and the loyal subjects celebrate victory.
+4686	O	Sanjeev ([[Govinda  is a 40 year old man living in London with his parents .
+4687	O	He's still a virgin and sleepwalks in the nights.
+4688	O	Sanjeev's father seeks the help of his employee  and his nephews to help Sanjeev lose his virginity, but all efforts turn futile.
+4689	O	The family leaves for Manali, where Sanjeev gets married to Gauri , a girl much younger to him.
+4690	B	However, Gauri is up to childish pranks all the while, which results in Sanjeev getting into a physical relationship with a London based model who is in the town for photo shoot.Sanjeev thinks nobody can find the truth.
+4691	I	When Gauri discovers the truth, she gets a rude shock.
+4692	O	That brings about a change in her attitude.
+4693	O	Marquan Hunter  is a drug addict who is addicted to crack cocaine.
+4694	O	The film starts with her breastfeeding her baby in an abandoned squat.
+4695	O	As she lays the child down to leave, the other squatters tell her that she can't leave the baby there crying.
+4696	O	Khaila takes the child outside and hides him in a box in the trash so that she can go get high.
+4697	O	She promises to come back, puts a board over the box, and leaves.
+4698	B	The next morning, the trash is being collected and everything is thrown in the garbage truck, but at the last moment the workers see the baby lying in the box and the infant is taken to the hospital.
+4699	O	At the hospital, a social worker named Margaret Lewin , finds out that the baby was born addicted to crack cocaine and that his name is Isaiah.
+4700	O	She develops a strong bond with him and decides to bring him home to live with her husband and daughter.
+4701	O	In the meanwhile, Khaila wakes up and notices that her breasts are leaking milk but her baby is not there.
+4702	O	She runs to the garbage hysterical and starts rooting through the trash looking for Isaiah.
+4703	O	A bum comes out and tells her to leave saying that there had been enough ruckus that morning with police talking about dead babies.
+4704	O	After realizing what has happened, she leaves.
+4705	B	Later that night, she is arrested for shoplifting and enters a rehab program.
+4706	O	The film cuts to three years later and Isaiah has been officially adopted by the Lewins.
+4707	O	Khaila is clean and rents a room in an apartment.
+4708	O	She goes to a facility and meets her case worker who is teaching her to read.
+4709	B	While reading a book about a pregnant woman, she breaks down and confesses to her caseworker that she put her baby in the trash.
+4710	I	Khaila then learns through her caseworker that her baby is still alive, so they hire the lawyer Kadar Lewis  to contest the adoption.
+4711	O	A lengthy court battle ensues which quickly turns into a broader issue of race.
+4712	B	In the end, the court decides to give custody back to Khaila.
+4713	B	Isaiah fights when forced to leave the Lewins and doesn't adjust well to living with Khaila.
+4714	I	Khaila realizes that Isaiah does not consider her his mother eventually calls Margaret and tells her that she is going to let Isaiah live with them until he understands what's going on.
+4715	O	She states that all she cares about is Isaiah and she wants him to be happy.
+4716	O	Margaret and Khaila hug and walk in as Isaiah runs and embraces Margaret.
+4717	O	The two sit down and watch Isaiah play as the camera zooms out.
+4718	B	On a flight from Chennai to Delhi five passengers retrieve weapons hidden in the toilet and use them to hijack the plane.
+4719	I	An engine is damaged during the struggle with the pilots so they make an emergency landing at Tirupati Airport.
+4720	O	Government authorities arrive.
+4721	O	The hijackers demand {{INR}}100 Crore , release of their imprisoned leader Yusuf Khan , and a fresh aircraft for their escape.
+4722	O	National Security Guard Major Raveendra  recalls the loss of a valued comrade at the shootout when he captured Yusuf Khan, and regrets not killing the terrorist at the time.
+4723	O	He urges the government to allow a commando operation, but officials fear risking passengers' life, not trusting Raveendra's team.
+4724	O	The major is frustrated when the government vacillates and it seems that Yusuf Khan might be released.
+4725	O	Inside the flight the passengers fall into groups discussing their past lives and religion.
+4726	B	One of the terrorists becomes sentimentally attached to Afshana, a little girl returning to Karachi after her heart operation.
+4727	O	Another passenger frequently irritates the terrorists with bitter questions about their motives, in which he is supported by Jagdeesh, a retired army colonel.
+4728	B	Time passes and tensions rise, until one of the passengers  attempts an escape but is shot down by a terrorist who warns the authorities to act soon.
+4729	O	Raveendra's colleague Nawaz Khan  discovers that the missing cleaner who prepared the toilet of the flight before its departure has been identified by Tamil Nadu Police.
+4730	O	Ravi and Nawaz go to find the cleaner in the hope of getting information about the nature of weapons that were left for the hijackers.
+4731	B	After a chase in Red Hills they capture the man, who confesses his involvement in the plot and also gives vague information about the size of the weapon that he placed in the toilet.
+4732	I	Ravi and Nawaz deduce that it must be a plastic explosive.
+4733	B	On his return Ravi is told the government has decided to release Yusuf Khan.
+4734	B	But Yusuf dies in an accident while being transported to the airport.
+4735	O	Ravi asks the officials to be very confidential about this information so that they can plan an assault without the terrorists' knowledge.
+4736	O	However, a reporter disguises himself as an assistant to a senior police official, and so gets close to the aircraft.
+4737	O	He records footage of the flight through his pen camera and overhears two officials talking about the accident of Yusuf Khan in the restroom.
+4738	B	The terrorists get alarmed.
+4739	B	Despite attempts to contain the news, the media leak it and one of the terrorists kills a passenger , seeking proof that Yusuf is alive, failing which one passenger will be killed every half-an-hour.
+4740	B	Ravi later arranges for a scared civilian  to pose as Yusuf to make the terrorists believe that Yusuf is alive and getting treated at the hospital.
+4741	O	Meanwhile Ravi plans an operation to rescue the victims and christens it as Operation Garuda.
+4742	O	Through a cleaning lady he secretly sends a mobile phone onto the plane in a food packet, so he can exchange information with Colonel Jagadeesh.
+4743	O	Ravi plans to shoot the terrorists during their transit to a new flight by asking the passengers to bend down when they get a signal.
+4744	O	The firing succeeds and four of the five terrorists are killed.
+4745	O	The last terrorist who was affectionate to the little girl is killed with help of two passengers .
+4746	O	The plastic explosive is found in the girl's bag.
+4747	O	Ravi throws it away which explodes.
+4748	O	The operation ends with the Prime Minister appreciating Ravi and the passengers heading to their destination.
+4749	O	The Catastrophe is a surreal drama/mystery short film that uses dreamlike imagery, a Bob Dylan song and a poem by Forough Farrokhzad to paint a portrait of Dominicus Pike, the quintessential modern man.
+4750	O	The movie follows Dominicus as he traverses the American midwest, plying his trade as a cigar salesman, and his dawning realization that he may have sold his soul to a multinational corporation.
+4751	O	The main story of The Catastrophe is interwoven with narrative threads involving the collapse of Dominicus’ relationship with his girlfriend, Carlie, and his discovery of what may be a murder plot involving one of his clients, Mohammad “Double Apple” Akbari.
+4752	O	Only life on the road alone makes it hard for Dominicus to distinguish where reality ends and dreams begin.
+4753	O	Julia , a young teacher for deaf children living in Savannah, Georgia.
+4754	O	Julia has horrid memories of her childhood, which was scarred by her sadistic twin sister Mary .
+4755	O	At the urging of her uncle, Father James, Julia visits Mary, suffering from a severe skin disease, in a mental institution.
+4756	O	The meet does not go well, and Mary vows to make Julia "suffer as she had suffered".
+4757	O	As their mutual birthday approaches, several of Julia's friends and neighbors begin to die gruesome deaths, some of which committed by a mysterious Rottweiler dog that has some sort of connection to Mary.
+4758	O	But is Mary really the killer?
+4759	O	Mausam is a dramatic love story of Dr. Amarnath Gill, who falls for Chanda, the daughter of a local healer, Harihar Thapa, when visiting Darjeeling for his medical exams.
+4760	O	Amarnath is called back and promises Chanda to return, though he never keeps his promise.
+4761	O	Twenty-five years later, he returns as a wealthy man and searches for Chanda and her father.
+4762	B	He learns that Harihar has died and that Chanda was married to a crippled old man.
+4763	I	She gave birth to a daughter, became insane and died.
+4764	B	Finding Chanda's daughter, Kajli, he sees that she closely resembles her mother and later discovers that after having been molested by her mother's brother-in-law, she ended up at a brothel.
+4765	O	Amarnath had no choice but to buy her from the brothel and he takes Kajli home and tries to change her into well refined woman to make up for what he did to Chanda.
+4766	O	Unaware that Amarnath is indirectly responsible for her mother's death, Kajli begins to fall for him.
+4767	O	Jimmy Hogan and his gang are caught robbing a post office.
+4768	O	Jimmy is given a choice to either go to reform school or work as a messenger boy for the post office as punishment.
+4769	O	Jimmy decides to be a messenger boy, and soon drags his pals into the job.
+4770	O	The kids eventually enjoy their jobs, especially when their new boss, Frances O'Neill, turns out to be quite attractive.
+4771	O	He feels that Bob is a much better match for Marge then a local gangster who has been spending too much time with her.
+4772	O	Pretty soon, Jimmy's brother Ed returns home from prison.
+4773	O	In a run-down neighborhood, Frank Castle wakes up and exits his van to get his laundry done.
+4774	B	On his way to the coin-op laundromat, he witnesses a street gang stop and confront three prostitutes before Goldtooth, the gang leader, takes one of them to a back alley and rapes her.
+4775	I	Despite hearing her screams from a distance, Frank minds his business and places his laundry in a washing machine.
+4776	B	Minutes later, a boy named DeShawn crosses through the neighborhood and is harassed by the gang while Goldtooth offers him an opportunity to sell drugs for them.
+4777	I	When DeShawn refuses, the gang members begin to mug him.
+4778	O	Frank walks to a liquor store across the street to get a bottle of Yoo-hoo.
+4779	O	There, a handicapped store clerk named Big Mike tells him that two years ago, he witnessed a similar situation and wound up crippled for confronting the gang.
+4780	B	Frank pays for the Yoo-hoo and buys a bottle of Jack Daniel's, which he uses to club the gang members.
+4781	I	After killing the thugs, he breaks Goldtooth's right arm and legs before asking him what the difference between justice and punishment is while pouring the whiskey on him.
+4782	O	He then pulls out a lighter and places it on the ground before returning to the laundromat.
+4783	O	The battered prostitute returns to the scene to pick up the lighter and set the gang leader on fire as Frank walks back to his van with his laundry.
+4784	O	DeShawn approaches him to return a t-shirt he dropped, but Frank tells him to keep it.
+4785	B	As Frank drives off, the boy unfolds the shirt to reveal the Punisher symbol.
+4786	O	Maggie is the only cow left on the Dixon Ranch after Alamida Slim  stole all the rest of Dixon's cattle.
+4787	O	Mr. Dixon sells Maggie to Pearl, a kind and elderly woman that runs a small farm called Patch of Heaven.
+4788	B	The local Sheriff arrives to tell Pearl that her bank is cracking down on debtors.
+4789	I	Pearl has three days to pay the bank $750, or her farm will be sold to the highest bidder.
+4790	O	Hearing this, Maggie convinces the other cows on the farm  to go to town to attempt winning prize money at a fair.
+4791	O	While the cows are in town, a bounty hunter named Rico  drops a criminal off and collects the reward.
+4792	O	Stating he needs a replacement horse to go after Alamida Slim while his own horse rests, he takes Buck.
+4793	O	When Maggie find out that the reward for capturing Slim is of exactly $750, she convinces the other cows to try to capture him to save Patch of Heaven.
+4794	O	That night, they hide among a large heard of steers, when Alamida Slim appears.
+4795	B	Before any of them can do anything, Slim begins a yodeling song which sends all the cattle  into a trance that causes them to dance madly and follow Slim anywhere.
+4796	O	Grace is able to bring Maggie and Mrs. Calloway back to their senses just before Slim closes the path behind him with a rockslide to stop Rico and his men from chasing him.
+4797	O	As Rico discusses with his men what his next move will be, Buck starts talking with Maggie, Grace, and Mrs. Calloway as old friends and miming actions.
+4798	O	This causes Rico to believe Buck is frightened by cows, and sends Buck back to the Sheriff.
+4799	B	Buck escapes, determined to capture Slim for himself to prove his worth.
+4800	B	Maggie, Grace, and Mrs. Calloway are left behind, but they meet a peg-legged rabbit named Lucky Jack, who leads them to the Slim's hideout mine.
+4801	B	At the mine, Slim reveals that he has been stealing all cattle from his former patrons.
+4802	O	When his former patrons can't support their land anymore, he buys the land when it is auctioned off, under the guise of the respectable-looking Mr. O'delay, using the very money he gets from selling the cattle he stole.
+4803	B	After arriving to Slim's hideout, the cows capture Slim.
+4804	I	They run off with Slim's accomplices and buyer in pursuit on a steam train.
+4805	O	Rico arrives.
+4806	B	When the chase stops, Rico is revealed to work for Slim.
+4807	O	Slim dons his O'delay costume and leaves the cows stranded in the middle of the desert with the train, while he goes to attend the auction.
+4808	B	However, the cows arrive using the train to the farm and expose Slim.
+4809	O	Slim is arrested by the police, and Patch of Heaven is saved by the reward money.
+4810	O	News Reporter Payal  and her camera-man have been assigned the task of interviewing the world's highest ranking criminal don, Devraj , which they accept.
+4811	O	In the process, Payal and Devraj fall in love with each other, much to the opposition of Bismillah , Devraj's guardian on one hand; and Police Inspector Amit , and Payal's brother Ravi  on the other.
+4812	B	What results is that Ravi gets killed; Devraj gets the blame, and is arrested.
+4813	I	Payal tesitifies against him, and Devraj is sentenced to be hanged.
+4814	B	When Bismillah finds about this plot tracks them down but Amit so as to save him and Payal kills him.
+4815	B	But Devraj escapes from custody, and begins to plot vengeance against his enemies, including Payal, as well as the real killer of Ravi.
+4816	B	As the story unfolds, it is revealed that Amit was the one who killed Ravi and joined Thakral to frame Devraj for it.
+4817	B	But Amit betrays Thakral and kills him.
+4818	B	He then takes Payal on a flight where Devraj tracks him down and kills him.
+4819	O	The story ends with Payal and Devraj getting married.
+4820	O	In the summer of 1943, after he is taken off combat operations for medical reasons, American SSgt John Patterson , an Army Air Force gunner, is billeted in the London home of the Duke of Exmoor  in London's Grosvenor Square.
+4821	O	He is befriended by the Duke and British paratrooper Major David Bruce , who has taken leave to contest a parliamentary by-election.
+4822	O	On a weekend visit to the duke's estate near Exmoor in Devon, Patterson meets the duke's granddaughter, Lady Patricia Fairfax , a corporal in the Women's Auxiliary Air Force, who is David's childhood sweetheart.
+4823	O	After a cool beginning based on cultural misunderstandings, they fall in love.
+4824	O	David is unaware of what is happening until the final night before the election, when it becomes clear to him during a party on the estate.
+4825	B	The next day, the duke learns that his estate has been appropriated by the American army for a base and that David has lost the election.
+4826	B	When Patterson realizes that Pat and David have long expected to marry, he contrives to obtain medical clearance to go back to combat duty.
+4827	I	David and Pat have an ugly showdown over Patterson, only to learn that he has gone back to war.
+4828	O	David realizes that Pat still loves Patterson and arranges for them to reunite.
+4829	B	Returning from a mission with heavy battle damage, Patterson attempts to help his pilot land their B-17 Flying Fortress at an emergency landing strip at Exmoor, but is killed when the bomber stalls as they manoeuvre to avoid crashing in the village.
+4830	O	The duke and his family mourn Patterson at a memorial service in the village church, while David takes off with his paratroop unit to parachute into France on D-Day.
+4831	O	Five years after the first film, Crown Princess of Genovia Amelia "Mia" Thermopolis  has just graduated from Princeton University's Woodrow Wilson School and is returning to Genovia with her bodyguard Joe  and beloved cat Fat Louie.
+4832	O	There, she will await her reign once her grandmother, Queen Clarisse , abdicates from the throne.
+4833	O	During Mia's 21st birthday party, she dances with all the eligible bachelors in hope of seeking a husband.
+4834	O	She happens to meet a handsome young gentleman  by accidentally stepping on his foot.
+4835	O	After saving her from a dysfunctional dance, the charming man introduces himself as Nicholas.
+4836	O	During the course of the night, Mia's tiara falls off and is caught by Parliament member Viscount Mabrey  who secretly plans to steal Mia's crown.
+4837	O	The next morning while Parliament is in-session, Mia explores the castle.
+4838	O	She stumbles upon a hidden room that allows her to secretly listen in on Parliament's session.
